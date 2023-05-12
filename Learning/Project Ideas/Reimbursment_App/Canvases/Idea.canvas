@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"c04d879baf7a7e22","x":-869,"y":-558,"width":250,"height":60,"color":"4","type":"text","text":"💻Excel Template "},
+		{"id":"3d6d0c4251834cb4","x":-878,"y":75,"width":250,"height":60,"color":"4","type":"text","text":"🧾Reciept "},
+		{"id":"fa468a54fda36472","x":-869,"y":291,"width":250,"height":60,"color":"5","type":"text","text":"📷Take Picture of reciept "},
+		{"id":"8a75d5f945499d28","x":-869,"y":-314,"width":250,"height":60,"color":"5","type":"text","text":"📲Upload to App "},
+		{"id":"e2faa287b255dcff","x":-469,"y":-157,"width":412,"height":58,"color":"2","type":"text","text":"⌨️Setup input details about where reciept details go "},
+		{"id":"b071fa2e0affa833","x":-898,"y":-578,"width":1880,"height":1125,"color":"1","type":"group","label":"Base Functionality"},
+		{"id":"93230420e49e7116","x":-880,"y":-1032,"width":400,"height":278,"color":"#ffffff","type":"file","file":"Project Ideas/Reimbursment_App/Notes/Canvas Guide.md"},
+		{"id":"814cfbf451ee1d87","x":-469,"y":467,"width":250,"height":60,"color":"2","type":"text","text":"📝Capture Details "},
+		{"id":"d83b527e4fed0115","x":-57,"y":105,"width":250,"height":60,"color":"3","type":"text","text":"📃Presses Export"},
+		{"id":"f9c11341768768ea","x":533,"y":107,"width":323,"height":117,"color":"6","type":"text","text":"Phone usews info from reciept and template settings to populate excel template and generate pdf with excel table and picture of reciept"},
+		{"id":"be68f06daf582de9","x":533,"y":-374,"width":250,"height":60,"color":"6","type":"text","text":"Save file to device"}
+	],
+	"edges":[
+		{"id":"1effae3cd55234c5","fromNode":"3d6d0c4251834cb4","fromSide":"bottom","toNode":"fa468a54fda36472","toSide":"top"},
+		{"id":"a7795747bbd8c5d4","fromNode":"fa468a54fda36472","fromSide":"right","toNode":"814cfbf451ee1d87","toSide":"left"},
+		{"id":"3ac2fd7a05f7b03c","fromNode":"3d6d0c4251834cb4","fromSide":"right","toNode":"814cfbf451ee1d87","toSide":"left"},
+		{"id":"47adee6258fde3bb","fromNode":"c04d879baf7a7e22","fromSide":"bottom","toNode":"8a75d5f945499d28","toSide":"top"},
+		{"id":"81c1ae0e5ce2b83a","fromNode":"8a75d5f945499d28","fromSide":"right","toNode":"e2faa287b255dcff","toSide":"left"},
+		{"id":"eb1865a1891a3d47","fromNode":"814cfbf451ee1d87","fromSide":"right","toNode":"d83b527e4fed0115","toSide":"left"},
+		{"id":"c3abc1549dcb9a41","fromNode":"e2faa287b255dcff","fromSide":"bottom","toNode":"d83b527e4fed0115","toSide":"top"},
+		{"id":"2f4ce0e1a11096ff","fromNode":"d83b527e4fed0115","fromSide":"right","toNode":"f9c11341768768ea","toSide":"top"},
+		{"id":"bcd0faf508fec0ee","fromNode":"f9c11341768768ea","fromSide":"right","toNode":"be68f06daf582de9","toSide":"left"}
+	]
+}

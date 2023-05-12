@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Master",
+      "path": "Work/Master.md"
+    },
+    {
+      "type": "file",
+      "title": "Work Files",
+      "path": "Work/Work files/Work Files.md"
+    }
+  ]
+}
