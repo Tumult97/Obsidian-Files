@@ -11,8 +11,12 @@
             "id": "7d454b58e232c199",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Discovery Bank.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discovery Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Discovery Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Discovery Bank.md"
+              }
             }
           }
         ]
@@ -148,6 +156,7 @@
   },
   "active": "7d454b58e232c199",
   "lastOpenFiles": [
+    "Honeymoon ideas.md",
     "Untitled.md",
     "Discovery Bank.md",
     "Ticket Template.md",
@@ -155,7 +164,6 @@
     "Work/Reviews/2023/Half 1/2023  - Part 1.md",
     "Work/Reviews/Reviews Master.md",
     "Work/Master.md",
-    "Honeymoon ideas.md",
     "Untitled.canvas",
     "Aeropinic Tower Build.md",
     "Work/Work files/Work Files.md",

@@ -4,4 +4,5 @@
 - Credit Card interest 
 - Benefits without vitality
 - benefits because of medical aid
+- TODO: add referral code
 - 
