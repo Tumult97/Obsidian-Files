@@ -247,8 +247,7 @@ This model extends the facility product source and hold all the facility data to
 
 ##### Limit Selection objects to request mapping
 
-
-
+![[Steps Data to Request Mapping.canvas]]
 
 
 
