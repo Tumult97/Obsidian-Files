@@ -245,12 +245,9 @@ export interface BulkApprovalLimitSwitchApplicationFacilityProductSource extends
 This model extends the facility product source and hold all the facility data to be updated and changed
 
 
-#### Modal Flow
+##### Limit Selection objects to request mapping
 
-##### Step 1
 
-1. *OnInit* - Customer facility structure is loaded into hierarchy structure
-2. User selects customer from 
 
 
 
