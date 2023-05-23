@@ -247,6 +247,10 @@ This model extends the facility product source and hold all the facility data to
 
 #### Modal Flow
 
+##### Step 1
+
+1. *OnInit* - Customer facility structure is loaded into hierarchy structure
+2. 
 
 
 
