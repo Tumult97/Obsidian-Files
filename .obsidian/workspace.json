@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 647.28,
-                  "y": 253.75000000000023,
+                  "x": 579.459097379579,
+                  "y": 238.82940142350768,
                   "zoom": -0.5444992689291637
                 }
               }
@@ -26,15 +26,19 @@
             "id": "3ee9fb4c4a4ddfd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 470,
+                  "y": 230,
+                  "zoom": -0.4072354075118689
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "431710b9906ba197",
+  "active": "3ee9fb4c4a4ddfd8",
   "lastOpenFiles": [
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Untitled.canvas",
