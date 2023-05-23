@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc72eb922fb1d2f4",
+        "id": "f0f6eb5b79844559",
         "type": "tabs",
         "children": [
           {
-            "id": "7d454b58e232c199",
+            "id": "baad532942f5a884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discovery Bank.md",
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discovery Bank.md",
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discovery Bank.md",
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discovery Bank.md"
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md"
               }
             }
           }
@@ -154,19 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d454b58e232c199",
+  "active": "baad532942f5a884",
   "lastOpenFiles": [
-    "Honeymoon ideas.md",
-    "Untitled.md",
+    "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
+    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+    "Pasted image 20230523133942.png",
+    "Work/Reviews/2023/Half 2/2023 - part 2.md",
+    "Pasted image 20230523113222.png",
+    "Pasted image 20230523100938.png",
+    "Pasted image 20230523100115.png",
+    "Pasted image 20230523095632.png",
+    "Pasted image 20230523095502.png",
+    "Work/Work files/System docs/Images/Pasted image 20230523095105.png",
+    "Work/Work files/System docs/Images/Pasted image 20230523094536.png",
+    "Work/Work files/System docs/Images/Pasted image 20230523094948.png",
+    "Work/Work files/System docs/Images/Pasted image 20230523093956.png",
+    "Work/Work files/System docs/Images",
     "Discovery Bank.md",
+    "Work/Work files/System docs/DCP",
+    "Work/Work files/System docs",
     "Ticket Template.md",
+    "Aeropinic Tower Build.md",
+    "Chloe Help.md",
+    "Name Question.md",
+    "().md",
+    "Work/Work files/Scripts/SQL Snippets.md",
+    "Work/Work files/Work Files.md",
+    "Work/Master.md",
+    "Honeymoon ideas.md",
     "Work/Reviews/2023/Half 1/Notes/JP Notes.md",
     "Work/Reviews/2023/Half 1/2023  - Part 1.md",
     "Work/Reviews/Reviews Master.md",
-    "Work/Master.md",
-    "Untitled.canvas",
-    "Aeropinic Tower Build.md",
-    "Work/Work files/Work Files.md",
     "Work/Work files/Templates/Gitlab Template.md",
     "Team Charter Showcase.md",
     "Covenant Tracker Calculations.md",
@@ -176,12 +194,6 @@
     "Work/Reviews/2023/Half 1/Notes/Janay Notes.md",
     "Work/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
     "Work/Reviews/2023/Half 1/Notes/Dane Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Josh Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Gideon Notes.md",
-    "Metrics Issue.md",
-    "().md",
-    "Test.md",
-    "Covenant Tracker Differences.pf.md",
-    "Work/Work files/Scripts/SQL Snippets.md"
+    "Work/Reviews/2023/Half 1/Notes/Josh Notes.md"
   ]
 }
