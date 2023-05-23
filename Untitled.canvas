@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"79f4b1cf326d4554","x":-480,"y":-260,"width":620,"height":380,"type":"text","text":"#### Step 1 Data\n\n|Field|Type|\n|---|---|\n|||"}
+		{"id":"79f4b1cf326d4554","x":-480,"y":-260,"width":760,"height":360,"type":"text","text":"#### Step 1 Data\n\n|Field|Type|\n|---|---|\n|selectedCifNumbers|`string[]`|\n|selectedFacilities|`BulkApprovalLimitSwitchApplicationFacilityProductSource[]`|\n|cifSelectionMax| `number`|\n|facilitySelectionMax| `number`|\n|cifSelectionLimited| `boolean`|\n|facilitySelectionLimited| `boolean`|"},
+		{"type":"text","text":"#### Step 2 Data\n\n|Field|Type|\n|---|---|\n|selectedCifNumbers|`string[]`|\n|selectedFacilities|`BulkApprovalLimitSwitchApplicationFacilityProductSource[]`|\n|cifSelectionMax| `number`|\n|facilitySelectionMax| `number`|\n|cifSelectionLimited| `boolean`|\n|facilitySelectionLimited| `boolean`|","id":"db28aa9f393664b3","x":-480,"y":140,"width":760,"height":360},
+		{"id":"ec01c20a0cba32a8","x":-480,"y":560,"width":760,"height":280,"type":"text","text":""}
 	],
 	"edges":[]
 }
