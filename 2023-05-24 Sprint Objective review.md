@@ -5,6 +5,12 @@
 - New section added
 - Limit switches saving with violated rules and facilities
 
+#### Outcome 
+
+TODO:
+- [ ] 
+- [ ] 
+
 ## Merge Request
 
 # Description
