@@ -8,4 +8,4 @@
 
 ## ` 11:20 - 12:00 `
 - The Line of Code That Crashed a Rocket - Ruby Auditorium
-- 
+
