@@ -38,3 +38,14 @@ Lunch
 
 ## ` 13:40 - 14:20 `
 
+|Name|Venue|
+|---|---|
+|Six Small Steps towards Continuous Delivery|Diamond Auditorium|
+|How we cut 20M daily API calls and saved $30k a month on our infrastructure|Amber|
+|Power Platform Integration with everyday Applications — A 4th Generation development Tool|Amethyst|
+|Ally beyond the theory: Integrating accessibility testing into your workflow|Ruby Auditorium|
+|Satellites are the future, are your space development skills up to date? [PRE-RECORDED]|Emerald Auditorium|
+
+
+## ` 14:30 - 15:10 `
+
