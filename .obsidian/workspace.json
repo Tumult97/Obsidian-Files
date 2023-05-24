@@ -8,37 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "431710b9906ba197",
+            "id": "89d022963b15841e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
-                "viewState": {
-                  "x": 579.459097379579,
-                  "y": 238.82940142350768,
-                  "zoom": -0.5444992689291637
-                }
-              }
-            }
-          },
-          {
-            "id": "3ee9fb4c4a4ddfd8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
-                "viewState": {
-                  "x": 470,
-                  "y": 230,
-                  "zoom": 0
-                }
+                "file": "DevConf stuff top attend.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
+                "file": "DevConf stuff top attend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
+                "file": "DevConf stuff top attend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas"
+                "file": "DevConf stuff top attend.md"
               }
             }
           }
@@ -173,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ee9fb4c4a4ddfd8",
+  "active": "89d022963b15841e",
   "lastOpenFiles": [
-    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
+    "DevConf stuff top attend.md",
+    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Reviews/2023/Half 2/2023 - part 2.md",
@@ -213,7 +195,6 @@
     "Side Quests.md",
     "Work/Reviews/2023/Half 1/Notes/Janay Notes.md",
     "Work/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Dane Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Josh Notes.md"
+    "Work/Reviews/2023/Half 1/Notes/Dane Notes.md"
   ]
 }
