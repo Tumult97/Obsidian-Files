@@ -82,3 +82,8 @@
 | Achieving Inclusivity Through Remote Work                  | Amethyst           |
 | Avian App Development: A Flock of Fun and Feathers         | Ruby Auditorium    |
 | Building a vaccine register on the Ethereum blockchain     | Emerald Auditorium |
+
+
+## ` 17:10 - 19:00 ` 
+
+**Drinks and networking**
