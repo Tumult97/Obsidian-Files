@@ -1,6 +1,6 @@
 
 ## ` 09:15 - 10:00 ` 
-- Keynote Make More stuff
+**Keynote Make More stuff**
 
 ## ` 10:30 - 11:10 ` 
 
@@ -24,7 +24,7 @@
 
 ## ` 12:00 - 12:50 `
 
-Lunch
+**Lunch**
 
 ## ` 12:50 - 13:30 `
 
@@ -48,4 +48,19 @@ Lunch
 
 
 ## ` 14:30 - 15:10 `
+
+| Name                                                                         | Venue              |
+|------------------------------------------------------------------------------|--------------------|
+| Emulators inside out                                                         | Diamond Auditorium |
+| End Procrastination Tomorrow! Doing things later can make your system better | Amber              |
+| ChatGPT in Action                                                            | Amethyst           |
+| Automated Canary Tests with Internal Users                                   | Ruby Auditorium    |
+| A Developers odyssey to overcoming fear, anxiety, and burnout                | Emerald Auditorium |
+
+## ` 15:10 - 15:40 `
+
+**Movement, Networking & Refreshments**
+
+
+## ` 15:40 - 16:20 `
 
