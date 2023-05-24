@@ -76,6 +76,7 @@ When on this step in the modal the credit paper can only have an application typ
 - Step 1 and 2 use an inherited base class since they host very similar logic
 - The modal container has 2 selection object that hold the selection data for step 1 and 2 which then feeds into step 3 and renders out
 - Step 3 has subscriptions that listen for data changes and rebuild the form every time data is manipulated
+- Step 3 collects data together and when transfer is clicked then it takes the data collected form all the inputs and aggregates them into a request
 
 
 #### Models
