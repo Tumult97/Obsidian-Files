@@ -64,3 +64,13 @@
 
 ## ` 15:40 - 16:20 `
 
+| Name                                                                   | Venue              |
+|------------------------------------------------------------------------|--------------------|
+| Becoming a Team Lead in Tech: Personal Experience and Practical Advice | Diamond Auditorium |
+| Smart watch Lobotomy                                                   | Amber              |
+| The Raging River                                                       | Amethyst           |
+| You'll never get rid of Legacy code: Why & what we can do about it     | Ruby Auditorium    |
+| How to get accepted to conferences: A panel discussion                 | Emerald Auditorium |
+
+## ` 16:30 - 17:10 `
+
