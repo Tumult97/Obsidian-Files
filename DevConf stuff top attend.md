@@ -28,3 +28,12 @@ Lunch
 
 ## ` 12:50 - 13:30 `
 
+|Name|Venue|
+|---|---|
+|An overview of software development at the SKA Observatory|Diamond Auditorium|
+|Devoops, I did it again|Amber|
+|From Zero to Hero: Growing a Software Development Apprenticeship Program From Concept to Success!|Amethyst|
+|The Clashes of the Titans - Usability vs- Security- Can They Live Together?|Ruby Auditorium|
+|Zen and the Art of Software Maintenance|Emerald Auditorium|
+
+## ` 13:40 - 14:20 `
