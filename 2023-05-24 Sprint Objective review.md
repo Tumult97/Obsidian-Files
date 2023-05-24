@@ -7,6 +7,10 @@
 
 #### Outcome 
 
+- change to remaining limit allowed and reverse to show remaining
+- remaining limit must reflect in real time
+- add minimum validation
+
 TODO:
 - [ ] 
 - [ ] 
