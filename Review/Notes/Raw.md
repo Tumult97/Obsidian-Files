@@ -94,3 +94,6 @@ Applying the 45-Minute Rule: Demonstrating the ability to troubleshoot and debug
 Understanding of Tech Stack: It's positive to note that you understand your tech stack well. Continue deepening your knowledge and staying updated with the latest advancements in your field. This will enable you to contribute effectively to projects and expand your versatility.  
   
 Upskilling by Creating an App: Your initiative in creating an app for the team charter demonstrates your commitment to upskilling and learning new aspects of your craft. This proactive approach to expanding your skill set is highly valuable. Keep seeking project-level opportunities to step out of your comfort zone and acquire new knowledge, both technically and through soft skills.
+
+# Responsibility to others
+
