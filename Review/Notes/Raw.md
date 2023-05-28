@@ -210,3 +210,10 @@ But that's okay. I also struggle with the business domain, especially BSnR. It i
 I've said that you don't know all the stakeholders by name, since you haven't really dealt with any credit managers or executives other than Bev, Neil and Jan. You will start to know other stakeholders once you start getting involved in bigger pieces of work. But as I have mentioned multiple times now, you don't have to do it alone.  
   
 We saw at a team lunch that you complained about problems with your relationship with your father to Jan. The conversation got quite intense and you became worked up a bit. I could see that Jan was getting uncomfortable. Yes, it's good to keep a conversation going, but Jan is our Stakeholder. We should try not mixing work with family matters. Perhaps in future, keep to light topics, or ask about our stakeholders and have them open up a conversation you can be part of.
+
+
+## Joshua
+I think you're still grasping the business domain and you're still trying to piece together what the customer is trying to achieve. I'd really like to see you put an effort here. Take the time to ask the right questions after you've done your investigation and research. Take the time to visit those confluence pages. Take the time to understand how the feature you're developing impacts the system. I see you rush to development and write really good code, but in order to best impact the client you need to understand the business domain. You need to understand the bigger picture.  
+  
+I think you've got really great potential. In order to realize this potential, take a step back and understand that you don't know everything and that you don't always have the answer. Listen to understand, and not to answer. I believe if you really work on this skill, aligned with other things I've mentioned above, you will be unstoppable and the customer will notice it more. Right now, this is really your weak point.
+
