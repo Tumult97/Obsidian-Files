@@ -23,33 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e402e912c4b75757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Notes/Additional comments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1191d8b8687344f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Notes/Outtakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Notes/Outtakes.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Notes/Outtakes.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Notes/Outtakes.md"
+                "file": "Review/Notes/Outtakes/Outtakes.md"
               }
             }
           }
@@ -186,10 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1191d8b8687344f",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Review/Notes/Outtakes",
     "Review/Review Action steps.canvas",
-    "Review/Notes/Outtakes.md",
+    "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Additional comments.md",
     "Review/Notes/Raw.md",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
