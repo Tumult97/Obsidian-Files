@@ -23,8 +23,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f9452eba7d072a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Notes/Outtakes/Outtakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "f9452eba7d072a4c",
   "lastOpenFiles": [
     "Review/Notes/Outtakes",
     "Review/Review Action steps.canvas",
