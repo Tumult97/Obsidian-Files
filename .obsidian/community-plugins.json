@@ -5,5 +5,8 @@
   "obsidian-enhancing-export",
   "table-extended",
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excel-to-markdown-table",
+  "markdown-table-editor",
+  "obsidian-excalidraw-plugin"
 ]

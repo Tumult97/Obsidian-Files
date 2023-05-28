@@ -169,14 +169,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c6fd1a89069201c4",
   "lastOpenFiles": [
-    "Pasted image 20230528092747.png",
     "Review/Review Action steps.canvas",
     "Review/Notes/Raw.md",
+    "Pasted image 20230528092747.png",
     "Review/Notes",
     "Review",
     "2023-05-24 Sprint Objective review.md",
@@ -199,7 +201,6 @@
     "Work/Work files/System docs/Images/Pasted image 20230523095105.png",
     "Work/Work files/System docs/Images/Pasted image 20230523094536.png",
     "Work/Work files/System docs/Images/Pasted image 20230523094948.png",
-    "Work/Work files/System docs/Images/Pasted image 20230523093956.png",
     "Work/Work files/System docs/Images",
     "Discovery Bank.md",
     "Work/Work files/System docs/DCP",
