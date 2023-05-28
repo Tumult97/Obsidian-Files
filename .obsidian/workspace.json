@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "22891a60c450d158",
+        "id": "b9534bdc523bb66a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9d7b7973f7b3152",
+            "id": "580f5b50c2fcf142",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-05-24 Sprint Objective review.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-24 Sprint Objective review.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-24 Sprint Objective review.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-24 Sprint Objective review.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -154,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9d7b7973f7b3152",
+  "active": "580f5b50c2fcf142",
   "lastOpenFiles": [
+    "2023-05-24 Sprint Objective review.md",
+    "Untitled.canvas",
     "Work/Work files/Templates/Gitlab Template.md",
     "Work/Work files/Work Files.md",
     "Work/Master.md",
     "Ticket Template.md",
-    "2023-05-24 Sprint Objective review.md",
     "DevConf stuff top attend.md",
     "New Text Document.txt",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
@@ -196,7 +202,6 @@
     "Warhammer.md",
     "Side Quests.md",
     "Work/Reviews/2023/Half 1/Notes/Janay Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
-    "Work/Reviews/2023/Half 1/Notes/Dane Notes.md"
+    "Work/Reviews/2023/Half 1/Notes/Wiehan Notes.md"
   ]
 }
