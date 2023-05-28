@@ -116,3 +116,79 @@ Lastly, don't hesitate to showcase your work through more demos, and remember to
 
 
 ## Janay
+Tristan, you are easily making excuses for why you don't attend meetings. For some of our important testing sessions, you were not there. We messaged you to join the meeting and when you eventually joined you used the excuse that "nobody told me that we are having this meeting". When we have important discussions as a team on discord, you are not there. You are also not really participating in important conversations. Yes, you are very sociable when we are not discussing ticket details, but if you are going to be working on a feature, such as Limit Switches, I would suggest asking the questions that you are unsure of when we have the backlog grooming. Start getting involved in team events and meetings. Start driving testing sessions when your or somebody else's work is being tested.  
+  
+It is also difficult to reach you during working hours at times.  
+You need to commit to your work hours. You are paid to work 8 hours a day and Entelect requires you to be available within core working hours: 09:00 AM - 15:00 PM. You regularly need to do something for your fiancé, or update your passport at home affairs, picking up your wedding ring, going to your personal bank, DURING work hours. This last office day, you just got up and left at 13:00 and then you didn't come back online to continue working with us. You did the same thing during some other office days as well.  
+You are not giving yourself a very good reputation, and I believe the whole team has recognized this. This alone could get you a warning from Entelect, so you NEED to work on being available, attending office days with your team (except if there is really an emergency) and staying online for your team to reach you. This has been mentioned in your previous review as well, but we have seen very little improvement.  
+If you leave your computer or your house during core working hours, keep your phone on you to respond to messages. This will be very important once you start working on customer queries. You will be required to have a sense of urgency and not let business wait for critical responses. We want you to step outside of that comfort zone of isolated development and start interacting with business. This obviously just needs a change in professionalism. Just please keep this in mind.  
+  
+You have a very negative attitude towards your work and people. At this last office day, you arrived there, greeting us in a disappointing sort of tone. Alex, a team lead from a different Standard Bank team, greeted you and asked how you were doing. But all you said to him was "I hate coming to the office". You did not even greet him back. This is extremely unprofessional and it reflects negatively towards the team. Try to at least show some level of respect when chatting to people at the Standard Bank office. You are only required to come to the office for ONE day each month. And you actually blamed our team lead for "forcing" you to go to the office. Nobody is forcing you. Yes I am also lazy to get up and drive to the office sometimes, but we all still do it, without complaining, to support the team and set a good example in front of our customers. I apologize for coming across harshly, but this needs to be said.  
+  
+Another important part of remote work is respecting the people in your Teams and Discord calls. Please mute your microphone when somebody else is presenting and there is background noise on your end. Sometimes on discord, you're not at your PC, but we can hear you speak to people in your house. We have asked you on several occasions to mute your microphone and you should try to make it a habit. And it has happened once or twice during standup with our business stakeholders or our testing sessions where we could hear you watching a YouTube video in the background. I understand that you suffer from ADHD, but try not working on other things during important meetings with our stakeholders or business demos. This obviously does not set a professional view of our team towards the customer. Remember, as part of a team, it's one for all and all for one. We take the blame for each other. Perhaps try concentrating on the meeting by taking notes of what everyone is saying. That's helped me a lot when I struggle to concentrate in meetings.  
+  
+One thing that I have noticed, is the lack of context you provide when you want to ask something. I joined Discord one morning and you just asked a question about a facilities table for staging something out of nowhere. No context. Take into consideration that not everyone knows what your mind is working on at any given moment. If somebody is asking you to repeat your question more that 2 times, know that they lack context, and then perhaps share your screen or draw them a diagram. It's always easier to understand something if you can see it in front of you.
+
+
+## Joshua
+I'm not preview to everything that happens on a daily, but from what I've seen, I think you've got a lot of growing to do here. When it comes to responsibility to others, it seems you're not all there. I've often seen you not being able to accept criticism for the work you're doing. When someone mentions that your work isn't meeting the demand or that your work has forgotten to take something into consideration, you tend to quickly point fingers or sometimes get defensive and mention that you don't have the full context. Now remember, all tickets sized have been groomed and sized accordingly with the team. This, therefore, means that all necessary context was provided upon sizing those tickets. Now, it's absolutely normal to forget, we're human. However, don't use this as an excuse to not go and find out more. As I mentioned above, reach out and look for documentation. Do your best to fully understand the task before rushing to development.  
+  
+Criticism towards your work seems to really hit you negatively. Your attitude seems to drop when someone says what you've developed is wrong. You shouldn't take this as a shot at your craft credibility, but rather see this as an opportunity to learn more about the business context of what you've developed and how it may impact another feature. See this as an opportunity to improve your system analysis skills.  
+  
+Remember in order for people to rely on you, you need to show that you're willing to take criticism and you're willing to improve immediately. We all get it wrong sometimes, and that's okay. Take the hit and get back up and show that you understand the urgency and the importance of your work.
+
+
+## JP
+```Markdown
+Doing well:  
+* Swiss knife  
+- You take on a multitude of tasks that often leads to touching many projects, such as the E&S notifiers feature and Covenant measurement date  
+# This shows you are able to handle any of the domains and able to context switch  
+# It also shows that you are comfortable with all aspects of the codebase; frontend, backend and DB  
+# It again proves your capability of maintaining/enhancing any of our projects  
+  
+* Team Application  
+- You have recently launched the team application which has our team charter and will continue to be enhance well done bud  
+# This will remind us of our agreed-upon values  
+# We can also use it to hold each other accountable  
+# It also allowed you to develop your programming skills
+```
+
+
+## Liam
+I think that you do a good job of communicating your progress on your work items, including when things have gone wrong. However, my advice to you would be to try to remain calm in situations where you feel like things have gone wrong in some way. I understand and can relate to the natural response to such situations.  
+  
+I don't believe that such situations are as personal as you believe them to be. For example, if you make a mistake which you feel has cost the team in some way, your natural reaction might be to assume that the rest of the team feels negatively towards you and is upset. That is not the case, though. It's not your job to not make mistakes. Everyone makes mistakes. We are all adults and we have all been around the block; things go wrong in software (often), and it's our job as a team to work together to resolve the issues that come up. The best thing we can do as a team is to all remain level headed in such situations, and simply do our best to avoid such mistakes in the future. I think you will otherwise end up wasting a lot of energy being too hard on yourself.
+
+
+## Wiehan
+Need Work:  
+Approach to Delivering Thoughts: While it's important to contribute valuable insights during meetings, consider refining your approach in delivering your thoughts to other team members. Strive for clarity and conciseness in your communication to ensure that your ideas are effectively conveyed and understood by others. Consider using appropriate examples or visual aids to enhance your message, if applicable.  
+  
+Timeliness and Estimation Follow-up: Pay close attention to timeliness and follow-up on estimation commitments. It's crucial to manage expectations by delivering work within agreed-upon timelines or proactively communicating any delays. Take the initiative to provide regular updates on the progress of your tasks to your senior peers to maintain transparency and accountability.  
+  
+Avoiding Blame Shifting: When faced with significant problems, it's essential to avoid shifting blame onto others. Instead, focus on problem-solving and collaborative resolution. Take responsibility for your part in any issues and work with the team to identify solutions and prevent similar problems in the future.  
+  
+Readiness and Proactivity: Strive to be consistently prepared and proactive in your work. Anticipate potential challenges or roadblocks and take preemptive measures to address them. Being proactive demonstrates initiative and a commitment to delivering high-quality work efficiently.  
+  
+Active Engagement and Presence: Ensure that you actively pay attention, engage, and maintain a presence during meetings or team discussions. Avoid multitasking or getting distracted by mobile devices, as it can hinder effective communication and collaboration. Give your full attention to the conversation and actively participate by listening and contributing when appropriate.  
+  
+Listening to Understand: Focus on listening to understand rather than listening to respond. Actively listen to your team members' perspectives and ideas, valuing their contributions. This approach fosters better collaboration, empathy, and mutual respect within the team.  
+Spreading Positivity: It's important to avoid perpetuating negative sentiments within the team. Be mindful of your language and attitude, striving to maintain a positive outlook even in challenging times. By promoting positivity, you contribute to a healthier and more productive team environment.  
+  
+Maintaining a Positive Outlook: During difficult times, maintain a positive outlook and inspire optimism within the team. Encourage and support your colleagues, fostering a sense of resilience and determination. Your positive attitude can help create a more motivated and cohesive team.  
+  
+Doing Well:  
+Team Building and Helping Hand: Your willingness to contribute to the team, regardless of your specific responsibilities, during times of crisis or when you can add value, is highly appreciated. Continue being a team player and offering assistance and support to your colleagues when needed.  
+  
+Not Overpowering Others: It's commendable that you do not overpower people with your own ideas. Balancing your contributions and respecting the input of others is crucial for maintaining a collaborative and inclusive team environment. Keep encouraging diverse perspectives and constructive dialogue.  
+  
+Supporting Struggling Team Members: Your efforts to support team members who are struggling or in times of need are praiseworthy. Continue offering your assistance, guidance, and empathy to help them overcome challenges and achieve their goals. This collaborative approach strengthens the team's bonds and fosters growth for everyone involved.  
+  
+Communication about Availability: It's great that you make it clear to others if you won't be available, informing them of your whereabouts and when you'll be accessible again. This level of transparency ensures smooth communication and helps manage expectations within the team.  
+  
+Alignment with Processes and Methodologies: Your alignment with the customer's chosen processes, methodologies, and delivery approach is commendable. Continue adhering to these standards to maintain consistency and meet customer expectations effectively.
+
+
+# Impact on Customer Success
+
