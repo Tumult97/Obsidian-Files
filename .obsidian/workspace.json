@@ -25,22 +25,12 @@
             }
           },
           {
-            "id": "73e057e4183182bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c6fd1a89069201c4",
+            "id": "e402e912c4b75757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Notes/Raw.md",
+                "file": "Review/Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Review/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Review/Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+                "file": "Review/Notes/Untitled.md"
               }
             }
           }
@@ -184,12 +174,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73e057e4183182bf",
+  "active": "e402e912c4b75757",
   "lastOpenFiles": [
     "Review/Review Action steps.canvas",
+    "Review/Notes/Untitled.md",
+    "Review/Notes/Raw.md",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw",
-    "Review/Notes/Raw.md",
     "Pasted image 20230528094219.png",
     "Pasted image 20230528093705.png",
     "Pasted image 20230528092747.png",
@@ -229,7 +220,6 @@
     "Team Charter Showcase.md",
     "Covenant Tracker Calculations.md",
     "Covenant Tracker Differences.md",
-    "Warhammer.md",
-    "Side Quests.md"
+    "Warhammer.md"
   ]
 }
