@@ -25,6 +25,16 @@
             }
           },
           {
+            "id": "73e057e4183182bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c6fd1a89069201c4",
             "type": "leaf",
             "state": {
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Notes/Raw.md",
+                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Notes/Raw.md",
+                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Notes/Raw.md"
+                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
               }
             }
           }
@@ -174,12 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6fd1a89069201c4",
+  "active": "73e057e4183182bf",
   "lastOpenFiles": [
+    "Review/Review Action steps.canvas",
+    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Excalidraw",
+    "Review/Notes/Raw.md",
     "Pasted image 20230528094219.png",
     "Pasted image 20230528093705.png",
-    "Review/Review Action steps.canvas",
-    "Review/Notes/Raw.md",
     "Pasted image 20230528092747.png",
     "Review/Notes",
     "Review",
@@ -201,7 +213,6 @@
     "Work/Work files/System docs/Images/Pasted image 20230523095632.png",
     "Work/Work files/System docs/Images/Pasted image 20230523095502.png",
     "Work/Work files/System docs/Images/Pasted image 20230523095105.png",
-    "Work/Work files/System docs/Images/Pasted image 20230523094536.png",
     "Work/Work files/System docs/Images",
     "Discovery Bank.md",
     "Work/Work files/System docs/DCP",
@@ -219,7 +230,6 @@
     "Covenant Tracker Calculations.md",
     "Covenant Tracker Differences.md",
     "Warhammer.md",
-    "Side Quests.md",
-    "Work/Reviews/2023/Half 1/Notes/Janay Notes.md"
+    "Side Quests.md"
   ]
 }

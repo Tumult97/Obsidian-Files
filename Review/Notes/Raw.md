@@ -217,3 +217,45 @@ I think you're still grasping the business domain and you're still trying to pie
   
 I think you've got really great potential. In order to realize this potential, take a step back and understand that you don't know everything and that you don't always have the answer. Listen to understand, and not to answer. I believe if you really work on this skill, aligned with other things I've mentioned above, you will be unstoppable and the customer will notice it more. Right now, this is really your weak point.
 
+
+## JP
+```Markdown
+Doing well:  
+* Getting shit done  
+- There's not been a task that you could not handle. It proves your capability once again  
+- You may take on more responsibility because of this. I want you to remember to slow down, analyse, learn and experiment  
+# Just because there's added pressure of more work and/or more difficult tasks does not mean you stop the things that can help you  
+# Learn how you work best and use that formula to assist you as you take on the added responsibilities  
+  
+Needs work:  
+* Attitude  
+- You may not know it but your words can come across as if you're putting the fault on others  
+- For example: "Gideon just dumped this on my lap, again". "I asked Janay but she's not responding to me". "That wasn't added to the ticket"  
+- I want you to shift your thinking. Why is Gideon handing over work, again? Who else may I ask, as Janay is busy? Should I know about this missing item, could anyone else know, did I analyse sufficiently?  
+- Yes, it's difficult in the moment but I want you to think about what you can do with the situation, at that moment, and try to find solutions  
+# The situation may be kak but by you trying to gain control you show your resilience and maturity  
+# You get creative and find other means to accomplish your goal  
+# You learn to adapt and you learn you can overcome, based on past experiences  
+# Don't be afraid to bring issues & possible ways to alleviate these issues at retros or stand-ups or even privately with Dane
+```
+
+
+## Liam
+I think that you've done a good job of having insight into when to ask for help from others when it comes to clarifying business logic. This shows maturity and that you are focused on delivering value to the customer. I have seen with your work that you also want to take full responsibility for your individual work items, and that you are willing to go the extra mile to get your work over the line. The team and the customer really appreciate your commitment.  
+  
+I think that you did an awesome job with the team charter; it's looking really good. Please keep up the good work and keep looking for areas of improvement, both in our code and in our processes.
+
+
+## Wiehan
+Need Work:  
+Preparedness for Meetings: It's important to come prepared for meetings to ensure productive discussions and effective decision-making. Take the time to review meeting agendas, gather relevant information, and be ready to contribute to the topics at hand. Preparedness demonstrates professionalism and a commitment to maximizing the value of collaborative sessions.  
+  
+Paying Attention in Meetings: It's crucial to pay close attention during meetings, even under challenging conditions. Minimize distractions and actively engage in discussions. If there are external factors affecting your ability to focus, try to find ways to mitigate them and ensure your presence and active participation in the meeting.  
+  
+Doing Well:  
+Openness to Work with the Client: Your willingness to work with the client and engage in collaborative efforts is highly commendable. Continue fostering a positive relationship with the customer and demonstrating a strong commitment to achieving shared goals. Your collaborative approach contributes to successful outcomes and strengthens customer satisfaction.  
+  
+Successful Demos: It's great to hear that your demos are going well. Effective demos are crucial for showcasing your work and highlighting its value to both the team and the customer. Keep up the good work in delivering engaging and informative demos that align with the customer's expectations.  
+Alignment with Customer's Goals: Your alignment with the customer and their objectives is commendable. Understanding how your deliverables serve the customer's needs and working towards achieving their goals demonstrates a customer-centric mindset. Continue striving to maintain this alignment and actively seek opportunities to add value and enhance the customer's experience.  
+  
+Focus on Making the Customer Look Great: Your focus on making the customer look great reflects a strong commitment to delivering exceptional results. By prioritizing the customer's success and satisfaction, you contribute to building long-lasting relationships and fostering a positive reputation. Continue putting the customer's needs first and going the extra mile to ensure their success.
