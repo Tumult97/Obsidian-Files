@@ -192,3 +192,21 @@ Alignment with Processes and Methodologies: Your alignment with the customer's c
 
 # Impact on Customer Success
 
+![[Pasted image 20230528094219.png]]
+
+## Gideon
+Tristan, I'd like to encourage you to become more involved in client sessions, such as grooming sessions, to help you better understand their needs and expectations. Your active participation can lead to more effective solutions and improved collaboration.  
+  
+Also, don't be afraid to raise your voice or express customer concerns when necessary. Open communication is crucial for successful outcomes, and sharing your perspective can be invaluable in addressing potential issues.  
+  
+Lastly, invest a few extra minutes in learning the client's domain. Gaining a deeper understanding of their industry will enhance your ability to provide tailored solutions and demonstrate your commitment to meeting their specific needs.
+
+
+## Janay
+Tristan, it is probably about a year that you've been with us, but you do still struggle with the business domain.  
+This is a bit of a problem, since you are one of the older members of our team. The new members would need to reach out for business domain context (especially with Josh leaving), and it would be good for another member to help out.  
+But that's okay. I also struggle with the business domain, especially BSnR. It is really important to understand all the aspects that are affected by a change. Our system is massive. Feel free to ask about the business domain whenever, even if it is just testing somebody else's changes. Yes we can't always be extremely explicit on tickets, but usually the tickets are added based on what business asks for. It is our responsibility as the developers to understand where that information needs to change and what other things need to change. Maybe you could try making a flow diagram of how you understand the business workflow and then we can correct or add to your diagram. Then you can add it to our documentation, which will help the entire team.  
+  
+I've said that you don't know all the stakeholders by name, since you haven't really dealt with any credit managers or executives other than Bev, Neil and Jan. You will start to know other stakeholders once you start getting involved in bigger pieces of work. But as I have mentioned multiple times now, you don't have to do it alone.  
+  
+We saw at a team lunch that you complained about problems with your relationship with your father to Jan. The conversation got quite intense and you became worked up a bit. I could see that Jan was getting uncomfortable. Yes, it's good to keep a conversation going, but Jan is our Stakeholder. We should try not mixing work with family matters. Perhaps in future, keep to light topics, or ask about our stakeholders and have them open up a conversation you can be part of.
