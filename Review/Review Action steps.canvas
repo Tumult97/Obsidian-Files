@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"1a94849b99bc845c","x":-260,"y":-340,"width":400,"height":338,"type":"file","file":"Review/Notes/Raw.md"}
+		{"id":"1a94849b99bc845c","x":-260,"y":-340,"width":400,"height":338,"type":"file","file":"Review/Notes/Raw.md"},
+		{"id":"5aab952fe72fd222","x":-260,"y":40,"width":400,"height":60,"type":"file","file":"Review/Notes/Additional comments.md"}
 	],
 	"edges":[]
 }
