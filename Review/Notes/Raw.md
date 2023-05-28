@@ -97,3 +97,22 @@ Upskilling by Creating an App: Your initiative in creating an app for the team c
 
 # Responsibility to others
 
+![[Pasted image 20230528093705.png]]
+
+## Dane
+Firstly thank you for caring about the team. I really appreciate the effort you took to build a Code Charter app and publish. You persisted and it made an impression on the team. Not only did you put up our code charter, but you also thought of innovative ways to make the website/app valuable on going in terms of documentation. And the best part is you got something out in learning Flutter.  
+  
+Thanks for being an active member in the team, in leading discussions, in stirring debate and more so for encouraging the team through tech nuggets or productivity hacks (like ShareX, Sql Crud Generator).  
+  
+Also well done in leading the charge on my behalf when it comes to the weekly summaries. It's good to see you run with it and build a process around it (even with a bot). Epic!
+
+
+## Gideon
+Tristan, I want to acknowledge your excellent communication skills with team members, as you consistently provide feedback on your work. In addition, your ability to conduct informative demos is commendable, and I appreciate your efforts.  
+  
+However, there are few things where you can improve. One aspect to focus on is seeking assistance when needed, rather than working in isolation. Reach out to colleagues for help earlier in the development process rather than waiting until the end of a feature. Additionally, I encourage you to share your experiences and help other developers with problems you have faced before, as it will benefit the entire team.  
+  
+Lastly, don't hesitate to showcase your work through more demos, and remember to keep up with administrative tasks. This includes maintaining the board, testing outline, and documentation up-to-date. By addressing these areas, you'll continue to grow as a developer and become an even more valuable team member. Keep up the great work!
+
+
+## Janay
