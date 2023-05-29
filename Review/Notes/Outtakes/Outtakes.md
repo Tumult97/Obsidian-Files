@@ -8,4 +8,8 @@
 ## Dane
 - Take criticism on the chin and improve
 	- Take good criticism ignore non constructive
-	- Take what to aid growth
+	- Take what it is to aid growth
+- Take ownership
+- Lead more
+
+## Gideon
