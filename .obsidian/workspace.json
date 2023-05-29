@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "580f5b50c2fcf142",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Review/Review Action steps.canvas",
-                "viewState": {
-                  "x": 7.439999999999996,
-                  "y": -3.7199999999999993,
-                  "zoom": 0
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "f9452eba7d072a4c",
             "type": "leaf",
             "state": {
@@ -36,8 +19,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "7895c9a7783f060e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369cda2f06290733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Notes/Raw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +174,11 @@
   },
   "active": "f9452eba7d072a4c",
   "lastOpenFiles": [
+    "Review/Notes/Raw.md",
+    "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Outtakes",
     "Review/Review Action steps.canvas",
-    "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Additional comments.md",
-    "Review/Notes/Raw.md",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw",
     "Pasted image 20230528094219.png",

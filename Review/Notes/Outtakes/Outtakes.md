@@ -1,2 +1,4 @@
-# Competance in craft
+# Competence in craft
 
+## Needs Work
+- 
