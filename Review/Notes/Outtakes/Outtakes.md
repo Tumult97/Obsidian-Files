@@ -8,4 +8,4 @@
 ## Dane
 - Take criticism on the chin and improve
 	- Take good criticism ignore non constructive
-	- 
+	- Take what to aid growth
