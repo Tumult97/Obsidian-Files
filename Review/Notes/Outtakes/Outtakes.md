@@ -14,4 +14,5 @@
 
 ## Gideon
 - Be less negative when working on a task or in problem discussions
-- 
+	- Affects communication and team morale
+	- 
