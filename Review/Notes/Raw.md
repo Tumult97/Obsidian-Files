@@ -42,22 +42,22 @@ Doing well:
 * Technical skills  
 - You've shown you are more than capable of knocking out features  
 - This is evident in the frontend data validation, and integrated E&S notifiers - spanning multiple projects, to name a few  
-# This proves you are capable of tackling assigned tasks, well  
-# It enables you to become more confident in tackling, either; more work in a similar amount of time and/or more complex tasks  
+- This proves you are capable of tackling assigned tasks, well  
+- It enables you to become more confident in tackling, either; more work in a similar amount of time and/or more complex tasks  
   
 Needs work:  
 * Analysing  
 - You sometimes rush into getting the work done without doing some technical analysis and planning  
 - With the date validation, you could've searched for the measurement date to find where all the validations may be applied  
-# This may have enabled you to ask whether the ratchets input required this validation too  
-# Taking time to understand the problem, allows you to ask questions to others, and yourself - why is this needed/being done? Are these only required here? Etc.  
-# It may also prevent you from getting upset with those trying to help you  
+- This may have enabled you to ask whether the ratchets input required this validation too  
+- Taking time to understand the problem, allows you to ask questions to others, and yourself - why is this needed/being done? Are these only required here? Etc.  
+- It may also prevent you from getting upset with those trying to help you  
   
 * Experimenting  
 - You've told me at times, "I don't how it works, I just do this and it's sorted"  
 - One example is unsubscribing straight away even though the observable is in a SubSink  
-# Not taking the time to experiment and break the code means you're missing out on learning  
-# By taking time to learn & really understand, you make better, more robust decisions  
+- Not taking the time to experiment and break the code means you're missing out on learning  
+- By taking time to learn & really understand, you make better, more robust decisions  
 # You also get to coach others or provide feedback during reviews  
 # You can also learn from others by implementing the 45-min rule and showing them what you've learned and what else you need to know  
 # Also, ask more questions; in sprint sizing or planning, in pairing up, etc.
