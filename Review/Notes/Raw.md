@@ -37,7 +37,6 @@ I think you've got real talent man. You're really smart. If you change your appr
 
 
 ## JP
-```Markdown
 Doing well:  
 * Technical skills  
 - You've shown you are more than capable of knocking out features  
@@ -58,10 +57,10 @@ Needs work:
 - One example is unsubscribing straight away even though the observable is in a SubSink  
 - Not taking the time to experiment and break the code means you're missing out on learning  
 - By taking time to learn & really understand, you make better, more robust decisions  
-# You also get to coach others or provide feedback during reviews  
-# You can also learn from others by implementing the 45-min rule and showing them what you've learned and what else you need to know  
-# Also, ask more questions; in sprint sizing or planning, in pairing up, etc.
-```
+- You also get to coach others or provide feedback during reviews  
+- You can also learn from others by implementing the 45-min rule and showing them what you've learned and what else you need to know  
+- Also, ask more questions; in sprint sizing or planning, in pairing up, etc.
+
 
 
 ## Liam
@@ -139,20 +138,19 @@ Remember in order for people to rely on you, you need to show that you're willin
 
 
 ## JP
-```Markdown
 Doing well:  
 * Swiss knife  
 - You take on a multitude of tasks that often leads to touching many projects, such as the E&S notifiers feature and Covenant measurement date  
-# This shows you are able to handle any of the domains and able to context switch  
-# It also shows that you are comfortable with all aspects of the codebase; frontend, backend and DB  
-# It again proves your capability of maintaining/enhancing any of our projects  
+- This shows you are able to handle any of the domains and able to context switch  
+- It also shows that you are comfortable with all aspects of the codebase; frontend, backend and DB  
+- It again proves your capability of maintaining/enhancing any of our projects  
   
 * Team Application  
 - You have recently launched the team application which has our team charter and will continue to be enhance well done bud  
-# This will remind us of our agreed-upon values  
-# We can also use it to hold each other accountable  
-# It also allowed you to develop your programming skills
-```
+- This will remind us of our agreed-upon values  
+- We can also use it to hold each other accountable  
+- It also allowed you to develop your programming skills
+
 
 
 ## Liam
