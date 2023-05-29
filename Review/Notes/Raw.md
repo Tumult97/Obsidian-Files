@@ -217,13 +217,12 @@ I think you've got really great potential. In order to realize this potential, t
 
 
 ## JP
-```Markdown
 Doing well:  
 * Getting shit done  
 - There's not been a task that you could not handle. It proves your capability once again  
 - You may take on more responsibility because of this. I want you to remember to slow down, analyse, learn and experiment  
-# Just because there's added pressure of more work and/or more difficult tasks does not mean you stop the things that can help you  
-# Learn how you work best and use that formula to assist you as you take on the added responsibilities  
+- Just because there's added pressure of more work and/or more difficult tasks does not mean you stop the things that can help you  
+- Learn how you work best and use that formula to assist you as you take on the added responsibilities  
   
 Needs work:  
 * Attitude  
@@ -231,11 +230,10 @@ Needs work:
 - For example: "Gideon just dumped this on my lap, again". "I asked Janay but she's not responding to me". "That wasn't added to the ticket"  
 - I want you to shift your thinking. Why is Gideon handing over work, again? Who else may I ask, as Janay is busy? Should I know about this missing item, could anyone else know, did I analyse sufficiently?  
 - Yes, it's difficult in the moment but I want you to think about what you can do with the situation, at that moment, and try to find solutions  
-# The situation may be kak but by you trying to gain control you show your resilience and maturity  
-# You get creative and find other means to accomplish your goal  
-# You learn to adapt and you learn you can overcome, based on past experiences  
-# Don't be afraid to bring issues & possible ways to alleviate these issues at retros or stand-ups or even privately with Dane
-```
+- The situation may be kak but by you trying to gain control you show your resilience and maturity  
+- You get creative and find other means to accomplish your goal  
+- You learn to adapt and you learn you can overcome, based on past experiences  - Don't be afraid to bring issues & possible ways to alleviate these issues at retros or stand-ups or even privately with Dane
+
 
 
 ## Liam
