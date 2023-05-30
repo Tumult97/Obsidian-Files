@@ -55,4 +55,23 @@
 
 ## Needs Work
 - Respect and acknowledge other peoples perspectives and priorities
+- Is this individual proud to make their work visible, accept criticism and take action to remedy it?
+- Does this individual have a reputation for a positive attitude?
+- Is this individual known for being available and reliable?
+
+## Gideon
+- Seek aid when needed
+	- Reach out for help earlier
+- Share experiences with others to help them in the future
+- Don't hesitate to showcase work to others 
+	- Maintain board, testing outline 
+	- showcase before a feature is fully done
+
+## Janay
+- Don't make excuses for mistakes made by you
+- Try get more involved in meetings
+- Try to be more reachable during work hours
+- Try to be less negative and keep personal life out of work
+	- Don't talk to others about feeling on going to a certain place for example or talk about heavy emotional issues
+- Try to mute more when needed in teams and discord
 - 

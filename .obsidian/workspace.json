@@ -29,9 +29,11 @@
             "id": "dcfbc2af45933eda",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230528093705.png"
+                "file": "Review/Notes/Raw.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -172,10 +174,10 @@
   },
   "active": "7b8431d25c84bb75",
   "lastOpenFiles": [
-    "Pasted image 20230528093705.png",
-    "Pasted image 20230528092747.png",
     "Review/Notes/Raw.md",
     "Review/Notes/Outtakes/Outtakes.md",
+    "Pasted image 20230528092747.png",
+    "Pasted image 20230528093705.png",
     "Modal ticket template.md",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/Templates/Gitlab Template.md",
