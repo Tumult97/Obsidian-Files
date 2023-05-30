@@ -78,4 +78,7 @@
 
 ## Joshua
 - Accept criticism as way to improve code based on the context
+- Take when someone says you did something wrong not as a shot against my craft more as a way to learn better
+
+## JP
 - 
