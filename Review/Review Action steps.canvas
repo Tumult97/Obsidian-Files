@@ -1,7 +1,16 @@
 {
 	"nodes":[
-		{"id":"1a94849b99bc845c","x":-260,"y":-340,"width":400,"height":338,"type":"file","file":"Review/Notes/Raw.md"},
-		{"id":"5aab952fe72fd222","x":-260,"y":40,"width":400,"height":60,"type":"file","file":"Review/Notes/Additional comments.md"}
+		{"type":"file","file":"Review/Notes/Raw.md","id":"1a94849b99bc845c","x":-260,"y":-340,"width":540,"height":280},
+		{"type":"file","file":"Review/Notes/Additional comments.md","id":"5aab952fe72fd222","x":-260,"y":40,"width":540,"height":300},
+		{"id":"3a32327e309e655d","x":420,"y":-340,"width":400,"height":400,"type":"file","file":"Review/Notes/Outtakes/Outtakes.md"},
+		{"type":"text","text":"# Responsibility to others","id":"fbddc5e8887f4f62","x":480,"y":440,"width":660,"height":160},
+		{"type":"text","text":"# Impact on Customer Success","id":"c296c5f89b8317ab","x":460,"y":800,"width":660,"height":160},
+		{"id":"b91a4741ece5a34a","x":960,"y":-860,"width":660,"height":1140,"type":"text","text":"# Competence in Craft\n\n## High priority\n- Learn to take relevant criticism\n- Take ownership and accountability for work and outcomes\n- Be less Negative with work and talking to people\n- Solution work more before starting work\n- Ask for help and context (business domain and tickets) more often (*45 minute rule*)\n- Be more professional while interacting with team and others\n\n## Low Priority\n- Lead more\n- Break down tasks More\n- Try to be involved more in meetings\n- Try to ask more questions in sprint sizing\n- Try to do some cloud related certifications\n- Don't stress about technical feedback\n- Share experiences with others to help them in the future\n- Show work off more before finished\n- Try mute more in discord and meetings\n- Provide more context when making queries and asking questions\n- Try to remain calm\n- "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3b4292ecba8d040e","fromNode":"1a94849b99bc845c","fromSide":"right","toNode":"3a32327e309e655d","toSide":"left"},
+		{"id":"e1068a1489286493","fromNode":"3a32327e309e655d","fromSide":"right","toNode":"b91a4741ece5a34a","toSide":"left"},
+		{"id":"6b8e2ef756590d22","fromNode":"3a32327e309e655d","fromSide":"right","toNode":"fbddc5e8887f4f62","toSide":"left"},
+		{"id":"aa890cbe834db12a","fromNode":"3a32327e309e655d","fromSide":"right","toNode":"c296c5f89b8317ab","toSide":"left"}
+	]
 }

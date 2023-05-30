@@ -11,27 +11,30 @@
             "id": "7b8431d25c84bb75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Review/Notes/Outtakes/Outtakes.md",
-                "mode": "source",
-                "source": false
+                "file": "Review/Review Action steps.canvas",
+                "viewState": {
+                  "x": 972,
+                  "y": 135,
+                  "zoom": 0
+                }
               }
             }
           }
         ]
       },
       {
-        "id": "17c2c44a4c4cb2de",
+        "id": "dbda920003326f27",
         "type": "tabs",
         "children": [
           {
-            "id": "dcfbc2af45933eda",
+            "id": "11f19a0af16811e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Notes/Raw.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,23 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b8431d25c84bb75",
+  "active": "11f19a0af16811e4",
   "lastOpenFiles": [
-    "Review/Notes/Raw.md",
+    "Review/Review Action steps.canvas",
     "Review/Notes/Outtakes/Outtakes.md",
-    "Pasted image 20230528092747.png",
-    "Pasted image 20230528093705.png",
+    "Review/Notes/Raw.md",
+    "Review/Notes/Pasted image 20230528094219.png",
+    "Review/Notes/Pasted image 20230528092747.png",
+    "Review/Notes/Pasted image 20230528093705.png",
     "Modal ticket template.md",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/Templates/Gitlab Template.md",
     "Work/Ticket Template.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Review/Notes/Outtakes",
-    "Review/Review Action steps.canvas",
     "Review/Notes/Additional comments.md",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20230528094219.png",
     "Review/Notes",
     "Review",
     "2023-05-24 Sprint Objective review.md",

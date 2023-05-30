@@ -51,7 +51,8 @@
 - Try to see from other peoples perspectives
 - Try to ask for help more and raise concerns more
 
-# Impact on Customer Success
+
+# Responsibility to others
 
 ## Needs Work
 - Respect and acknowledge other peoples perspectives and priorities
@@ -80,5 +81,42 @@
 - Accept criticism as way to improve code based on the context
 - Take when someone says you did something wrong not as a shot against my craft more as a way to learn better
 
+## Liam
+- Try to remain calm in situations where you feel like things have gone wrong in some way
+
+## Wiehan
+- Strive to be more clear and concise when delivering thoughts
+	- Try to use more visual aids
+- Avoid Blame shifting
+- Try to maintain more focus and presence in meetings
+- Try listen to understand more
+- Try to be less negative
+- Try maintain a positive outlook during tough times
+
+
+# Impact on Customer Success
+
+## Needs Work
+- Does this individual understand their customer's business domain?
+
+## Gideon
+- Try to become more involved in client sessions
+- Try to learn clients domain more
+
+## Janay
+- Try ask more about the domain even while testing
+- Try make diagrams on how I understand a feature and seek corrections
+- Don't talk about negative personal item from personal life at work and to clients
+
+## Joshua
+- Ask more questions after looking into ticket/feature after doing investigation ands research
+- Not understanding broader scope of what I'm doing is professional weak point
+
 ## JP
-- 
+- Ask why something is the way it is instead of seeming like im blaming
+- Try to gain control in tough situation
+- Don't be afraid to bring issues & possible ways to alleviate these issues at retros or stand-ups or even privately with Dane
+
+## Wiehan
+- Increase preparedness for meetings
+- Try to pay more attention in meetings
