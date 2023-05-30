@@ -23,4 +23,6 @@
 - Continue to reach out more for business context
 - Unsure because of recent growth
 - Take accountability for mistakes and take ownership of work
+
+## Joshua
 - 
