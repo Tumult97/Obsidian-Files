@@ -15,9 +15,9 @@
               "state": {
                 "file": "Review/Review Action steps.canvas",
                 "viewState": {
-                  "x": 972,
-                  "y": 135,
-                  "zoom": 0
+                  "x": 995.4800781890406,
+                  "y": 957.7645811659465,
+                  "zoom": -1.1102230246251565e-16
                 }
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Notes/Outtakes/Outtakes.md",
+                "file": "Review/Review Action steps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Notes/Outtakes/Outtakes.md",
+                "file": "Review/Review Action steps.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Notes/Outtakes/Outtakes.md"
+                "file": "Review/Review Action steps.canvas"
               }
             }
           }
@@ -175,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11f19a0af16811e4",
+  "active": "7b8431d25c84bb75",
   "lastOpenFiles": [
-    "Review/Review Action steps.canvas",
     "Review/Notes/Outtakes/Outtakes.md",
+    "Review/Review Action steps.canvas",
     "Review/Notes/Raw.md",
     "Review/Notes/Pasted image 20230528094219.png",
     "Review/Notes/Pasted image 20230528092747.png",
