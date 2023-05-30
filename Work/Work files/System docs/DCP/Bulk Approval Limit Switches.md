@@ -21,33 +21,10 @@ When on this step in the modal the credit paper can only have an application typ
 ### Sections
 
 #### Credit Paper Sections
-1. Reviewers and Approvers
-2. Purpose & Review Dates
-3. Decision Questionnaire
-4. Collateral
-5. Financial Covenants
-6. Information Covenants
-7. Existing Products
-8. Final Recommendations
-9. Upload files
-10. Existing Products (Structured Loans Only)
-
-1. Existing Products (Excluding Structured Loans)
-2. Purpose & Review Dates
-3. Portfolio Sector Composition
-4. Exit Considerations Risk
-5. Limit Switches
+1. 
 
 #### Information Sections
-1. Section Management
-2. Refresh
-3. ESG Risk Information
-4. Portfolio
-5. Ratings
-6. Financials (CRS)
-7. Product Cart Summary
-8. Comments
-9. User Comments
+1. 
 
 
 ---
@@ -253,5 +230,7 @@ This model extends the facility product source and hold all the facility data to
 
 
 #### Buttons
+
+
 
 
