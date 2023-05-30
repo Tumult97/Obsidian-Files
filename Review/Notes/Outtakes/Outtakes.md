@@ -15,4 +15,12 @@
 ## Gideon
 - Be less negative when working on a task or in problem discussions
 	- Affects communication and team morale
-	- 
+- Try breaking tasks down more
+- Try to be involved more in meetings and discussions
+
+## Janay
+- Asking For Help doesn't make me less competent
+- Continue to reach out more for business context
+- Unsure because of recent growth
+- Take accountability for mistakes and take ownership of work
+- 

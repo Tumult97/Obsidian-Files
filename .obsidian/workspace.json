@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b9534bdc523bb66a",
+        "id": "7e92587e35aca935",
         "type": "tabs",
         "children": [
           {
-            "id": "047d12ba3ca88a92",
+            "id": "7b8431d25c84bb75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modal ticket template.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "17c2c44a4c4cb2de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcfbc2af45933eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Notes/Raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modal ticket template.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modal ticket template.md",
+                "file": "Review/Notes/Outtakes/Outtakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modal ticket template.md"
+                "file": "Review/Notes/Outtakes/Outtakes.md"
               }
             }
           }
@@ -154,15 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "047d12ba3ca88a92",
+  "active": "7b8431d25c84bb75",
   "lastOpenFiles": [
-    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+    "Review/Notes/Raw.md",
+    "Review/Notes/Outtakes/Outtakes.md",
     "Modal ticket template.md",
+    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/Templates/Gitlab Template.md",
     "Work/Ticket Template.md",
     "Work/Work files/Scripts/SQL Snippets.md",
-    "Review/Notes/Outtakes/Outtakes.md",
-    "Review/Notes/Raw.md",
     "Review/Notes/Outtakes",
     "Review/Review Action steps.canvas",
     "Review/Notes/Additional comments.md",
