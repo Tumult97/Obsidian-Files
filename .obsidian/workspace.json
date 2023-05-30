@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7895c9a7783f060e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "369cda2f06290733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review/Notes/Raw.md",
+                "file": "Modal ticket template.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Modal ticket template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Modal ticket template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Modal ticket template.md"
               }
             }
           }
@@ -174,8 +156,9 @@
   },
   "active": "047d12ba3ca88a92",
   "lastOpenFiles": [
+    "Work/Work files/Templates/Gitlab Template.md",
+    "Modal ticket template.md",
     "Work/Ticket Template.md",
-    "Untitled.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Raw.md",
@@ -190,7 +173,6 @@
     "Review/Notes",
     "Review",
     "2023-05-24 Sprint Objective review.md",
-    "Work/Work files/Templates/Gitlab Template.md",
     "Work/Work files/Work Files.md",
     "Work/Master.md",
     "DevConf stuff top attend.md",
