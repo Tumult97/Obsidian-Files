@@ -4,7 +4,10 @@
 Finalization of ticket and section logic
 
 ## Tickets
-- 
+- [CRICRT 8037-DCP: Update step 2 with the updated design criteria, including functionality](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8037)
+- [CRICRT 8038-DCP: Update step 3 with the updated design criteria, including functionality](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8038)
+- [CRICRT 8036-DCP: Update step 1 with the updated design criteria, including functionality](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8036)
+- [CRICRT 8070-DCP: Add repositories for limit switch facilities and rules](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8070)
 
 ## Type of change
 
