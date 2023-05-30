@@ -74,4 +74,8 @@
 - Try to be less negative and keep personal life out of work
 	- Don't talk to others about feeling on going to a certain place for example or talk about heavy emotional issues
 - Try to mute more when needed in teams and discord
+- Provide more context with queries and questions
+
+## Joshua
+- Accept criticism as way to improve code based on the context
 - 
