@@ -46,5 +46,7 @@
 ## Wiehan
 - Taking ownership of work
 - Maintain professional demeanor while interacting with collogues and superiors
-- Take responsibility for worek i produce and its outcomes
+- Take responsibility for work I produce and its outcomes don't pass blame
+- Remove emotions from decision making
+- Try to see from other peoples perspectives
 - 
