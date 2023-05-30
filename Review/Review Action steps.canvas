@@ -3,17 +3,25 @@
 		{"type":"file","file":"Review/Notes/Raw.md","id":"1a94849b99bc845c","x":-260,"y":-340,"width":540,"height":280},
 		{"type":"file","file":"Review/Notes/Additional comments.md","id":"5aab952fe72fd222","x":-260,"y":40,"width":540,"height":300},
 		{"id":"3a32327e309e655d","x":420,"y":-340,"width":400,"height":400,"type":"file","file":"Review/Notes/Outtakes/Outtakes.md"},
-		{"id":"6d88449d368bb3b4","x":495,"y":600,"width":485,"height":180,"type":"text","text":"# Iron Chin\n\n#### ***Take Criticism to Improve***\n> Prove 'em wrong"},
-		{"id":"45eba0bb79c1f013","x":495,"y":800,"width":485,"height":180,"type":"text","text":"# Ray of Sunshine\n#### ***More Positive and Less Negative***\n> Kill 'em with kindness"},
-		{"id":"99abc6f2dc8e67aa","x":495,"y":1000,"width":485,"height":180,"type":"text","text":"# Grab the bull by the horns\n\n#### ***Taking Ownership and Accountability***\n\n> \"Don't be sorry be better\""},
-		{"type":"text","text":"# Battle Plans\n\n#### ***Solutioning more before working***\n> Spend more time in the problem phase","id":"d1dfe00a594cd929","x":495,"y":1200,"width":485,"height":180},
-		{"id":"b91a4741ece5a34a","x":1160,"y":600,"width":660,"height":800,"type":"text","text":"# Breakdown\n\n## High priority\n- Learn to take relevant criticism\n- Take ownership and accountability for work and outcomes\n- Be less Negative with work and talking to people\n- Solution work more before starting work\n- Ask for help and context (business domain and tickets) more often (*45 minute rule*)\n- Be more professional while interacting with team and others\n- Up your meeting game: pay more attention and prepare more\n\n## Low Priority\n- Lead more\n- Break down tasks More\n- Try to be involved more in meetings\n- Try to ask more questions in sprint sizing\n- Try to do some cloud related certifications\n- Don't stress about technical feedback\n- Share experiences with others to help them in the future\n- Show work off more before finished\n- Try mute more in discord and meetings\n- Provide more context when making queries and asking questions\n- Try to remain calm"},
-		{"type":"text","text":"# Monkey Smart Monkey Strong\n\n#### ***45 Min rule and Ask for context and domain knowledge***\n\n> Ask for help, not because you're weak, but because you want to remain strong.","id":"9350953a5fd299d5","x":495,"y":1400,"width":585,"height":240},
-		{"type":"text","text":"# Manners Maketh Man\n\n#### ***Professionalism***\n> Oxfords not Brogues","id":"6f6f2d1484d4246d","x":495,"y":1660,"width":485,"height":180},
-		{"type":"text","text":"# Iron Chin\n\n#### ***Take Criticism to Improve***\n> Prove 'em wrong","id":"c2afeabaeebed1c7","x":495,"y":1860,"width":485,"height":180}
+		{"id":"b91a4741ece5a34a","x":1140,"y":660,"width":760,"height":800,"type":"text","text":"# Breakdown\n\n## High priority\n- Learn to take relevant criticism\n- Take ownership and accountability for work and outcomes\n- Be less Negative with work and talking to people\n- Solution work more before starting work\n- Ask for help and context (business domain and tickets) more often (*45 minute rule*)\n- Be more professional while interacting with team and others\n- Up your meeting game: pay more attention and prepare more\n\n## Low Priority\n- Lead more\n- Break down tasks More\n- Try to be involved more in meetings\n- Try to ask more questions in sprint sizing\n- Try to do some cloud related certifications\n- Don't stress about technical feedback\n- Share experiences with others to help them in the future\n- Show work off more before finished\n- Try mute more in discord and meetings\n- Provide more context when making queries and asking questions\n- Try to remain calm"},
+		{"id":"45eba0bb79c1f013","x":2760,"y":570,"width":485,"height":180,"type":"text","text":"# Ray of Sunshine\n#### ***More Positive and Less Negative***\n> Kill 'em with kindness"},
+		{"id":"99abc6f2dc8e67aa","x":2760,"y":770,"width":485,"height":180,"type":"text","text":"# Grab the bull by the horns\n\n#### ***Taking Ownership and Accountability***\n\n> \"Don't be sorry be better\""},
+		{"type":"text","text":"# Battle Plans\n\n#### ***Solutioning more before working***\n> Spend more time in the problem phase","id":"d1dfe00a594cd929","x":2760,"y":970,"width":485,"height":180},
+		{"type":"text","text":"# Monkey Smart Monkey Strong\n\n#### ***45 Min rule and Ask for context and domain knowledge***\n\n> Ask for help, not because you're weak, but because you want to remain strong.","id":"9350953a5fd299d5","x":2760,"y":1170,"width":585,"height":240},
+		{"type":"text","text":"# Manners Maketh Man\n\n#### ***Professionalism***\n> Oxfords not Brogues","id":"6f6f2d1484d4246d","x":2760,"y":1430,"width":485,"height":180},
+		{"type":"text","text":"# Greatest Showman\n\n#### ***Up the meeting game: Planning and attention***\n> Put on a show and glow","id":"c2afeabaeebed1c7","x":2760,"y":1630,"width":585,"height":180},
+		{"id":"6d88449d368bb3b4","x":2760,"y":370,"width":485,"height":180,"type":"text","text":"# Iron Chin\n\n#### ***Take Criticism to Improve***\n> Prove 'em wrong"},
+		{"type":"text","text":"# Some Small Things\n\n- Lead more\n- Break down tasks More\n- Try to be involved more in meetings\n- Try to ask more questions in sprint sizing\n- Try to do some cloud related certifications\n- Don't stress about technical feedback\n- Share experiences with others to help them in the future\n- Show work off more before finished\n- Try mute more in discord and meetings\n- Provide more context when making queries and asking questions\n- Try to remain calm","id":"fc9efdec5f9354b6","x":2760,"y":1840,"width":585,"height":500}
 	],
 	"edges":[
 		{"id":"3b4292ecba8d040e","fromNode":"1a94849b99bc845c","fromSide":"right","toNode":"3a32327e309e655d","toSide":"left"},
-		{"id":"e1068a1489286493","fromNode":"3a32327e309e655d","fromSide":"right","toNode":"b91a4741ece5a34a","toSide":"left"}
+		{"id":"e1068a1489286493","fromNode":"3a32327e309e655d","fromSide":"right","toNode":"b91a4741ece5a34a","toSide":"left"},
+		{"id":"6723c2d18769c3af","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"6d88449d368bb3b4","toSide":"left"},
+		{"id":"4f0d6b22270e07da","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"45eba0bb79c1f013","toSide":"left"},
+		{"id":"0f1df918500e2ff5","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"99abc6f2dc8e67aa","toSide":"left"},
+		{"id":"2983bb21fa9174f9","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"d1dfe00a594cd929","toSide":"left"},
+		{"id":"ce20ebaf7cb146d7","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"9350953a5fd299d5","toSide":"left"},
+		{"id":"3ad3b0a607991b21","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"6f6f2d1484d4246d","toSide":"left"},
+		{"id":"f051801abab57647","fromNode":"b91a4741ece5a34a","fromSide":"right","toNode":"c2afeabaeebed1c7","toSide":"left"}
 	]
 }
