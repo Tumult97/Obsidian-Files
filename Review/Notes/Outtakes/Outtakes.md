@@ -49,4 +49,10 @@
 - Take responsibility for work I produce and its outcomes don't pass blame
 - Remove emotions from decision making
 - Try to see from other peoples perspectives
+- Try to ask for help more and raise concerns more
+
+# Impact on Customer Success
+
+## Needs Work
+- Respect and acknowledge other peoples perspectives and priorities
 - 
