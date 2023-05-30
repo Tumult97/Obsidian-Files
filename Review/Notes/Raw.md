@@ -52,7 +52,7 @@ Needs work:
 - Taking time to understand the problem, allows you to ask questions to others, and yourself - why is this needed/being done? Are these only required here? Etc.  
 - It may also prevent you from getting upset with those trying to help you  
   
-* Experimenting  
+Experimenting  
 - You've told me at times, "I don't how it works, I just do this and it's sorted"  
 - One example is unsubscribing straight away even though the observable is in a SubSink  
 - Not taking the time to experiment and break the code means you're missing out on learning  
