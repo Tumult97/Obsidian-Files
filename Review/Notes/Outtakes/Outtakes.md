@@ -45,4 +45,6 @@
 
 ## Wiehan
 - Taking ownership of work
+- Maintain professional demeanor while interacting with collogues and superiors
+- Take responsibility for worek i produce and its outcomes
 - 
