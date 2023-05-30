@@ -25,4 +25,5 @@
 - Take accountability for mistakes and take ownership of work
 
 ## Joshua
-- 
+- Accountability for and quality of work
+- Try to go and understand larger aspect of a ticket
