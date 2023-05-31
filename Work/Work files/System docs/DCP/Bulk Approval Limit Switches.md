@@ -87,6 +87,19 @@ ___
 	4. #Back to return to step 2
 
 
+### Admin Screens
+
+> There is one page but it has 2 tabs which has logic as follows
+
+
+#### Exclusion Items
+1. The user here is presented with a section with a table
+2. The table shows items that want to be excluded from limit switches
+3. The #Add button will open a modal with a dropdown to select more products
+4. The actions on the right of the table will allow the user to delete products from the table
+
+#### Product Rules
+1. The user is presented with a table that shows the rules added 
 
 ## Architecture
 
