@@ -49,6 +49,16 @@ When on this step in the modal the credit paper can only have an application typ
 
 ## Modal Flow
 
+---
+
+![[firefox_Ktml8lLs9Y.gif]]
+![[Limit Switch Modal.canvas]]
+
+___
+
+### Step 1
+1. The user is presented with 
+
 ## Architecture
 
 ### App
