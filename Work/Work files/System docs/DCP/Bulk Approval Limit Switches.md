@@ -47,7 +47,8 @@ When on this step in the modal the credit paper can only have an application typ
 3. Progress Credit Paper
 
 
-## Modal Flow
+## Logic
+### Modal Flow
 
 ---
 
@@ -56,22 +57,22 @@ When on this step in the modal the credit paper can only have an application typ
 
 ___
 
-### Step 1
+#### Step 1
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
 	- The user needs to select 1 client and 1 facility
 2. Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
 3. The user then selects the facility they *want to transfer from*
-4. This enables the next button and allows the user to select step 3 from the stepper at the top
+4. This enables the #Next button and allows the user to select step 3 from the stepper at the top
 
-### Step 2
+#### Step 2
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
 	- The user needs to select 1any amount of clients and any amount of facilities
 2.  Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
 3. The user then selects the facility or *facilities they want to transfer to*
-4. Once at least 1 facility is selected then the next button and the step 3 stepper button is enabled for the user to progress
-5. The user can also go back to step 1 using the back button to make a correction
+4. Once at least 1 facility is selected then the #Next button and the step 3 stepper button is enabled for the user to progress
+5. The user can also go #Back to step 1 using the #Back button to make a correction
 
-### Step 3
+#### Step 3
 1. The user is presented with the modal that has 2 sections
 	1. The 1st section is the *from facility* at the top
 	2. The 2nd section is the *to facilities* at the bottom
@@ -79,7 +80,13 @@ ___
 3. The user will input the amount they want to transfer to that facility
 4. If the switch is valid/compliant for that facility then the icon on the top left will be a green circle check
 5. If the switch is not valid/compliant then the icon top left will be a red warning symbol and a comment input will be visible to add commentary
-6. One all the information they need is inputted then they 
+6. One all the information they need is inputted then they have a few options
+	1. #Transfer This will send the information captured to be transferred and save. Once completed the modal will close and load up the save information
+	2. #Transer_More This will do the same as #Transfer but will reset the modal once completed instead of closing the modal
+	3. #Reset This will reset all info in the modal
+	4. #Back to return to step 2
+
+
 
 ## Architecture
 
