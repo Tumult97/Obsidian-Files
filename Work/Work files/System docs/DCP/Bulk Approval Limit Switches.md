@@ -99,7 +99,15 @@ ___
 4. The actions on the right of the table will allow the user to delete products from the table
 
 #### Product Rules
-1. The user is presented with a table that shows the rules added 
+1. The user is presented with a table that shows the rules added and saved
+2. The user can click #Add and will be presented with a modal
+	1. The user will see 2 product dropdowns and a toggle switch that says *Is Both Ways*
+	2. The user will select product from and product to thats allowed in this rule
+		- This is The flow that a product is allowed
+	3. The user will then decide if it goes both ways. 
+		1. If the toggle is on then the rule will then go both ways instead of just from and to
+	4. Then the user clicks #Save and the modal closes and the page is updated
+3. The user can also delete saved rules
 
 ## Architecture
 
