@@ -22,10 +22,26 @@ When on this step in the modal the credit paper can only have an application typ
 ### Sections
 
 #### Credit Paper Sections
-1. 
+1. Reviewers & Approvers
+2. Purpose and Review Dates
+3. Collateral
+4. Financial Covenants
+5. Information Covenants
+6. Decision Questionnaire
+7. Limit Switches
+8. Final Recommendation
+9. Upload Files
 
 #### Information Sections
-1. 
+1. Portfolio
+2. Ratings
+3. Financial (CRS)
+4. Product Cart Summary
+5. ESG Risk Information
+6. Comments
+7. Refresh
+8. Section Management
+
 
 
 ---
@@ -297,3 +313,8 @@ This model extends the facility product source and hold all the facility data to
 
 
 
+
+
+### SVC
+
+### DB

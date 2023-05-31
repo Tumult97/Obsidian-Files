@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Back",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cb72a42cd32667c",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
