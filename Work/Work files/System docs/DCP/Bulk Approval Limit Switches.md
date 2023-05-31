@@ -57,7 +57,8 @@ When on this step in the modal the credit paper can only have an application typ
 ___
 
 ### Step 1
-1. The user is presented with 
+1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
+	1. The user needs to select 
 
 
 ## Architecture
