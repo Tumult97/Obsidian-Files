@@ -79,6 +79,7 @@ ___
 3. The user will input the amount they want to transfer to that facility
 4. If the switch is valid/compliant for that facility then the icon on the top left will be a green circle check
 5. If the switch is not valid/compliant then the icon top left will be a red warning symbol and a comment input will be visible to add commentary
+6. One all the information they need is inputted then they 
 
 ## Architecture
 
