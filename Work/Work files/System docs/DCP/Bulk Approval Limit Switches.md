@@ -318,3 +318,5 @@ This model extends the facility product source and hold all the facility data to
 ### SVC
 
 ### DB
+
+#### ERD
