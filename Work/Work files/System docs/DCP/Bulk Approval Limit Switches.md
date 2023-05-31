@@ -1,4 +1,5 @@
-
+```toc
+```
 --- 
 
 
@@ -45,6 +46,8 @@ When on this step in the modal the credit paper can only have an application typ
 
 3. Progress Credit Paper
 
+
+## Modal Flow
 
 ## Architecture
 
