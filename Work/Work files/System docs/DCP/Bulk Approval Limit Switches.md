@@ -320,3 +320,5 @@ This model extends the facility product source and hold all the facility data to
 ### DB
 
 #### ERD
+![[Pasted image 20230531113506.png]]
+
