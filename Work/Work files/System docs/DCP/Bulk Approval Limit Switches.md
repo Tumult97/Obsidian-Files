@@ -58,7 +58,8 @@ ___
 
 ### Step 1
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
-	1. The user needs to select 
+	- The user needs to select 1 client and 1 facility
+2. Once the user select
 
 
 ## Architecture
