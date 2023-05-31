@@ -66,8 +66,8 @@ ___
 ### Step 2
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
 	- The user needs to select 1any amount of clients and any amount of facilities
-- 
-
+2.  Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
+3. 
 
 ## Architecture
 
