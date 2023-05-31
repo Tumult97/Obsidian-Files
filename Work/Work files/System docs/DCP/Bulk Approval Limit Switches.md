@@ -61,13 +61,20 @@ ___
 	- The user needs to select 1 client and 1 facility
 2. Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
 3. The user then selects the facility they want to transfer from
-4. This enables the next button and allows the user to select step 2 from the stepper at the top
+4. This enables the next button and allows the user to select step 3 from the stepper at the top
 
 ### Step 2
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
 	- The user needs to select 1any amount of clients and any amount of facilities
 2.  Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
-3. Once at least 1 facility is selected then 
+3. The user then selects the facility or facilities they want to transfer to
+4. Once at least 1 facility is selected then the next button and the step 3 stepper button is enabled for the user to progress
+5. The user can also go back to step 1 using the back button to make a correction
+
+### Step 3
+1. The user is presented with the modal that has 2 sections
+	1. The 1st section is the *from facility* at the top
+	2. The 2nd section is the *to facilities* at the bottom
 
 ## Architecture
 
