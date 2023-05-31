@@ -75,7 +75,10 @@ ___
 1. The user is presented with the modal that has 2 sections
 	1. The 1st section is the *from facility* at the top
 	2. The 2nd section is the *to facilities* at the bottom
-2. The *to facilities* at the bottom
+2. The *to facilities* at the bottom are loaded into a list of items that expand when clicked to show more information and have 2 possible inputs
+3. The user will input the amount they want to transfer to that facility
+4. If the switch is valid/compliant for that facility then the icon on the top left will be a green circle check
+5. If the switch is not valid/compliant then the icon top left will be a red warning symbol and a comment input will be visible to add commentary
 
 ## Architecture
 
