@@ -59,8 +59,14 @@ ___
 ### Step 1
 1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
 	- The user needs to select 1 client and 1 facility
-2. Once the user selects a cif number then the facilities related to that cif number will be loaded into the table on the right
+2. Once the user selects a CIF number then the facilities related to that CIF number will be loaded into the table on the right
 3. The user then selects the facility they want to transfer from
+4. This enables the next button and allows the user to select step 2 from the stepper at the top
+
+### Step 2
+1. The user is presented with the model with the hierarchy on the left and the empty table section on the right 
+	- The user needs to select 1any amount of clients and any amount of facilities
+- 
 
 
 ## Architecture
