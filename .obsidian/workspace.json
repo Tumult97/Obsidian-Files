@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md"
+                "file": "Work/Work files/Scripts/SQL Snippets.md"
               }
             }
           }
@@ -157,9 +156,9 @@
   },
   "active": "cdd97f1d9ca7bb08",
   "lastOpenFiles": [
+    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
-    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "firefox_Ktml8lLs9Y.gif",
     "Aeropinic Tower Build.md",
@@ -192,7 +191,6 @@
     "Work/Work files/System docs/Images/Pasted image 20230523100938.png",
     "Work/Work files/System docs/Images/Pasted image 20230523100115.png",
     "Work/Work files/System docs/Images/Pasted image 20230523095632.png",
-    "Work/Work files/System docs/Images/Pasted image 20230523095502.png",
     "Work/Work files/System docs/Images",
     "Discovery Bank.md",
     "Work/Work files/System docs/DCP",
