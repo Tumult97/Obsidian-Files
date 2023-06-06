@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea3836a4bd9feb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdd97f1d9ca7bb08",
+  "active": "ea3836a4bd9feb94",
   "lastOpenFiles": [
+    "Work/Work files/Scripts/SQL Snippets.md",
+    "Notes.md",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
@@ -164,7 +179,6 @@
     "Aeropinic Tower Build.md",
     "Be better Poster.canvas",
     "Review/Review Action steps.canvas",
-    "Untitled.md",
     "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Raw.md",
     "Review/Notes/Pasted image 20230528094219.png",
@@ -173,7 +187,6 @@
     "Modal ticket template.md",
     "Work/Work files/Templates/Gitlab Template.md",
     "Work/Ticket Template.md",
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Review/Notes/Outtakes",
     "Review/Notes/Additional comments.md",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
