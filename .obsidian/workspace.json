@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "31ecbed3533cc221",
+        "id": "940095ecc925b7b0",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd97f1d9ca7bb08",
+            "id": "9669ecb5c42a83a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea3836a4bd9feb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Be better Poster.canvas",
+                "viewState": {
+                  "x": -226,
+                  "y": -200,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Be better Poster.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Be better Poster.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Be better Poster.canvas"
               }
             }
           }
@@ -167,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea3836a4bd9feb94",
+  "active": "9669ecb5c42a83a0",
   "lastOpenFiles": [
     "Work/Work files/Scripts/SQL Snippets.md",
     "Notes.md",
