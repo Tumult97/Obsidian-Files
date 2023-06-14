@@ -15,14 +15,27 @@
               "state": {
                 "file": "Be better Poster.canvas",
                 "viewState": {
-                  "x": -226,
-                  "y": -200,
-                  "zoom": 0
+                  "x": -220.12043907300392,
+                  "y": -126.35164798673645,
+                  "zoom": -0.9366666413843634
                 }
               }
             }
+          },
+          {
+            "id": "09e9ef22eeac9a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting with Vencel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be better Poster.canvas",
+                "file": "Meeting with Vencel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be better Poster.canvas",
+                "file": "Meeting with Vencel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be better Poster.canvas"
+                "file": "Meeting with Vencel.md"
               }
             }
           }
@@ -157,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e141d1c640f0cfd0",
+  "active": "09e9ef22eeac9a0e",
   "lastOpenFiles": [
+    "Be better Poster.canvas",
+    "Meeting with Vencel.md",
     "Aeropinic Tower Build.md",
     "Pasted image 20230531113506.png",
-    "Be better Poster.canvas",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Untitled.canvas",
     "Work/Work files/Scripts/SQL Snippets.md",
@@ -205,7 +219,6 @@
     "Honeymoon ideas.md",
     "Work/Reviews/2023/Half 1/Notes/JP Notes.md",
     "Work/Reviews/2023/Half 1/2023  - Part 1.md",
-    "Work/Reviews/Reviews Master.md",
-    "Team Charter Showcase.md"
+    "Work/Reviews/Reviews Master.md"
   ]
 }
