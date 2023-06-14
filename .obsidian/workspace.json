@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "272a44bb982b879c",
+        "id": "ee8941d431723384",
         "type": "tabs",
         "children": [
           {
-            "id": "be4ecc35ba31f229",
+            "id": "e141d1c640f0cfd0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -169.06587493198663,
-                  "y": 735.7200256986504,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md"
               }
             }
           }
@@ -157,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be4ecc35ba31f229",
+  "active": "e141d1c640f0cfd0",
   "lastOpenFiles": [
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Untitled.canvas",
+    "Work/Work files/Scripts/SQL Snippets.md",
     "Be better Poster.canvas",
     "Notes.md",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
