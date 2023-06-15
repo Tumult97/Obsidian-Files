@@ -11,14 +11,11 @@
             "id": "12f595017eef5851",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Review/Review Action steps.canvas",
-                "viewState": {
-                  "x": 2787.8291404612164,
-                  "y": 1451.1614255765198,
-                  "zoom": -1.6276753530895582
-                }
+                "file": "Work/Reviews/2023/Half 2/2023 - part 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Review Action steps.canvas",
+                "file": "Work/Reviews/2023/Half 2/2023 - part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Review Action steps.canvas",
+                "file": "Work/Reviews/2023/Half 2/2023 - part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Review Action steps.canvas"
+                "file": "Work/Reviews/2023/Half 2/2023 - part 2.md"
               }
             }
           }
@@ -159,6 +156,7 @@
   },
   "active": "12f595017eef5851",
   "lastOpenFiles": [
+    "Review/Review Action steps.canvas",
     "Work/Reviews/2023/Half 2/2023 - part 2.md",
     "Pasted image 20230615103320.png",
     "Work/Work files/Scripts/SQL Snippets.md",
@@ -172,7 +170,6 @@
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "firefox_Ktml8lLs9Y.gif",
-    "Review/Review Action steps.canvas",
     "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Raw.md",
     "Review/Notes/Pasted image 20230528094219.png",
