@@ -11,31 +11,15 @@
             "id": "e141d1c640f0cfd0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Be better Poster.canvas",
-                "viewState": {
-                  "x": -220.12043907300392,
-                  "y": -126.35164798673645,
-                  "zoom": -0.9366666413843634
-                }
-              }
-            }
-          },
-          {
-            "id": "09e9ef22eeac9a0e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting with Vencel.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting with Vencel.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting with Vencel.md",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting with Vencel.md"
+                "file": "Work/Work files/Scripts/SQL Snippets.md"
               }
             }
           }
@@ -170,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09e9ef22eeac9a0e",
+  "active": "e141d1c640f0cfd0",
   "lastOpenFiles": [
     "Be better Poster.canvas",
     "Meeting with Vencel.md",
