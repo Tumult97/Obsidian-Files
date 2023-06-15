@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Grab the bull by the horns\n\n#### ***Taking Ownership and Accountability***\n\n> \"Don't be sorry be better\"","id":"fb7916c6db6b1c28","x":140,"y":-540,"width":485,"height":180,"color":"6"},
+		{"type":"text","text":"# Monkey Smart Monkey Strong\n\n#### ***45 Min rule and Ask for context and domain ***\n\n> Ask for help, not because you're weak, but because you want to remain strong.","id":"396e73998df4adff","x":-592,"y":-880,"width":732,"height":180,"color":"6"},
+		{"type":"text","text":"# Iron Chin\n\n#### ***Take Criticism to Improve***\n> Prove 'em wrong","id":"ad4f57db8fe97a0e","x":-1077,"y":-540,"width":485,"height":180,"color":"6"},
+		{"type":"text","text":"# Greatest Showman\n\n#### ***Up the meeting game: Planning and attention***\n> Put on a show and glow","id":"98d8e40bbc1e52be","x":5,"y":300,"width":535,"height":180,"color":"6"},
+		{"type":"text","text":"# Manners Maketh Man\n\n#### ***Professionalism***\n> Oxfords not Brogues","id":"5848650e282c8056","x":-995,"y":300,"width":535,"height":180,"color":"6"},
+		{"type":"text","text":"# Ray of Sunshine\n#### ***More Positive and Less Negative***\n> Kill 'em with kindness","id":"f4f6f8264d3f3ee1","x":-1562,"y":-140,"width":485,"height":180,"color":"6"},
+		{"type":"text","text":"# Battle Plans\n\n#### ***Solutioning more before working***\n> Spend more time in the problem phase","id":"7dc83b1b810d9371","x":625,"y":-140,"width":485,"height":180,"color":"6"},
+		{"type":"text","text":"<h6 style=\"text-align: center;\">Lead more</h6>\n<h6 style=\"text-align: center;\">Break down tasks More</h6>\n<h6 style=\"text-align: center;\">Try to be involved more in meetings</h6>\n<h6 style=\"text-align: center;\">Try to ask more questions in sprint sizing</h6>\n<h6 style=\"text-align: center;\">Try to do some cloud related certifications</h6>\n<h6 style=\"text-align: center;\">Don't stress about technical feedback</h6>\n<h6 style=\"text-align: center;\">Share experiences with others to help them in the future</h6>\n<h6 style=\"text-align: center;\">Show work off more before finished</h6>\n<h6 style=\"text-align: center;\">Try mute more in discord and meetings</h6>\n<h6 style=\"text-align: center;\">Provide more context when making queries and asking questions</h6>\n<h6 style=\"text-align: center;\">Try to remain calm</h6>\n<h6 style=\"text-align: center;\">Be respectful in meetings</h6>","id":"bf04fc9cfe034ecf","x":-535,"y":-360,"width":618,"height":620,"color":"3"}
+	],
+	"edges":[
+		{"id":"b2afae1abbbecc96","fromNode":"fb7916c6db6b1c28","fromSide":"right","toNode":"7dc83b1b810d9371","toSide":"top","color":"5"},
+		{"id":"75ba657a14655e60","fromNode":"ad4f57db8fe97a0e","fromSide":"top","toNode":"396e73998df4adff","toSide":"left","color":"5"},
+		{"id":"409498fb9bfca72b","fromNode":"396e73998df4adff","fromSide":"right","toNode":"fb7916c6db6b1c28","toSide":"top","color":"5"},
+		{"id":"e54b59385c20020e","fromNode":"f4f6f8264d3f3ee1","fromSide":"top","toNode":"ad4f57db8fe97a0e","toSide":"left","color":"5"},
+		{"id":"4c02f647bd659d8f","fromNode":"7dc83b1b810d9371","fromSide":"bottom","toNode":"98d8e40bbc1e52be","toSide":"right","color":"5"},
+		{"id":"1dbaa3e4c8368085","fromNode":"98d8e40bbc1e52be","fromSide":"left","toNode":"5848650e282c8056","toSide":"right","color":"5"},
+		{"id":"11bd47aa0d4cafa2","fromNode":"5848650e282c8056","fromSide":"left","toNode":"f4f6f8264d3f3ee1","toSide":"bottom","color":"5"}
+	]
+}
