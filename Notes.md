@@ -1,3 +1,0 @@
-- Felt as if my opinion or viewpoint wasn't considered
-- I felt as if comments I made or points I made were only half listened to before decision was made on what I said
-- 
