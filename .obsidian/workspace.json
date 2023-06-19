@@ -16,7 +16,7 @@
                 "file": "Untitled.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 465,
+                  "y": 558,
                   "zoom": 0
                 }
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "02089bfaa9693914",

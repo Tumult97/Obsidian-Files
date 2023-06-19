@@ -14,7 +14,8 @@
 		{"id":"865b8ca6e749d377","x":-60,"y":-400,"width":60,"height":60,"type":"text","text":"A"},
 		{"type":"text","text":"B","id":"bdfab4f564753e67","x":60,"y":-400,"width":60,"height":60},
 		{"type":"text","text":"C","id":"2f1569450adeda7c","x":-280,"y":260,"width":60,"height":60},
-		{"type":"text","text":"A","id":"ebe6763a30b9d2fd","x":-400,"y":260,"width":60,"height":60}
+		{"type":"text","text":"A","id":"ebe6763a30b9d2fd","x":-400,"y":260,"width":60,"height":60},
+		{"id":"f5c8f7f1173a2318","x":-420,"y":460,"width":780,"height":440,"type":"text","text":"1. Exact\n\t1. Data From == Request From && Data To == Request To\n\t2. Data From == Request To && Data To = Request From && IsBothWays\n2. Check All's From\n\t1. Data From == \"All\" && Data To == Request To\n\t2. Data From == \"All\" && Data To == Request From && IsBothWays\n3. Check All's To\n\t1. Data To == \"All\" && Data From == Request From\n\t2. Data To == \"All\" && Data From == Request To && =IsBothWays"}
 	],
 	"edges":[
 		{"id":"18b2b674e81b8ad7","fromNode":"64319fbfafcff542","fromSide":"right","toNode":"ac1157b2d6b3a4eb","toSide":"left"},
