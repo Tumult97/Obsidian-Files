@@ -11,11 +11,14 @@
             "id": "12f595017eef5851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -156,8 +159,10 @@
   },
   "active": "12f595017eef5851",
   "lastOpenFiles": [
-    "Review/Review Action steps.canvas",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
     "Pasted image 20230615103320.png",
     "Work/Work files/Scripts/SQL Snippets.md",
@@ -166,7 +171,6 @@
     "Meeting with Vencel.md",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
-    "Untitled.canvas",
     "Notes.md",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
@@ -203,7 +207,6 @@
     "().md",
     "Honeymoon ideas.md",
     "Review/Reviews/2023/Half 1/Notes/JP Notes.md",
-    "Review/Reviews/2023/Half 1/2023  - Part 1.md",
-    "Review/Reviews/Reviews Master.md"
+    "Review/Reviews/2023/Half 1/2023  - Part 1.md"
   ]
 }
