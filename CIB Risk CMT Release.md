@@ -1,7 +1,7 @@
 
 ## Steps
 
-1. Send Email:
+1. Send Email("CIB Credit Risk System Support" <CIBCreditRiskSystemSupport@standardbank.co.za>):
    Attach testing outline
 ```
 Good day @CIB Credit Risk System Support
@@ -43,4 +43,8 @@ Pipelines to deploy:
 ```
 
 2. Deploy All Pipelines(Dagon) to production
-3. 
+3. When confirmation is retuned then Go onto remedy
+	1. Page change number from dagon into remedy
+	2. Add testing outline
+	3. Add Business justification(Pdf of confirmation email)
+4. Send Email to Ops team()
