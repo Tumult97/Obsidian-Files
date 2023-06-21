@@ -19,11 +19,14 @@
             "id": "9f503e2fc2f42c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CIB Risk CMT Release.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 174.34578784703524,
+                  "y": -155.17015109223104,
+                  "zoom": -0.3333333333333333
+                }
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIB Risk CMT Release.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIB Risk CMT Release.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIB Risk CMT Release.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -166,8 +169,9 @@
   "active": "9f503e2fc2f42c59",
   "lastOpenFiles": [
     "CIB Risk CMT Release.md",
-    "Untitled",
     "Untitled.canvas",
+    "Untitled.md",
+    "Untitled",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
@@ -213,7 +217,6 @@
     "Name Question.md",
     "().md",
     "Honeymoon ideas.md",
-    "Review/Reviews/2023/Half 1/Notes/JP Notes.md",
-    "Review/Reviews/2023/Half 1/2023  - Part 1.md"
+    "Review/Reviews/2023/Half 1/Notes/JP Notes.md"
   ]
 }
