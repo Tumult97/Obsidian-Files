@@ -1,7 +1,10 @@
 
 ## Steps
 
-1. Send Email("CIB Credit Risk System Support" <CIBCreditRiskSystemSupport@standardbank.co.za>):
+1. Deploy all pipelines to prod(Leave at approval)
+2. Add to deployment history confluence page
+	1. https://aws-tools.standardbank.co.za/confluence/pages/viewpage.action?pageId=388755291
+3. Send Email("CIB Credit Risk System Support" <CIBCreditRiskSystemSupport@standardbank.co.za>):
    Attach testing outline
 ```
 Good day @CIB Credit Risk System Support
@@ -42,9 +45,8 @@ Pipelines to deploy:
 @Cornelius, Beverley (Credit Division), would you please assist us with Business Approval for the above change?
 ```
 
-2. Deploy All Pipelines(Dagon) to production
-3. When confirmation is retuned then Go onto remedy
+2. When confirmation is retuned then Go onto remedy
 	1. Page change number from dagon into remedy
 	2. Add testing outline
 	3. Add Business justification(Pdf of confirmation email)
-4. Send Email to Ops team()
+3. Send Email to Ops team()
