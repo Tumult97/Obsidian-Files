@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"1a8dc5e538232ba2","x":-540,"y":180,"width":380,"height":60,"type":"text","text":"DB Table [Limit Switch Rules Violated] "},
+		{"id":"1a8dc5e538232ba2","x":-540,"y":180,"width":380,"height":60,"color":"#ffffff","type":"text","text":"DB Table [Limit Switch Rules Violated] "},
 		{"id":"2a5a1fababab39c6","x":-578,"y":-130,"width":125,"height":50,"color":"4","type":"text","text":"Update"},
-		{"id":"f504f7a98fc87635","x":-640,"y":-270,"width":250,"height":60,"type":"text","text":"Admin rules"},
+		{"id":"f504f7a98fc87635","x":-640,"y":-270,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Admin rules"},
 		{"id":"617c82616a92240d","x":-160,"y":-260,"width":125,"height":50,"color":"5","type":"text","text":"Save"},
-		{"id":"e50fb64ad26eb356","x":180,"y":-540,"width":250,"height":60,"type":"text","text":"Limit Switches"},
+		{"id":"e50fb64ad26eb356","x":180,"y":-540,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Limit Switches"},
 		{"type":"text","text":"Credit Paper","id":"d6868f2d821392b3","x":180,"y":-680,"width":250,"height":60},
 		{"id":"b2118b93e64f0eda","x":260,"y":-80,"width":250,"height":50,"color":"1","type":"text","text":"return State"},
 		{"id":"a918eff2d34dc831","x":660,"y":-675,"width":250,"height":50,"color":"3","type":"text","text":"Update State"}
