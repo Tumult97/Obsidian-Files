@@ -5,8 +5,8 @@
 2. Add to deployment history confluence page
 	1. https://aws-tools.standardbank.co.za/confluence/pages/viewpage.action?pageId=388755291
 3. Send Email("CIB Credit Risk System Support" <CIBCreditRiskSystemSupport@standardbank.co.za>):
-   Attach testing outline
-```
+   >Attach testing outline
+```Email_Template
 Good day @CIB Credit Risk System Support
 
   
