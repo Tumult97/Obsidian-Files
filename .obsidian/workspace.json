@@ -8,30 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ab44865594912b",
+            "id": "fa76baf753f27ed6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f503e2fc2f42c59",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 174.34578784703524,
-                  "y": -155.17015109223104,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -166,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f503e2fc2f42c59",
+  "active": "fa76baf753f27ed6",
   "lastOpenFiles": [
-    "CIB Risk CMT Release.md",
     "Untitled.canvas",
+    "Untitled 1.md",
+    "CIB Risk CMT Release.md",
     "Untitled.md",
     "Untitled",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
@@ -216,7 +205,6 @@
     "Chloe Help.md",
     "Name Question.md",
     "().md",
-    "Honeymoon ideas.md",
-    "Review/Reviews/2023/Half 1/Notes/JP Notes.md"
+    "Honeymoon ideas.md"
   ]
 }
