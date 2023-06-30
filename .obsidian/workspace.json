@@ -18,6 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d8acdc87ac90506",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ]
       }
@@ -156,6 +171,8 @@
   },
   "active": "9c5b2aa263228a81",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Work/Work files/Scripts/SQL Snippets.md",
     "CIB Risk CMT Release.md",
     "Tree.md",
     "Untitled.canvas",
@@ -165,7 +182,6 @@
     "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
     "Pasted image 20230615103320.png",
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Aeropinic Tower Build.md",
     "Be better Poster.canvas",
     "Meeting with Vencel.md",
