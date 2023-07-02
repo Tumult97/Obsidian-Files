@@ -11,4 +11,5 @@ ___
 |4|110mm PVC 90° PVC Drain Elbow|
 |1|110mm PVC 45° PVC Wye|
 |2|110mm PVC Drain Cap|
-|1|50mm x 2m |
+|1|50mm x 2m 280 Psi Schedule 40 PVC Pipe|
+|1||
