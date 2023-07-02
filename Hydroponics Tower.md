@@ -13,4 +13,11 @@ ___
 |2|110mm PVC Drain Cap|
 |1|50mm x 2m 280 Psi Schedule 40 PVC Pipe|
 |1|2000 ℓ/h 30W submersible pump|
+|?|Nets for plants(See how many needed after assembly)|
+|?|Coconut core netted pellets|
+|1|Bottle of plant food|
+|1|PVC cement and primer|
+
+___
+
 
