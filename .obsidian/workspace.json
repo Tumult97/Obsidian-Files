@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec819edd15ad6cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Work files/System docs/TM/Team management Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Work/Work files/System docs/TM/Team management Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Work/Work files/System docs/TM/Team management Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md"
+                "file": "Work/Work files/System docs/TM/Team management Roles.md"
               }
             }
           }
@@ -154,18 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2d4fc830f0fe6b",
+  "active": "ec819edd15ad6cad",
   "lastOpenFiles": [
+    "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Work/Work files/System docs/TM/Team management Roles.md",
+    "Work/Work files/System docs/TM",
     "Hydroponics Tower.md",
     "Pasted image 20230702172602.png",
     "Tree.md",
     "Untitled.canvas",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Untitled 1.canvas",
     "CIB Risk CMT Release.md",
     "Untitled 1.md",
-    "Untitled",
     "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
     "Pasted image 20230615103320.png",
