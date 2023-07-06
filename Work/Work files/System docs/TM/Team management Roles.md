@@ -27,3 +27,11 @@
 	  
 - Chief Risk Officer
 	- Set by the Admin of the system
+
+
+## Effect of Roles
+
+1. Roles define visibility and access on other systems that pull data from TM
+	1. WHat applications can be seen on DCP
+	2. What customers covenant s you can see on Covenant tracker
+	3. etc
