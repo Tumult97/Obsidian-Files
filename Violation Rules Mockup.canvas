@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"beb3c733c6070af0","x":-800,"y":-420,"width":720,"height":540,"type":"text","text":"# Model\n\n```ts\nexport class RuleViolatedListItemModel {\n\tru\n}\n```"}
-	],
-	"edges":[]
-}
