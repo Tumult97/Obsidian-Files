@@ -28,6 +28,13 @@ ___
 		- Catchall
 
 
+- Analyze using PESTEL
+	- P
+	- E
+	- S
+	- T
+	- E
+	- L
 
 ___
 # The Segments
