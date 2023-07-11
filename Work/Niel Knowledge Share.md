@@ -60,8 +60,9 @@ ___
 		2.  T/C(*Convertibility/Transferability*) Risk
 			1. Sale of Exchange ($ <=> R)
 			2. Policy (!= $)
-	- 
 
+- Rating 1 => 25
+	- |----|
 ___
 ## The Segments
 
