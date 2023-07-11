@@ -36,6 +36,12 @@ ___
 	- E
 	- L
 
+- Risk Grade (CRS)
+	- Statistical score of client defaulting in next year ` 1 - 25 `
+	- 1  ==> 0.0001% (Singapore)
+	- 25 ==> 40% (Ghana)
+	- 
+
 ___
 # The Segments
 
