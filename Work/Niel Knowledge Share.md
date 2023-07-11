@@ -32,7 +32,7 @@ ___
 		- Risk of just operating
 		- Catchall
 
-- Analyze using PESTEL
+- Analyze using _PESTEL_
 	- P
 	- E
 	- S
@@ -61,8 +61,7 @@ ___
 			1. Sale of Exchange ($ <=> R)
 			2. Policy (!= $)
 
-- Rating 1 => 25
-	- 
+- Rating 1 >=> 25
 ___
 ## The Segments
 
