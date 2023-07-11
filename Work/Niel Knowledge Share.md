@@ -62,7 +62,7 @@ ___
 			2. Policy (!= $)
 
 - Rating 1 => 25
-	- |----|
+	- |----| 
 ___
 ## The Segments
 
