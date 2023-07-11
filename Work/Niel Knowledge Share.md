@@ -49,6 +49,15 @@ ___
 		- 
 	- Are limit proposing worth while for risk we are taking
 
+- Country RISK - Sovereign Risk
+	- Country has credit profile
+		1.  Own risk grade based on balanced of imports, tax collection, etc
+			1. RG
+		2.  T/C(*Convertibility/Transferability*) Risk
+			1. Sale of Exchange ($ <=> R)
+			2. Policy (!= $)
+	- 
+
 ___
 # The Segments
 

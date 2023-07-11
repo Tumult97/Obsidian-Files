@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niel Knowledge Share.md",
+                "file": "Work/Niel Knowledge Share.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Niel Knowledge Share.md",
+                "file": "Work/Niel Knowledge Share.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niel Knowledge Share.md",
+                "file": "Work/Niel Knowledge Share.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niel Knowledge Share.md"
+                "file": "Work/Niel Knowledge Share.md"
               }
             }
           }
@@ -170,7 +170,7 @@
   "active": "c80333f94b66e2d9",
   "lastOpenFiles": [
     "Kitchen Redesign.md",
-    "Niel Knowledge Share.md",
+    "Work/Niel Knowledge Share.md",
     "Pasted image 20230709164216.png",
     "Images/Pasted image 20230709163650.png",
     "Work/CIB Risk CMT Release.md",
