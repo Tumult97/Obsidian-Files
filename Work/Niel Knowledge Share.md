@@ -32,7 +32,6 @@ ___
 		- Risk of just operating
 		- Catchall
 
-
 - Analyze using PESTEL
 	- P
 	- E
