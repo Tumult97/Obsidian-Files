@@ -40,7 +40,14 @@ ___
 	- Statistical score of client defaulting in next year ` 1 - 25 `
 	- 1  ==> 0.0001% (Singapore)
 	- 25 ==> 40% (Ghana)
-	- 
+	- Argument
+		- How likely are you to default
+		- What are you going to lose(LGD) 
+	- Land up with combined(CCAP: ` Counterparty Concentration A Policy `)
+		- ` WEGR x WEPD X Exposure = X / CCAP `
+		- Changed Monthly
+		- 
+	- Are limit proposing worth while for risk we are taking
 
 ___
 # The Segments
