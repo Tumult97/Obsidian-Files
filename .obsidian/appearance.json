@@ -3,6 +3,6 @@
   "cssTheme": "Things",
   "baseFontSize": 15,
   "interfaceFontFamily": "",
-  "textFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "Victor Mono,FiraCode Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono,Victor Mono"
 }
