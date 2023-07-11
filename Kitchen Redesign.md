@@ -4,8 +4,8 @@
 
 # Counter
 1. From door to wall(not including slant) - 3200mm
-2. Island - 1900mm
-3. Corner - 650mm
+2. Island :- 1900mm
+3. Corner :- 650mm
 
 
 
