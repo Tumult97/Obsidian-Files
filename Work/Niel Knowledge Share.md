@@ -46,7 +46,7 @@ ___
 	- 25 ==> 40% (Ghana)
 	- Argument
 		- How likely are you to default
-		- What are you going to lose(LGD) 
+		- What are you going to lose(LGD => Loss Given Default) 
 	- Land up with combined(CCAP: ` Counterparty Concentration A Policy `)
 		- ` WEGR x WEPD X Exposure = X / CCAP `
 		- Changed Monthly
