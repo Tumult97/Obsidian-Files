@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kitchen Redesign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c80333f94b66e2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "5082c96706ba0b39",
   "lastOpenFiles": [
+    "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
+    "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Review/Reviews/2023/Half 2/Official Reviews",
     "Work/Niel Knowledge Share.md",
     "Kitchen Redesign.md",
     "Pasted image 20230709164216.png",
@@ -178,7 +168,6 @@
     "Tree.md",
     "Violation Rules Mockup.canvas",
     "Images",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Work/Work files/System docs/TM/Team management Roles.md",
     "Work/Work files/System docs/TM",
     "Hydroponics Tower.md",
@@ -219,8 +208,6 @@
     "New Text Document.txt",
     "Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Work/Work files/System docs/Images",
-    "Discovery Bank.md",
-    "Work/Work files/System docs/DCP",
-    "Chloe Help.md"
+    "Discovery Bank.md"
   ]
 }
