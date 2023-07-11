@@ -14,17 +14,20 @@ ___
 		- Can make money in 2 ways
 			- CHarge interest
 			- Charge fee
-	1. Market Risk
+	2. Market Risk
 		- Risk of being active in an active state
 		- Interest rate 
 		- FX Risk
 		- Vendors 
 		- Software
 		- Forex
-	2. Non financial Risk(NFR)(OPS Risk)
+	3. Non financial Risk(NFR)(OPS Risk)
+		- Not optional
 		- Not credit or market risk
 		- Risk of just operating
 		- Catchall
+
+
 
 ___
 # The Segments
@@ -38,3 +41,13 @@ ___
 # The Apps
 
 
+## DCP
+
+
+## CT
+
+
+## E&S
+
+
+## TM
