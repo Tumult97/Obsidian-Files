@@ -1,11 +1,13 @@
-
 ___
-# The Bank
+```toc
+```
+___
+## The Bank
 
 - Deposit funded
 
 ___
-# The Risk
+## The Risk
 
 - Types 
 	1. Credit Risk
@@ -59,30 +61,30 @@ ___
 	- 
 
 ___
-# The Segments
+## The Segments
 
 
 ___
-# The Process
+## The Process
 
 
 ___
-# The Apps
+## The Apps
 
 
-## DCP
+### DCP
 
 
-## CT
+### CT
 
 
-## E&S
+### E&S
 
 
-## TM
+### TM
 
 
-# Notes
+## Notes
 
 - ESG -> E&S 
 	- E -> Environmental
