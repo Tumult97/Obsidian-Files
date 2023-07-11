@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }
