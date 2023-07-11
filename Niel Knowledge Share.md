@@ -2,7 +2,7 @@
 ___
 # The Bank
 
-- 
+- Deposit funded
 
 ___
 # The Risk
