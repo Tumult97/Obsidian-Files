@@ -63,3 +63,6 @@ ___
 # Notes
 
 - ESG -> E&S 
+	- E -> Environmental
+	- S -> Social
+	- G -> Governance
