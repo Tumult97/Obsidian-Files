@@ -5,9 +5,6 @@ ___
 ___
 
 # *Knowledge*
-## The Bank
-
-- Deposit funded
 
 ___
 ## The Risk
@@ -33,12 +30,12 @@ ___
 		- Catchall
 
 - Analyze using _PESTEL_
-	- P
-	- E
-	- S
-	- T
-	- E
-	- L
+	- P - Political
+	- E - Eco
+	- S - Social
+	- T - Technological
+	- E - Environment
+	- L - Legal
 
 - Risk Grade (CRS)
 	- Statistical score of client defaulting in next year ` 1 - 25 `
@@ -62,28 +59,6 @@ ___
 			2. Policy (!= $)
 
 - Rating 1 >=> 25
-___
-## The Segments
-
-
-___
-## The Process
-
-
-___
-## The Apps
-
-
-### DCP
-
-
-### CT
-
-
-### E&S
-
-
-### TM
 
 
 ## Notes
