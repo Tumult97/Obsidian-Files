@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddaa3f5365da8a64",
+        "id": "226662f47f3ff3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "54c2761958d26f19",
+            "id": "b580adf8cad948b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c2761958d26f19",
+  "active": "b580adf8cad948b8",
   "lastOpenFiles": [
-    "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
+    "Review/Reviews/2022/2022 - Half 2.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
     "Work/Niel Knowledge Share.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
     "Kitchen Redesign.md",
@@ -194,20 +202,12 @@
     "Review/Notes/Pasted image 20230528093705.png",
     "Modal ticket template.md",
     "Work/Work files/Templates/Gitlab Template.md",
-    "Work/Ticket Template.md",
     "Review/Notes/Outtakes",
-    "Review/Notes/Additional comments.md",
-    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw",
     "Review/Notes",
     "Review",
-    "2023-05-24 Sprint Objective review.md",
-    "Work/Work files/Work Files.md",
-    "Work/Master.md",
-    "DevConf stuff top attend.md",
     "New Text Document.txt",
     "Work/Work files/System docs/Images/Pasted image 20230523133942.png",
-    "Work/Work files/System docs/Images",
-    "Discovery Bank.md"
+    "Work/Work files/System docs/Images"
   ]
 }
