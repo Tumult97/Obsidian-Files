@@ -36,5 +36,18 @@
 
 ## *Result*
 
-> TODO: Add mockup below
 > TODO: Export pdf
+
+![[Pasted image 20230731120238.png]]
+
+1. Have list of objects that have filter settings 
+	1. Possible make preference tab with saving to db for users
+
+2. *Model for a chip to make it dynamic* (as an example)
+```json
+{
+	name: "My Teams Applications",
+	paperStatusCode: "INP",
+	countryCode: "SA" 
+}
+```
