@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eaff0958281d858b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DCP dashboard tabs refactor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "DCP dashboard tabs refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "DCP dashboard tabs refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md"
+                "file": "DCP dashboard tabs refactor.md"
               }
             }
           }
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "eaff0958281d858b",
   "lastOpenFiles": [
+    "Work/Work files/Scripts/SQL Snippets.md",
+    "DCP dashboard tabs refactor.md",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Review/Reviews/2022/2022 - Half 2.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
@@ -180,7 +195,6 @@
     "Work/Work files/System docs/TM",
     "Hydroponics Tower.md",
     "Images/Pasted image 20230702172602.png",
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Untitled 1.canvas",
     "Untitled 1.md",
     "Review/Review Action steps.canvas",
@@ -201,7 +215,6 @@
     "Review/Notes/Pasted image 20230528092747.png",
     "Review/Notes/Pasted image 20230528093705.png",
     "Modal ticket template.md",
-    "Work/Work files/Templates/Gitlab Template.md",
     "Review/Notes/Outtakes",
     "Excalidraw",
     "Review/Notes",
