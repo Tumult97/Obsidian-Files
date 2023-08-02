@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "226662f47f3ff3a5",
+        "id": "a3b14c6abeffec54",
         "type": "tabs",
         "children": [
           {
-            "id": "b580adf8cad948b8",
+            "id": "21d2cf9b36d603f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaff0958281d858b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DCP dashboard tabs refactor.md",
+                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DCP dashboard tabs refactor.md",
+                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DCP dashboard tabs refactor.md",
+                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DCP dashboard tabs refactor.md"
+                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md"
               }
             }
           }
@@ -167,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaff0958281d858b",
+  "active": "21d2cf9b36d603f0",
   "lastOpenFiles": [
+    "Work/Work files/Scripts/SQL Snippets.md",
+    "DCP dashboard tabs refactor.md",
     "Pasted image 20230731120238.png",
     "firefox_FqGaaHNltf.png",
     "firefox_D8L6nATfh0.png",
     "firefox_SdUKQihji2.png",
     "firefox_vS3QQKaiQi.png",
-    "Work/Work files/Scripts/SQL Snippets.md",
-    "DCP dashboard tabs refactor.md",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Review/Reviews/2022/2022 - Half 2.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
@@ -213,7 +200,6 @@
     "Notes.md",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
-    "firefox_Ktml8lLs9Y.gif",
     "Review/Notes/Outtakes/Outtakes.md",
     "Review/Notes/Raw.md",
     "Review/Notes/Outtakes",
