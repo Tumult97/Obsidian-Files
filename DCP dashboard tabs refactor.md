@@ -51,3 +51,6 @@
 	countryCode: "SA" 
 }
 ```
+
+3. Make filter section collapsable
+4. 
