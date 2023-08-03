@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Access Tokens.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Access Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Access Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md"
+                "file": "Work/Access Tokens.md"
               }
             }
           }
@@ -156,10 +156,11 @@
   },
   "active": "21d2cf9b36d603f0",
   "lastOpenFiles": [
+    "Work/Work files/Scripts/SQL Snippets.md",
+    "Work/Access Tokens.md",
     "DCP dashboard tabs refactor.md",
     "Images/Pasted image 20230731120238.png",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
