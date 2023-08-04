@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "700be35a668be7dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Expedited credit paper approval.canvas",
+                "viewState": {
+                  "x": -420,
+                  "y": -150,
+                  "zoom": -0.03847414781463583
+                }
+              }
+            }
+          },
+          {
             "id": "03381185ed277d40",
             "type": "leaf",
             "state": {
@@ -17,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
