@@ -21,6 +21,16 @@
                 }
               }
             }
+          },
+          {
+            "id": "3c7f54526fc37357",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -154,13 +164,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "03381185ed277d40",
   "lastOpenFiles": [
-    "Work/Access Tokens.md",
+    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Expedited credit paper approval.canvas",
+    "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Untitled",
     "Work/Work files/Scripts/SQL Snippets.md",
@@ -203,7 +215,6 @@
     "Meeting with Vencel.md",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
-    "Notes.md",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "Review/Notes/Outtakes",
