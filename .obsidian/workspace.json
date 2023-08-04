@@ -15,9 +15,9 @@
               "state": {
                 "file": "Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": -796.1912197987838,
-                  "y": 410.62668828332613,
-                  "zoom": -1.451566737896575
+                  "x": -1755.4995783487634,
+                  "y": -310.4713946468096,
+                  "zoom": -0.45156673789657525
                 }
               }
             }
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expedited credit paper approval.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expedited credit paper approval.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Expedited credit paper approval.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,15 +164,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2223a61765254535",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Hackathon",
     "Expedited credit paper approval.canvas",
-    "Untitled.md",
+    "Ha.md",
+    "H.md",
+    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
-    "Untitled",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
@@ -213,7 +210,6 @@
     "Pasted image 20230615103320.png",
     "Aeropinic Tower Build.md",
     "Be better Poster.canvas",
-    "Meeting with Vencel.md",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
