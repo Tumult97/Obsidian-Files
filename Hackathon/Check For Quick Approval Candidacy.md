@@ -17,3 +17,11 @@
 		- is deteroriating
 
  If all *Low Risk* then qualifies for quick approval.
+
+
+# Excluded papers
+- COUntry risk
+- Equity risk
+- FI
+- NBFI
+- limti switch
