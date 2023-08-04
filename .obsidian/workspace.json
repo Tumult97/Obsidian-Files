@@ -51,15 +51,15 @@
               "state": {
                 "file": "Hackathon/Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": -690.4645877117183,
-                  "y": 231.53747081750961,
+                  "x": -1154.81593906307,
+                  "y": -38.86793458789592,
                   "zoom": -0.8990710911492197
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Expedited credit paper approval.canvas",
+                "file": "Hackathon/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Expedited credit paper approval.canvas",
+                "file": "Hackathon/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Expedited credit paper approval.canvas"
+                "file": "Hackathon/Ideas.md"
               }
             }
           }
@@ -195,11 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a19d59a8ba2209b8",
+  "active": "091712be16668a3f",
   "lastOpenFiles": [
+    "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
     "Hackathon/Expedited credit paper approval.canvas",
-    "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Check For Quick Approval Candidacy.md",
     "Ha.md",
     "Hackathon",
