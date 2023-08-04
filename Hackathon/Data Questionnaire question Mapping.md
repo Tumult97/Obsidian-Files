@@ -1,4 +1,4 @@
-
+# Data Questionnaire question Mapping
 
 - Is there facility subordination e.g. junior ranking?
 	- 
@@ -29,6 +29,5 @@
 - Is there Equity Risk Exposure?
 	- 
 - Has the LGD been overridden?
-	- 
+	
 - Does the Economic Group or Entity form part of the China Portfolio?
-	- 
