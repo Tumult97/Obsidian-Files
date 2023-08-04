@@ -16,8 +16,19 @@
                 "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "59a4cc774d0f250c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -92,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md"
+                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md"
               }
             }
           }
@@ -154,12 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38e46fd2938e1572",
+  "active": "59a4cc774d0f250c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
     "Pasted Image 20230804125254_568.gif",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
@@ -197,7 +207,6 @@
     "Violation Rules Mockup.canvas",
     "Images",
     "Work/Work files/System docs/TM",
-    "Images/Pasted image 20230702172602.png",
     "Untitled 1.canvas",
     "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
