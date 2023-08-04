@@ -3,7 +3,7 @@
 		{"type":"text","text":"# *Corporate Papers*\n\n- Linked with CIF Number\n- On Creation do checks\n\t- *Yes* or *No* (is *Low Risk*)\n\t\t- Check the following:\n\t\t- Breached Covenants\n\t\t- E&S Ratings\n\t\t- PD Ratings / LGD / Overridden LGD\n\t\t- Collateral\n\t\t- Products Limits\n\t\t- Financials/Spreadpac\n\t\t- CCM\n\t\t- Ratings Info Section\n\t- Purely *Boolean*\n- Prepopulate \n\t- Decision Questionnaire\n\t- Default section info\n- Send for final approval immediately","id":"7125826101b194e9","x":-1180,"y":-540,"width":420,"height":540},
 		{"type":"file","file":"Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md","id":"1b0002c411b04b89","x":-660,"y":-173,"width":1020,"height":1200},
 		{"type":"text","text":"Workflow Change","id":"bef233ea8022d9ab","x":-1095,"y":280,"width":250,"height":50},
-		{"id":"b91e7aba81660b12","x":626,"y":-411,"width":250,"height":60,"type":"text","text":"# Check For Quick Approval "}
+		{"id":"b91e7aba81660b12","x":626,"y":-411,"width":434,"height":111,"type":"text","text":"# Check For Quick Approval Screening\n\n"}
 	],
 	"edges":[
 		{"id":"7636ecd6cd1f931c","fromNode":"7125826101b194e9","fromSide":"bottom","toNode":"bef233ea8022d9ab","toSide":"top"},
