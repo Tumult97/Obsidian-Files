@@ -4,35 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ef3c8e99f0b279",
+        "id": "c6b3c7ca52ac9ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "2223a61765254535",
+            "id": "d1986e9058f4991e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Expedited credit paper approval.canvas",
-                "viewState": {
-                  "x": -1755.4995783487634,
-                  "y": -310.4713946468096,
-                  "zoom": -0.45156673789657525
-                }
+                "file": "Hackathon/Check For Quick Approval Candidacy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "09d6ec24fdc24b1e",
+            "id": "31b70d80e804ae64",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+                "file": "Hackathon/Data Questionnaire question Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "091712be16668a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackathon/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19d59a8ba2209b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Hackathon/Expedited credit paper approval.canvas",
+                "viewState": {
+                  "x": -690.4645877117183,
+                  "y": 231.53747081750961,
+                  "zoom": -0.8990710911492197
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hackathon/Expedited credit paper approval.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hackathon/Expedited credit paper approval.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hackathon/Expedited credit paper approval.canvas"
+              }
             }
           }
         ]
@@ -164,13 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "a19d59a8ba2209b8",
   "lastOpenFiles": [
-    "Hackathon",
-    "Expedited credit paper approval.canvas",
+    "Hackathon/Ideas.md",
+    "Hackathon/Expedited credit paper approval.canvas",
+    "Hackathon/Data Questionnaire question Mapping.md",
+    "Hackathon/Check For Quick Approval Candidacy.md",
     "Ha.md",
+    "Hackathon",
     "H.md",
-    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
@@ -201,14 +235,11 @@
     "Images",
     "Work/Work files/System docs/TM/Team management Roles.md",
     "Work/Work files/System docs/TM",
-    "Hydroponics Tower.md",
     "Images/Pasted image 20230702172602.png",
     "Untitled 1.canvas",
-    "Untitled 1.md",
     "Review/Review Action steps.canvas",
     "Review/Be Better Poster.canvas",
     "Pasted image 20230615103320.png",
-    "Aeropinic Tower Build.md",
     "Be better Poster.canvas",
     "Pasted image 20230531113506.png",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",

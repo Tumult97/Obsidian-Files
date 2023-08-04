@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"798e1243f43330ae","x":-2600,"y":-860,"width":3680,"height":2540,"label":"DCP"},
+		{"type":"group","id":"3a483c11c5936369","x":2000,"y":-860,"width":920,"height":1811,"label":"C360"},
+		{"type":"text","text":"# *Corporate Papers*\n\n- Linked with CIF Number\n- On Creation do checks\n\t- *Yes* or *No* (is *Low Risk*)\n\t\t- Check the following:\n\t\t- Breached Covenants\n\t\t- E&S Ratings\n\t\t- PD Ratings / LGD / Overridden LGD\n\t\t- Collateral\n\t\t- Products Limits\n\t\t- Financials/Spreadpac\n\t\t- CCM\n\t\t- Ratings Info Section\n\t- Purely *Boolean*\n- Prepopulate \n\t- Decision Questionnaire\n\t- Default section info\n- Send for final approval immediately","id":"7125826101b194e9","x":-1840,"y":-825,"width":420,"height":540},
+		{"type":"file","file":"Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md","id":"1b0002c411b04b89","x":-200,"y":-825,"width":1220,"height":1425},
+		{"type":"file","file":"Hackathon/Check For Quick Approval Candidacy.md","id":"492a205b8b99b03f","x":-2580,"y":-825,"width":620,"height":465},
+		{"type":"file","file":"Hackathon/Data Questionnaire question Mapping.md","id":"f6e58ea9c407161c","x":-2580,"y":-200,"width":900,"height":1800},
+		{"id":"0fcc23469297ec10","x":-1360,"y":-485,"width":1000,"height":2085,"type":"file","file":"Hackathon/Ideas.md"}
+	],
+	"edges":[
+		{"id":"9aacfac185b6c7e0","fromNode":"798e1243f43330ae","fromSide":"right","toNode":"3a483c11c5936369","toSide":"left"},
+		{"id":"12845e95673a4483","fromNode":"7125826101b194e9","fromSide":"right","toNode":"1b0002c411b04b89","toSide":"top","label":"Workflow"},
+		{"id":"f819bd4179b68903","fromNode":"7125826101b194e9","fromSide":"left","toNode":"492a205b8b99b03f","toSide":"right"},
+		{"id":"74779b4862312fbd","fromNode":"7125826101b194e9","fromSide":"bottom","toNode":"f6e58ea9c407161c","toSide":"top"},
+		{"id":"9282ba37d1f5295a","fromNode":"7125826101b194e9","fromSide":"bottom","toNode":"0fcc23469297ec10","toSide":"left"}
+	]
+}
