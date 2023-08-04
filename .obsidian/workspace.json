@@ -15,8 +15,8 @@
               "state": {
                 "file": "Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": -410,
-                  "y": 243.5,
+                  "x": 466.3045073375263,
+                  "y": 35.716457023060855,
                   "zoom": -0.8534475322170036
                 }
               }
@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Expedited credit paper approval.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Expedited credit paper approval.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+                "file": "Expedited credit paper approval.canvas"
               }
             }
           }
@@ -169,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09d6ec24fdc24b1e",
+  "active": "2223a61765254535",
   "lastOpenFiles": [
-    "Expedited credit paper approval.canvas",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Expedited credit paper approval.canvas",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Untitled",
