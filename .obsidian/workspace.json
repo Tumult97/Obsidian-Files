@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -163,8 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38e46fd2938e1572",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Pasted Image 20230804130007_821.png",
@@ -202,7 +205,6 @@
     "Images/Pasted image 20230709164216.png",
     "Images/Pasted image 20230709163650.png",
     "Work/CIB Risk CMT Release.md",
-    "Tree.md",
     "Violation Rules Mockup.canvas",
     "Images",
     "Work/Work files/System docs/TM",
