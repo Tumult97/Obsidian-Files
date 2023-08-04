@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md"
               }
             }
           }
@@ -164,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59a4cc774d0f250c",
+  "active": "38e46fd2938e1572",
   "lastOpenFiles": [
+    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
@@ -177,7 +177,6 @@
     "Ha.md",
     "Hackathon",
     "H.md",
-    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
