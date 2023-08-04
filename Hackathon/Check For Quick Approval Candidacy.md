@@ -11,5 +11,9 @@
 	- Financials/Spreadpac
 	- CCM
 	- Ratings Info Section
+	- CRS ratings
+		- SB{number}
+		- Mapping
+		- is deteroriating
 
  If all *Low Risk* then qualifies for quick approval.
