@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Ideas.md",
+                "file": "Hackathon/Check For Quick Approval Candidacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Ideas.md",
+                "file": "Hackathon/Check For Quick Approval Candidacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Ideas.md"
+                "file": "Hackathon/Check For Quick Approval Candidacy.md"
               }
             }
           }
@@ -195,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "091712be16668a3f",
+  "active": "d1986e9058f4991e",
   "lastOpenFiles": [
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
