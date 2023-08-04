@@ -1,17 +1,18 @@
 {
 	"nodes":[
-		{"id":"798e1243f43330ae","x":-2180,"y":-860,"width":3260,"height":1811,"type":"group","label":"DCP"},
-		{"id":"3a483c11c5936369","x":2520,"y":-860,"width":400,"height":400,"type":"group","label":"C360"},
-		{"id":"b91e7aba81660b12","x":-2160,"y":-840,"width":594,"height":431,"type":"text","text":"# Check For Quick Approval Candidacy\n\n> *Yes* or *No* **only**\n\n- Check the following:\n\t- Breached Covenants\n\t- E&S Ratings\n\t- PD Ratings / LGD / Overridden LGD\n\t- Collateral\n\t- Products Limits\n\t- Financials/Spreadpac\n\t- CCM\n\t- Ratings Info Section\n\n If all *Low Risk* then qualifies for quick approval.\n"},
+		{"type":"group","id":"798e1243f43330ae","x":-2180,"y":-860,"width":3260,"height":1811,"label":"DCP"},
+		{"type":"group","id":"3a483c11c5936369","x":2040,"y":-1280,"width":920,"height":1811,"label":"C360"},
+		{"type":"text","text":"# Check For Quick Approval Candidacy\n\n> *Yes* or *No* **only**\n\n- Check the following:\n\t- Breached Covenants\n\t- E&S Ratings\n\t- PD Ratings / LGD / Overridden LGD\n\t- Collateral\n\t- Products Limits\n\t- Financials/Spreadpac\n\t- CCM\n\t- Ratings Info Section\n\n If all *Low Risk* then qualifies for quick approval.\n","id":"b91e7aba81660b12","x":-2160,"y":-840,"width":594,"height":431},
 		{"type":"text","text":"# *Corporate Papers*\n\n- Linked with CIF Number\n- On Creation do checks\n\t- *Yes* or *No* (is *Low Risk*)\n\t\t- Check the following:\n\t\t- Breached Covenants\n\t\t- E&S Ratings\n\t\t- PD Ratings / LGD / Overridden LGD\n\t\t- Collateral\n\t\t- Products Limits\n\t\t- Financials/Spreadpac\n\t\t- CCM\n\t\t- Ratings Info Section\n\t- Purely *Boolean*\n- Prepopulate \n\t- Decision Questionnaire\n\t- Default section info\n- Send for final approval immediately","id":"7125826101b194e9","x":-1460,"y":-590,"width":420,"height":540},
-		{"type":"text","text":"Workflow Change","id":"bef233ea8022d9ab","x":-840,"y":-560,"width":250,"height":50},
-		{"id":"f486078012fd0451","x":-2160,"y":120,"width":960,"height":800,"type":"text","text":"# Ideas\n\n- New Credit Paper type: Corporate - Quick Approval\n\t- Don't show in dropdown\n- Separate workflow\n- Separate module for quick approvals\n- "},
-		{"type":"file","file":"Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md","id":"1b0002c411b04b89","x":-960,"y":-280,"width":1020,"height":1200}
+		{"type":"text","text":"# Ideas\n\n- New Credit Paper type: Corporate - Quick Approval\n\t- Don't show in dropdown\n- Separate workflow\n- Separate module for quick approvals\n- ","id":"f486078012fd0451","x":-2160,"y":120,"width":960,"height":800},
+		{"type":"text","text":"Workflow Change","id":"bef233ea8022d9ab","x":-1140,"y":-800,"width":250,"height":50},
+		{"type":"file","file":"Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md","id":"1b0002c411b04b89","x":-1000,"y":-720,"width":1020,"height":1200}
 	],
 	"edges":[
 		{"id":"f839a649035994e4","fromNode":"7125826101b194e9","fromSide":"left","toNode":"b91e7aba81660b12","toSide":"right"},
-		{"id":"48e8a60a847957bd","fromNode":"7125826101b194e9","fromSide":"right","toNode":"bef233ea8022d9ab","toSide":"left"},
+		{"id":"48e8a60a847957bd","fromNode":"7125826101b194e9","fromSide":"top","toNode":"bef233ea8022d9ab","toSide":"left"},
 		{"id":"366d4accc6af60b3","fromNode":"7125826101b194e9","fromSide":"bottom","toNode":"f486078012fd0451","toSide":"top"},
-		{"id":"cf60745301554294","fromNode":"bef233ea8022d9ab","fromSide":"right","toNode":"1b0002c411b04b89","toSide":"top"}
+		{"id":"3ab5da830b33a88d","fromNode":"bef233ea8022d9ab","fromSide":"right","toNode":"1b0002c411b04b89","toSide":"top"},
+		{"id":"9aacfac185b6c7e0","fromNode":"798e1243f43330ae","fromSide":"right","toNode":"3a483c11c5936369","toSide":"left"}
 	]
 }

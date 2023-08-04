@@ -15,9 +15,9 @@
               "state": {
                 "file": "Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": -1833.8547565680808,
-                  "y": 303.7565000067141,
-                  "zoom": 0.47988580111632934
+                  "x": -1724.008287341084,
+                  "y": 523.1059245991471,
+                  "zoom": -0.11823340456324194
                 }
               }
             }
@@ -29,26 +29,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "204a3f98d0b7857a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2736efeb8a8ec6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -190,14 +170,14 @@
   },
   "active": "2223a61765254535",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Untitled.md",
     "Expedited credit paper approval.canvas",
-    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Untitled",
     "Work/Work files/Scripts/SQL Snippets.md",
-    "DCP dashboard tabs refactor.md",
     "Images/Pasted image 20230731120238.png",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
@@ -235,7 +215,6 @@
     "Be better Poster.canvas",
     "Meeting with Vencel.md",
     "Pasted image 20230531113506.png",
-    "Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "Review/Notes/Outtakes",
