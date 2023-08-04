@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "36ea7687766880cc",
+        "id": "d5ef3c8e99f0b279",
         "type": "tabs",
         "children": [
           {
-            "id": "700be35a668be7dc",
+            "id": "2223a61765254535",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": -420,
-                  "y": -150,
-                  "zoom": -0.03847414781463583
+                  "x": -410,
+                  "y": 243.5,
+                  "zoom": -0.8534475322170036
                 }
               }
             }
           },
           {
-            "id": "03381185ed277d40",
+            "id": "09d6ec24fdc24b1e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -169,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03381185ed277d40",
+  "active": "09d6ec24fdc24b1e",
   "lastOpenFiles": [
     "Expedited credit paper approval.canvas",
     "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
