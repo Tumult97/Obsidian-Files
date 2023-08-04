@@ -15,9 +15,9 @@
               "state": {
                 "file": "Expedited credit paper approval.canvas",
                 "viewState": {
-                  "x": 466.3045073375263,
-                  "y": 35.716457023060855,
-                  "zoom": -0.8534475322170036
+                  "x": -1833.8547565680808,
+                  "y": 303.7565000067141,
+                  "zoom": 0.47988580111632934
                 }
               }
             }
@@ -29,6 +29,26 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "204a3f98d0b7857a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2736efeb8a8ec6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -170,8 +190,9 @@
   },
   "active": "2223a61765254535",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Untitled.md",
     "Expedited credit paper approval.canvas",
+    "Excalidraw/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Untitled",

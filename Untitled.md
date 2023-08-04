@@ -1,0 +1,9 @@
+- Check the following:
+	- Breached Covenants
+	- E&S Ratings
+	- PD Ratings / LGD / Overridden LGD
+	- Collateral
+	- Products Limits
+	- Financials/Spreadpac
+	- CCM
+	- Ratings Info Section
