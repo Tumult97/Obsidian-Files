@@ -11,5 +11,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-dirtreeist",
   "copy-document-as-html",
-  "obsidian-html-entity"
+  "obsidian-html-entity",
+  "obsidian-pandoc"
 ]

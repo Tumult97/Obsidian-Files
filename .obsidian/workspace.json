@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5168649230c6df27",
+        "id": "26f46a381c360edd",
         "type": "tabs",
         "children": [
           {
-            "id": "38e46fd2938e1572",
+            "id": "60e8497eb15808e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md"
+                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "59a4cc774d0f250c",
+            "id": "bf7efa062b241243",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md"
+                "file": "Grade 5 English.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+                "file": "Grade 5 English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+                "file": "Grade 5 English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md"
+                "file": "Grade 5 English.md"
               }
             }
           }
@@ -160,12 +164,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "38e46fd2938e1572",
+  "active": "bf7efa062b241243",
   "lastOpenFiles": [
+    "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Grade 5 English.md",
+    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
+    "Work/Access Tokens.md",
+    "Work/CIB Risk CMT Release.md",
+    "Work/Master.md",
+    "Kitchen Redesign.md",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
@@ -181,11 +191,9 @@
     "Hackathon",
     "H.md",
     "DCP dashboard tabs refactor.md",
-    "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
@@ -199,12 +207,9 @@
     "Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
-    "Work/Niel Knowledge Share.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
-    "Kitchen Redesign.md",
     "Images/Pasted image 20230709164216.png",
     "Images/Pasted image 20230709163650.png",
-    "Work/CIB Risk CMT Release.md",
     "Violation Rules Mockup.canvas",
     "Images",
     "Work/Work files/System docs/TM",
@@ -217,7 +222,6 @@
     "Review/Notes/Outtakes",
     "Excalidraw",
     "Review/Notes",
-    "Review",
-    "New Text Document.txt"
+    "Review"
   ]
 }
