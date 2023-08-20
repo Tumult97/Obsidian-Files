@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60e8497eb15808e6",
+            "id": "35f32e76f0b67ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Reviews/2023/Half 2/2023 - part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7efa062b241243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grade 5 English.md",
+                "file": "Kitchen Redesign.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grade 5 English.md",
+                "file": "Kitchen Redesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grade 5 English.md",
+                "file": "Kitchen Redesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grade 5 English.md"
+                "file": "Kitchen Redesign.md"
               }
             }
           }
@@ -167,11 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7efa062b241243",
+  "active": "35f32e76f0b67ced",
   "lastOpenFiles": [
+    "Hydroponics Tower.md",
+    "Work/DCP dashboard tabs refactor.md",
+    "Images/Pasted Image 20230804125254_568.gif",
+    "Images/Pasted Image 20230804125914_256.png",
+    "Images/Pasted Image 20230804130007_821.png",
+    "Grade 5 English.md",
     "Grade 5 English.docx",
     "Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Grade 5 English.md",
     "Review/Reviews/2023/Half 2/2023 - part 2.docx",
     "Work/Access Tokens.md",
     "Work/CIB Risk CMT Release.md",
@@ -181,9 +173,6 @@
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
-    "Pasted Image 20230804130007_821.png",
-    "Pasted Image 20230804125914_256.png",
-    "Pasted Image 20230804125254_568.gif",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
@@ -191,7 +180,6 @@
     "Ha.md",
     "Hackathon",
     "H.md",
-    "DCP dashboard tabs refactor.md",
     "Expedited credit paper approval.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
@@ -221,7 +209,6 @@
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "Review/Notes/Outtakes",
     "Excalidraw",
-    "Review/Notes",
-    "Review"
+    "Review/Notes"
   ]
 }
