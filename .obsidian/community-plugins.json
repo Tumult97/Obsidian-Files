@@ -12,5 +12,6 @@
   "obsidian-dirtreeist",
   "copy-document-as-html",
   "obsidian-html-entity",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-html-tags-autocomplete"
 ]
