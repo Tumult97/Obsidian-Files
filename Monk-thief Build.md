@@ -30,7 +30,7 @@
 
 |Monk|Rogue|Fighter|Total|
 |:---:|:---:|:---:|:---:|
-|||2|12|
+|6|4|2|12|
 
 ### *Description*
 
