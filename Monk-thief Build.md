@@ -5,6 +5,7 @@
 - Level 1
 - Level 2
 - Level 3
+	- Choose Subclass For Monk: Way of Open Hand
 - Level 4
 	- Get Feat: Tavern Brawler
 - Level 5
