@@ -1,7 +1,24 @@
 
 ## *Level Summary*
 
-```
+```dirtree
+- Monk
+	- Level 1
+	- Level 2
+	- Level 3
+		- Choose Way of Open hand sub class
+	- Level 4
+		- Choose Tavern brawler feat
+	- Level 5
+	- Level 6
+- Thief
+	- Level 1
+	- Level 2
+	- Level 3
+	- Level 4
+- Fighter
+	- Level 1
+	- Level 2
 ```
 
 ## Short Description And Notes
