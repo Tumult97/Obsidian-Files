@@ -16,8 +16,10 @@
 	- Level 2
 	- Level 3
 	- Level 4
+		- Choose ASI: into STR or WIS
 - Fighter
 	- Level 1
+		- Fighting Style: Defence
 	- Level 2
 ```
 
