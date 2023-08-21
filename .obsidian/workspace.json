@@ -11,11 +11,14 @@
             "id": "856571ce4997210d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Monk-thief Build.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 454.5,
+                  "y": -243,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monk-thief Build.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monk-thief Build.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monk-thief Build.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -157,8 +160,10 @@
   },
   "active": "856571ce4997210d",
   "lastOpenFiles": [
-    "BG3/Builds.md",
     "Monk-thief Build.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "BG3/Builds.md",
     "BG3",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
@@ -197,8 +202,6 @@
     "Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
-    "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
-    "Work/Niel Knowledge Share.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
     "Violation Rules Mockup.canvas",
     "Images",
