@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26f46a381c360edd",
+        "id": "bcb6709703c69c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "35f32e76f0b67ced",
+            "id": "856571ce4997210d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kitchen Redesign.md",
+                "file": "Monk-thief Build.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kitchen Redesign.md",
+                "file": "Monk-thief Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kitchen Redesign.md",
+                "file": "Monk-thief Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kitchen Redesign.md"
+                "file": "Monk-thief Build.md"
               }
             }
           }
@@ -151,28 +151,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35f32e76f0b67ced",
+  "active": "856571ce4997210d",
   "lastOpenFiles": [
-    "Hydroponics Tower.md",
-    "Work/DCP dashboard tabs refactor.md",
-    "Images/Pasted Image 20230804125254_568.gif",
-    "Images/Pasted Image 20230804125914_256.png",
-    "Images/Pasted Image 20230804130007_821.png",
-    "Grade 5 English.md",
-    "Grade 5 English.docx",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
-    "Work/Access Tokens.md",
-    "Work/CIB Risk CMT Release.md",
-    "Work/Master.md",
-    "Kitchen Redesign.md",
+    "BG3/Builds.md",
+    "Monk-thief Build.md",
+    "BG3",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+    "Work/DCP dashboard tabs refactor.md",
+    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
+    "Images/Pasted Image 20230804130007_821.png",
+    "Images/Pasted Image 20230804125914_256.png",
+    "Images/Pasted Image 20230804125254_568.gif",
+    "Grade 5 English.docx",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
+    "Pasted Image 20230804130007_821.png",
+    "Pasted Image 20230804125914_256.png",
+    "Pasted Image 20230804125254_568.gif",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
@@ -180,13 +180,15 @@
     "Ha.md",
     "Hackathon",
     "H.md",
+    "DCP dashboard tabs refactor.md",
+    "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
+    "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
-    "Images/firefox_vS3QQKaiQi.png",
     "Review/Reviews/2022/2022 - Half 2.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
@@ -195,9 +197,9 @@
     "Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
+    "Work/Niel Knowledge Share.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
-    "Images/Pasted image 20230709164216.png",
-    "Images/Pasted image 20230709163650.png",
     "Violation Rules Mockup.canvas",
     "Images",
     "Work/Work files/System docs/TM",
@@ -208,7 +210,6 @@
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "Review/Notes/Outtakes",
-    "Excalidraw",
-    "Review/Notes"
+    "Excalidraw"
   ]
 }
