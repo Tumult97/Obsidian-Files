@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26f46a381c360edd",
+        "id": "5502ba03240fcbd2",
         "type": "tabs",
         "children": [
           {
-            "id": "35f32e76f0b67ced",
+            "id": "2ce726d58c5f862d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monk-thief Build.md",
+                "file": "Work/Work files/Templates/Pattern Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".with",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monk-thief Build.md",
+                "file": "Work/Work files/Templates/Pattern Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monk-thief Build.md",
+                "file": "Work/Work files/Templates/Pattern Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monk-thief Build.md"
+                "file": "Work/Work files/Templates/Pattern Templates.md"
               }
             }
           }
@@ -151,54 +152,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35f32e76f0b67ced",
+  "active": "2ce726d58c5f862d",
   "lastOpenFiles": [
-    "Kitchen Redesign.md",
-    "Untitled.canvas",
-    "Monk-thief Build.md",
-    "BG3/Builds.md",
-    "BG3",
-    "Hydroponics Tower.md",
-    "Work/DCP dashboard tabs refactor.md",
-    "Images/Pasted Image 20230804125254_568.gif",
-    "Images/Pasted Image 20230804125914_256.png",
-    "Images/Pasted Image 20230804130007_821.png",
-    "Grade 5 English.md",
-    "Grade 5 English.docx",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
-    "Work/Access Tokens.md",
-    "Work/CIB Risk CMT Release.md",
-    "Work/Master.md",
-    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
     "Hackathon/Expedited credit paper approval.canvas",
+    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Hackathon/Check For Quick Approval Candidacy.md",
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
-    "Hackathon/Check For Quick Approval Candidacy.md",
+    "Untitled.canvas",
+    "Monk-thief Build.md",
+    "Untitled.md",
+    "BG3/Builds.md",
+    "BG3",
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+    "Work/DCP dashboard tabs refactor.md",
+    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
+    "Images/Pasted Image 20230804130007_821.png",
+    "Images/Pasted Image 20230804125914_256.png",
+    "Images/Pasted Image 20230804125254_568.gif",
+    "Grade 5 English.docx",
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
+    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
+    "Pasted Image 20230804130007_821.png",
+    "Pasted Image 20230804125914_256.png",
+    "Pasted Image 20230804125254_568.gif",
     "Ha.md",
     "Hackathon",
     "H.md",
+    "DCP dashboard tabs refactor.md",
+    "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
+    "Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
-    "Images/firefox_vS3QQKaiQi.png",
     "Review/Reviews/2022/2022 - Half 2.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
+    "Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
-    "Images/Pasted image 20230709164216.png",
-    "Images/Pasted image 20230709163650.png",
     "Violation Rules Mockup.canvas",
     "Images",
     "Work/Work files/System docs/TM",
