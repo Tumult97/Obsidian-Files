@@ -21,6 +21,11 @@
 	- Flurry of blows actions
 - Level 5
 	- Monk
+	- Feat: Tavern Brawler
+		- Adding Str Modifier to unarmed attacks
+		- Add +1 to Str (18)
+- Level 6
+	- Monk
 	- 
 ```
 
