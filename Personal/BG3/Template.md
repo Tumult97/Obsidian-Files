@@ -1,7 +1,14 @@
 
 ```dirtree
 - Level 1
-	- 
+	- Class
+	- Stats
+		- Strength     : 17 (+2)
+		- Dexterity    : 10
+		- Constitution : 16 (+1)
+		- Intelligance : 08
+		- Wisdom       : 14
+		- Charisma     : 08
 - Level 2
 	- 
 - Level 3
