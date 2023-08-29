@@ -43,6 +43,7 @@
 		- Repelling blast
 - Level 10
 	- Warlock
+	- Spell: Hold Person
 - Level 11
 	- Warlock
 - Level 12
