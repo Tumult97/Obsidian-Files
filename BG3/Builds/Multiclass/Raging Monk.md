@@ -26,7 +26,10 @@
 		- Add +1 to Str (18)
 - Level 6
 	- Monk
-	- 
+- Level 7
+	- Monk
+- Level 8
+	- Monk
 ```
 
 
