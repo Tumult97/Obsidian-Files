@@ -44,6 +44,7 @@
 - Level 10
 	- Warlock
 	- Spell: Hold Person
+	- Pact Boon: Pact of the Blade
 - Level 11
 	- Warlock
 - Level 12
