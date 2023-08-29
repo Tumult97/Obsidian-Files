@@ -33,7 +33,7 @@
 - Level 9
 	- Barbarian
 	- Subclass: Berzerker
-	- 
+	- Sublass: Wildheart[Bear]
 - Level 10
 	- 
 ```
