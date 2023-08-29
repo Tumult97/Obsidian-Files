@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BG3/Multiclass.md",
+                "file": "BG3/Builds/Multiclass/Raging Monk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG3/Multiclass.md",
+                "file": "BG3/Builds/Multiclass/Raging Monk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG3/Multiclass.md",
+                "file": "BG3/Builds/Multiclass/Raging Monk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG3/Multiclass.md"
+                "file": "BG3/Builds/Multiclass/Raging Monk.md"
               }
             }
           }
@@ -155,11 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "16002b455fc9ccd7",
   "lastOpenFiles": [
-    "BG3/Untitled",
+    "BG3/Builds/Multiclass",
+    "BG3/Builds/Multiclass.md",
+    "BG3/Builds/Multiclass/Raging Monk.md",
+    "BG3/Template.md",
+    "BG3/Builds",
     "BG3/Builds.md",
-    "BG3/Multiclass.md",
     "Work/Work files/Templates/Pattern Templates.md",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
@@ -198,8 +201,6 @@
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
-    "Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
-    "Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
     "Violation Rules Mockup.canvas",
     "Images",
@@ -210,7 +211,6 @@
     "Be better Poster.canvas",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
-    "Review/Notes/Outtakes",
-    "Excalidraw"
+    "Review/Notes/Outtakes"
   ]
 }
