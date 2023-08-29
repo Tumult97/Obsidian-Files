@@ -152,14 +152,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false
     }
   },
   "active": "16002b455fc9ccd7",
   "lastOpenFiles": [
-    "BG3/Builds/Multiclass",
     "BG3/Builds/Multiclass.md",
+    "BG3/Builds/Multiclass/Monk-thief Build.md",
+    "Hydroponics Tower.md",
+    "Kitchen Redesign.md",
     "BG3/Builds/Multiclass/Raging Monk.md",
+    "BG3/Builds/Multiclass",
     "BG3/Template.md",
     "BG3/Builds",
     "BG3/Builds.md",
@@ -170,7 +174,6 @@
     "Hackathon/Data Questionnaire question Mapping.md",
     "Hackathon/Ideas.md",
     "Untitled.canvas",
-    "Monk-thief Build.md",
     "Untitled.md",
     "BG3",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
@@ -200,7 +203,6 @@
     "Review/Reviews/2022/2022 - Half 2.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
-    "Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
     "Review/Reviews/2023/Half 2/Official Reviews",
     "Violation Rules Mockup.canvas",
     "Images",
@@ -210,7 +212,6 @@
     "Review/Be Better Poster.canvas",
     "Be better Poster.canvas",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
-    "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
-    "Review/Notes/Outtakes"
+    "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas"
   ]
 }
