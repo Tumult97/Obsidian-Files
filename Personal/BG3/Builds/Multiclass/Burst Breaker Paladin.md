@@ -1,5 +1,6 @@
 > This requires Oath Breaker Paladin so break your Oath Asap
-> 
+> Quickest: *Oath of Devotion*
+> 	**Betraying the Tieflings when rescuing Lae’zel.**
 
 ```dirtree
 - Level 1
