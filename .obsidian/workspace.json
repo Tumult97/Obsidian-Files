@@ -11,8 +11,12 @@
             "id": "8935556a8ed76ef4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md"
+              }
             }
           }
         ]
@@ -150,18 +158,18 @@
   },
   "active": "8935556a8ed76ef4",
   "lastOpenFiles": [
+    "BG3/Builds/Multiclass.md",
+    "BG3/Builds.md",
     "BG3/Builds/Multiclass/Raging Monk.md",
     "Review/Reviews/Reviews Master.md",
     "Work/DCP dashboard tabs refactor.md",
     "Review/Notes/Outtakes/Outtakes.md",
     "BG3/Builds/Multiclass/Monk-thief Build.md",
-    "BG3/Builds/Multiclass.md",
     "Hydroponics Tower.md",
     "Kitchen Redesign.md",
     "BG3/Builds/Multiclass",
     "BG3/Template.md",
     "BG3/Builds",
-    "BG3/Builds.md",
     "Work/Work files/Templates/Pattern Templates.md",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
