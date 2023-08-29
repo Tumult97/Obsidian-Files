@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5a700832f3a6c7",
+        "id": "daf64f1fcfc91fae",
         "type": "tabs",
         "children": [
           {
-            "id": "8935556a8ed76ef4",
+            "id": "22658a52bec36845",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afa53ae8d7f821ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BG3/Builds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
+                "file": "Personal/Hydroponics Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
+                "file": "Personal/Hydroponics Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG3/Builds/Multiclass/Monk-thief Build.md"
+                "file": "Personal/Hydroponics Tower.md"
               }
             }
           }
@@ -170,58 +154,57 @@
   },
   "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Personal/BG3/Builds/Multiclass/Monk-thief Build.md",
     "Woek",
     "Personal",
     "Untitled.canvas",
-    "BG3/Builds/Multiclass/Monk-thief Build.md",
-    "BG3/Builds/Multiclass.md",
-    "BG3/Builds.md",
-    "BG3/Template.md",
-    "BG3/Builds/Multiclass/Raging Monk.md",
-    "Review/Reviews/Reviews Master.md",
+    "Personal/BG3/Builds/Multiclass.md",
+    "Personal/BG3/Builds.md",
+    "Personal/BG3/Template.md",
+    "Personal/BG3/Builds/Multiclass/Raging Monk.md",
+    "Work/Review/Reviews/Reviews Master.md",
     "Work/DCP dashboard tabs refactor.md",
-    "Review/Notes/Outtakes/Outtakes.md",
-    "Hydroponics Tower.md",
-    "Kitchen Redesign.md",
-    "BG3/Builds/Multiclass",
-    "BG3/Builds",
+    "Work/Review/Notes/Outtakes/Outtakes.md",
+    "Personal/Hydroponics Tower.md",
+    "Personal/Kitchen Redesign.md",
+    "Personal/BG3/Builds/Multiclass",
+    "Personal/BG3/Builds",
     "Work/Work files/Templates/Pattern Templates.md",
-    "Hackathon/Expedited credit paper approval.canvas",
-    "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
-    "Hackathon/Check For Quick Approval Candidacy.md",
-    "Hackathon/Data Questionnaire question Mapping.md",
-    "Hackathon/Ideas.md",
+    "Work/Hackathon/Expedited credit paper approval.canvas",
+    "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Work/Hackathon/Check For Quick Approval Candidacy.md",
+    "Work/Hackathon/Data Questionnaire question Mapping.md",
+    "Work/Hackathon/Ideas.md",
     "Untitled.md",
-    "BG3",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
-    "Review/Reviews/2023/Half 2/2023 - part 2.docx",
+    "Personal/BG3",
+    "Work/Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
+    "Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted Image 20230804125254_568.gif",
     "Grade 5 English.docx",
-    "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
+    "Work/Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
     "Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw - Copy.md",
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
     "Pasted Image 20230804125254_568.gif",
     "Ha.md",
-    "Hackathon",
+    "Work/Hackathon",
     "H.md",
     "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
     "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
-    "Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
-    "Review/Reviews/2023/Half 2/Official Reviews",
+    "Work/Review/Reviews/2023/Half 2/Official Reviews",
     "Violation Rules Mockup.canvas",
-    "Images",
     "Untitled 1.canvas",
-    "Review/Review Action steps.canvas",
-    "Review/Be Better Poster.canvas",
+    "Work/Review/Review Action steps.canvas",
+    "Work/Review/Be Better Poster.canvas",
     "Be better Poster.canvas",
     "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
     "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas"

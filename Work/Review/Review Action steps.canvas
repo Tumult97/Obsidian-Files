@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"type":"file","file":"Review/Notes/Raw.md","id":"1a94849b99bc845c","x":-260,"y":-340,"width":540,"height":280},
-		{"type":"file","file":"Review/Notes/Additional comments.md","id":"5aab952fe72fd222","x":-260,"y":40,"width":540,"height":300},
-		{"type":"file","file":"Review/Notes/Outtakes/Outtakes.md","id":"3a32327e309e655d","x":420,"y":-340,"width":400,"height":400},
+		{"type":"file","file":"Work/Review/Notes/Raw.md","id":"1a94849b99bc845c","x":-260,"y":-340,"width":540,"height":280},
+		{"type":"file","file":"Work/Review/Notes/Additional comments.md","id":"5aab952fe72fd222","x":-260,"y":40,"width":540,"height":300},
+		{"type":"file","file":"Work/Review/Notes/Outtakes/Outtakes.md","id":"3a32327e309e655d","x":420,"y":-340,"width":400,"height":400},
 		{"type":"text","text":"# Breakdown\n\n## High priority\n- Learn to take relevant criticism\n- Take ownership and accountability for work and outcomes\n- Be less Negative with work and talking to people\n- Solution work more before starting work\n- Ask for help and context (business domain and tickets) more often (*45 minute rule*)\n- Be more professional while interacting with team and others\n- Up your meeting game: pay more attention and prepare more\n\n## Low Priority\n- Lead more\n- Break down tasks More\n- Try to be involved more in meetings\n- Try to ask more questions in sprint sizing\n- Try to do some cloud related certifications\n- Don't stress about technical feedback\n- Share experiences with others to help them in the future\n- Show work off more before finished\n- Try mute more in discord and meetings\n- Provide more context when making queries and asking questions\n- Try to remain calm","id":"b91a4741ece5a34a","x":1140,"y":660,"width":760,"height":800},
 		{"type":"text","text":"# Ray of Sunshine\n#### ***More Positive and Less Negative***\n> Kill 'em with kindness","id":"45eba0bb79c1f013","x":2760,"y":570,"width":485,"height":180},
 		{"type":"text","text":"# Grab the bull by the horns\n\n#### ***Taking Ownership and Accountability***\n\n> \"Don't be sorry be better\"","id":"99abc6f2dc8e67aa","x":2760,"y":770,"width":485,"height":180},
