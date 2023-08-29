@@ -29,7 +29,13 @@
 - Level 7
 	- Monk
 - Level 8
-	- Monk
+	- Barbarian
+- Level 9
+	- Barbarian
+	- Subclass: Berzerker
+	- 
+- Level 10
+	- 
 ```
 
 
