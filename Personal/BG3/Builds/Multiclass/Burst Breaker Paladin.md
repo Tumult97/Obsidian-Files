@@ -53,6 +53,7 @@
 ```
 
 
+
 > Note:
 > After paladin 5 you can then switch to warlock to get the features there quicker and you get 2 attacks per turn
 ## *Items*
