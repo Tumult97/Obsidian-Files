@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5502ba03240fcbd2",
+        "id": "081e5b2e417997aa",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce726d58c5f862d",
+            "id": "16002b455fc9ccd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".with",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ce726d58c5f862d",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Work/Work files/Templates/Pattern Templates.md",
     "Hackathon/Expedited credit paper approval.canvas",
     "Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Hackathon/Check For Quick Approval Candidacy.md",
