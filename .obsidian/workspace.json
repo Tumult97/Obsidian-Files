@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afa53ae8d7f821ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BG3/Builds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,15 +172,15 @@
   "lastOpenFiles": [
     "BG3/Builds/Multiclass.md",
     "BG3/Builds.md",
+    "BG3/Template.md",
+    "BG3/Builds/Multiclass/Monk-thief Build.md",
     "BG3/Builds/Multiclass/Raging Monk.md",
     "Review/Reviews/Reviews Master.md",
     "Work/DCP dashboard tabs refactor.md",
     "Review/Notes/Outtakes/Outtakes.md",
-    "BG3/Builds/Multiclass/Monk-thief Build.md",
     "Hydroponics Tower.md",
     "Kitchen Redesign.md",
     "BG3/Builds/Multiclass",
-    "BG3/Template.md",
     "BG3/Builds",
     "Work/Work files/Templates/Pattern Templates.md",
     "Hackathon/Expedited credit paper approval.canvas",
