@@ -31,9 +31,16 @@
 	- Paladin
 - Level 8
 	- Warlock
-	- Subclass: 
+	- Subclass: Great Old one
+	  - Mortal Reminder: WHen lkilling an enemy nearby enemies need to save or get frightened
+	  - Sublcass: Fiend
+		  - Temp hitpoints when killing enemy
 - Level 9
 	- Warlock
+	- Invocations:
+		- Devils sight
+		- Agonizing blast
+		- Repelling blast
 - Level 10
 	- Warlock
 - Level 11
@@ -42,6 +49,9 @@
 	- Warlock
 ```
 
+
+> Note:
+> After paladin 5 you can then switch to warlock to get the features there quicker and you get 2 attacks per turn
 ## *Items*
 
 - 
