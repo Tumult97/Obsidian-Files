@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work files/Templates/Pattern Templates.md",
+                "file": "BG3/Builds.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/Templates/Pattern Templates.md",
+                "file": "BG3/Builds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/Templates/Pattern Templates.md",
+                "file": "BG3/Builds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/Templates/Pattern Templates.md"
+                "file": "BG3/Builds.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "16002b455fc9ccd7",
   "lastOpenFiles": [
     "Work/Work files/Templates/Pattern Templates.md",
     "Hackathon/Expedited credit paper approval.canvas",
