@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BG3/Builds/Multiclass/Raging Monk.md",
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BG3/Builds/Multiclass/Raging Monk.md",
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BG3/Builds/Multiclass/Raging Monk.md"
+                "file": "BG3/Builds/Multiclass/Monk-thief Build.md"
               }
             }
           }
@@ -168,10 +169,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "16002b455fc9ccd7",
+  "active": "8551905402a7a132",
   "lastOpenFiles": [
-    "BG3/Builds/Multiclass/Monk-thief Build.md",
     "BG3/Builds/Multiclass/Raging Monk.md",
+    "BG3/Builds/Multiclass/Monk-thief Build.md",
     "BG3/Builds/Multiclass.md",
     "Hydroponics Tower.md",
     "Kitchen Redesign.md",
