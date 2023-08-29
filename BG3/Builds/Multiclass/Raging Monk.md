@@ -13,6 +13,7 @@
 		- Charisma     : 08
 - Level 2
 	- Monk
+	- Unarmored Movement
 	- 
 ```
 
