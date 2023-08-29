@@ -13,7 +13,14 @@
 		- Charisma     : 08
 - Level 2
 	- Monk
-	- Unarmored Movement
+- Level 3 
+	- Monk
+- Level4
+	- Monk
+	- Subclass: Way of open hand
+	- Flurry of blows actions
+- Level 5
+	- Monk
 	- 
 ```
 
