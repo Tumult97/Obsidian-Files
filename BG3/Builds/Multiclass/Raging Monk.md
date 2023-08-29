@@ -12,6 +12,8 @@
 		- Wisdom       : 14
 		- Charisma     : 08
 - Level 2
+	- Monk
+	- 
 ```
 
 
