@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a6bae2c73946c047",
+        "id": "764bf17c210b9be5",
         "type": "tabs",
         "children": [
           {
-            "id": "90174d348e90436c",
+            "id": "c8602c72c34abcb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -148,16 +157,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "90174d348e90436c",
+  "active": "9cb72a42cd32667c",
   "lastOpenFiles": [
-    "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Learning/Markdown/Lists.md",
     "Personal/BG3/Template.md",
+    "Personal/BG3/Builds.md",
+    "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "Personal/BG3/Builds/Multiclass/Raging Monk.md",
     "Personal/BG3/Builds/Multiclass/Multiclass.md",
-    "Personal/BG3/Builds.md",
+    "Personal/BG3/Builds/Multiclass/Monk-thief Build.md",
     "Personal/Projects/Kitchen Redesign.md",
     "Personal/Projects",
-    "Personal/BG3/Builds/Multiclass/Monk-thief Build.md",
     "Woek",
     "Personal",
     "Untitled.canvas",
@@ -192,9 +203,7 @@
     "DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Expedited credit paper approval.md",
-    "Work/Work files/Scripts/SQL Snippets.md",
     "Images/Pasted image 20230731120238.png",
-    "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
