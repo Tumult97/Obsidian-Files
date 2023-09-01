@@ -33,8 +33,8 @@
 	- Warlock
 	- Subclass: Great Old one
 	  - Mortal Reminder: WHen lkilling an enemy nearby enemies need to save or get frightened
-	  - Sublcass: Fiend
-		  - Temp hitpoints when killing enemy
+  - Sublcass: Fiend
+	  - Temp hitpoints when killing enemy
 - Level 9
 	- Warlock
 	- Invocations:
@@ -47,9 +47,14 @@
 	- Pact Boon: Pact of the Blade
 - Level 11
 	- Warlock
-	- Feat: 
+	- Feat: War Caster
+	- Feat: Great Weapon Master
 - Level 12
 	- Warlock
+	- Invocations:
+		- Devils sight
+		- Agonizing blast
+		- Repelling blast
 ```
 
 
