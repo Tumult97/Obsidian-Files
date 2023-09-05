@@ -27,14 +27,30 @@
               "state": {
                 "file": "Submission Sheet modal refactor.canvas",
                 "viewState": {
-                  "x": -558.6394188202918,
-                  "y": -79.65957231228457,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -750,
+                  "y": -482,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "78ce6fbe537bca0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -170,8 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e338382a5667872",
+  "active": "78ce6fbe537bca0d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.canvas",
     "Submission Sheet modal refactor.canvas",
     "Work/Submission Sheet Refactor.md",
     "Work/CIB Risk CMT Release.md",
@@ -199,7 +217,6 @@
     "Work/Hackathon/Check For Quick Approval Candidacy.md",
     "Work/Hackathon/Data Questionnaire question Mapping.md",
     "Work/Hackathon/Ideas.md",
-    "Untitled.md",
     "Personal/BG3",
     "Work/Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
