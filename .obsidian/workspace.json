@@ -34,7 +34,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Submission Sheet modal refactor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Submission Sheet modal refactor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md"
+                "file": "Submission Sheet modal refactor.canvas"
               }
             }
           }
@@ -170,10 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e338382a5667872",
+  "active": "4c18aaccefe202ee",
   "lastOpenFiles": [
-    "Submission Sheet modal refactor.canvas",
     "Work/Submission Sheet Refactor.md",
+    "Submission Sheet modal refactor.canvas",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "conflict-files-obsidian-git.md",
