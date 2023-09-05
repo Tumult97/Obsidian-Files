@@ -18,6 +18,10 @@ Locations:
 - Make each tab its own component
 - Centralize the save and form logic to the modal as a whole
 - No automatic save. 
+- Form and saving and loading is handles by the parent modal component
+- children become containers for teh logic
+- one modal footer with action buttons
+- less saving and reloading
 
 
 ## *Diagram*
