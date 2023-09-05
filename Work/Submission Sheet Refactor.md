@@ -5,6 +5,7 @@
 - they all have their own save logic that isn't linked
 - Save buttons do exist but they are in the tabs themselves
 - Difficult to expand
+- Logic all over the place
 
 
 ## *Summary*
