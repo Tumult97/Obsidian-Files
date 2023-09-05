@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"7111cb43f1c5d029","x":-720,"y":-860,"width":300,"height":440,"type":"text","text":"# Credit Paper"},
 		{"id":"a121e1061f106a5c","type":"text","text":"# Committee Secretary Dashboard","x":-360,"y":-860,"width":300,"height":440},
-		{"id":"a5086fc45bca192c","type":"text","text":"# Committee Secretary Dashboard","x":-20,"y":-860,"width":300,"height":440}
+		{"id":"a5086fc45bca192c","type":"text","text":"# Bulk Sitting","x":-20,"y":-860,"width":300,"height":440}
 	],
 	"edges":[]
 }
