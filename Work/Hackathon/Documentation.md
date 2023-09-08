@@ -9,4 +9,5 @@
 - Integrating into existing system
 - Need new workflow
 
-We were tasked to create a one stop solution to check if a client for a single corporate paper can be auto selected for a new workflow that is a much shorter form version of the credit paper to shorten the process. 
+>We were tasked to create a one stop solution to check if a client for a single corporate paper can be auto selected for a new workflow that is a much shorter form version of the credit paper to shorten the process. 
+
