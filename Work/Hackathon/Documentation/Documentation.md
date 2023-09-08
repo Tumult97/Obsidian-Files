@@ -36,3 +36,25 @@
 |15|PRMC indicator either Add or Add subject to?|Yes|
 |16|No structural subordination?|User needs answer|
 |17|No wrong way risk ?|Possible - check with Wrong way risk team|
+
+## *External Systems*
+
+#### Customer Service
+- Data Modal
+```c#
+```
+
+#### Covenant Tracker
+- Data Modal
+```c#
+```
+
+#### E&S Screening Tool
+- Data Modal
+```c#
+```
+
+#### BSNR
+- Data Modal
+```c#
+```
