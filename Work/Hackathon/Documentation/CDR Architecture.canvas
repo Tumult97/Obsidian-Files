@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"e5334e039542cc4e","x":-580,"y":-340,"width":540,"height":460,"type":"text","text":"# API Request Builder\n\n- Builder Pattern\n\n```csharp\n\n```"}
+	],
+	"edges":[]
+}

@@ -13,4 +13,4 @@
 
 ## *Architecture*
 
-
+![[CDR Architecture.canvas]]

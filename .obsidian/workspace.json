@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Work/Hackathon/Documentation/Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Work/Hackathon/CDR Architecture.canvas",
+                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -34,7 +34,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md",
+                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Submission Sheet Refactor.md"
+                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas"
               }
             }
           }
@@ -170,14 +171,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "4c18aaccefe202ee",
   "lastOpenFiles": [
-    "Work/Hackathon/CDR Architecture.canvas",
+    "Work/Hackathon/Documentation/Documentation.md",
+    "Work/Hackathon/Documentation/CDR Architecture.canvas",
+    "Work/Hackathon/Expedited credit paper approval.canvas",
+    "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
+    "Work/Hackathon/Documentation",
+    "Work/Submission Sheet Refactor.md",
     "Submission Sheet modal refactor.canvas",
     "Untitled.md",
     "Untitled.canvas",
-    "Work/Hackathon/Documentation.md",
-    "Work/Submission Sheet Refactor.md",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "conflict-files-obsidian-git.md",
@@ -198,8 +202,6 @@
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
     "Work/Work files/Templates/Pattern Templates.md",
-    "Work/Hackathon/Expedited credit paper approval.canvas",
-    "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Check For Quick Approval Candidacy.md",
     "Work/Hackathon/Data Questionnaire question Mapping.md",
     "Work/Hackathon/Ideas.md",
@@ -216,7 +218,6 @@
     "Pasted Image 20230804125914_256.png",
     "Pasted Image 20230804125254_568.gif",
     "Ha.md",
-    "Work/Hackathon",
     "Images/Pasted image 20230731120238.png",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
