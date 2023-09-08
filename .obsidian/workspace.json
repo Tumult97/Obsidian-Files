@@ -38,14 +38,11 @@
             "id": "78ce6fbe537bca0d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 1877.4556362982046,
-                  "y": -100.18063829863331,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Work/Hackathon/Documentation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "02089bfaa9693914",
@@ -125,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Work/Hackathon/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Work/Hackathon/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Work/Hackathon/Documentation.md"
               }
             }
           }
@@ -189,8 +185,9 @@
   },
   "active": "78ce6fbe537bca0d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.canvas",
+    "Work/Hackathon/Documentation.md",
+    "Untitled.md",
     "Submission Sheet modal refactor.canvas",
     "Work/Submission Sheet Refactor.md",
     "Work/CIB Risk CMT Release.md",
@@ -232,7 +229,6 @@
     "Pasted Image 20230804125254_568.gif",
     "Ha.md",
     "Work/Hackathon",
-    "H.md",
     "Images/Pasted image 20230731120238.png",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
