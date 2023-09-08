@@ -14,3 +14,7 @@
 ## *Architecture*
 
 ![[CDR Architecture.canvas]]
+
+## *Questions*
+
+1. 

@@ -27,15 +27,14 @@
               "state": {
                 "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
                 "viewState": {
-                  "x": -2709.3277899940686,
-                  "y": 83.02644156302838,
-                  "zoom": -1.3333333333333333
+                  "x": -1760,
+                  "y": -32.5,
+                  "zoom": -1.6731896837328915
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
+                "file": "Work/Hackathon/Documentation/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
+                "file": "Work/Hackathon/Documentation/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas"
+                "file": "Work/Hackathon/Documentation/Documentation.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c18aaccefe202ee",
+  "active": "9e338382a5667872",
   "lastOpenFiles": [
-    "Work/Hackathon/Documentation/Documentation.md",
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
+    "Work/Hackathon/Documentation/Documentation.md",
     "Work/Hackathon/Expedited credit paper approval.canvas",
     "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Documentation",
