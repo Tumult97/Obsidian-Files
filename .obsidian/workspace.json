@@ -25,29 +25,16 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Submission Sheet modal refactor.canvas",
+                "file": "Work/Hackathon/CDR Architecture.canvas",
                 "viewState": {
-                  "x": -750,
-                  "y": -482,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               }
             }
-          },
-          {
-            "id": "78ce6fbe537bca0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Hackathon/Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Hackathon/Documentation.md",
+                "file": "Work/Submission Sheet Refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Hackathon/Documentation.md",
+                "file": "Work/Submission Sheet Refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Hackathon/Documentation.md"
+                "file": "Work/Submission Sheet Refactor.md"
               }
             }
           }
@@ -183,12 +170,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78ce6fbe537bca0d",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Work/Hackathon/CDR Architecture.canvas",
+    "Submission Sheet modal refactor.canvas",
+    "Untitled.md",
     "Untitled.canvas",
     "Work/Hackathon/Documentation.md",
-    "Untitled.md",
-    "Submission Sheet modal refactor.canvas",
     "Work/Submission Sheet Refactor.md",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
@@ -234,7 +222,6 @@
     "Images/firefox_D8L6nATfh0.png",
     "Images/firefox_SdUKQihji2.png",
     "Violation Rules Mockup.canvas",
-    "Untitled 1.canvas",
     "Work/Review/Review Action steps.canvas",
     "Work/Review/Be Better Poster.canvas",
     "Be better Poster.canvas",
