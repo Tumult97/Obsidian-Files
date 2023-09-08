@@ -17,4 +17,22 @@
 
 ## *Questions*
 
-1. 
+|Question|Positive Outcome Answer|Comments|
+|---|---|---|
+|1. Not Part of an Economic Group?|||
+|2. Risk grade deteriorations of 2 or more notches over the last 12 months?|||
+|3. |||
+|4. |||
+|5. |||
+|6. |||
+|7. |||
+|8. |||
+|9. |||
+|10. |||
+|11. |||
+|12. |||
+|13. |||
+|14. |||
+|15. |||
+|16. |||
+|17. |||
