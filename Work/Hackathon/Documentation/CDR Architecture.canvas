@@ -1,13 +1,40 @@
 {
 	"nodes":[
-		{"id":"f16e8ec097169709","type":"text","text":"# Covenant Tracker CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Financial Covenants</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Information Covenants</td>\n</tr>\n</table>","x":-2040,"y":-565,"width":660,"height":210},
-		{"id":"0b3329f33d0842f3","type":"text","text":"# Customer Service CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get ACBS Loan Exposures Async</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Working Capital Facilities Async</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Criteria Driven Metrics Async</td>\n</tr>\n</table>","x":-2040,"y":-290,"width":660,"height":210},
-		{"id":"587ce640537bf9af","type":"text","text":"# ES Screening Tool CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Financial Covenants</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Information Covenants</td>\n</tr>\n</table>","x":-2040,"y":0,"width":660,"height":210},
-		{"id":"e5334e039542cc4e","type":"text","text":"# API Request Builder\n\n- Builder Pattern\n\n```csharp\nIIntegrationApiRequestBuilderService WithBaseUrl();  \nIIntegrationApiRequestBuilderService WithAuthorizationHeader();  \nIIntegrationApiRequestBuilderService WithHeaders();  \nIIntegrationApiRequestBuilderService WithQueryParameters();  \nIIntegrationApiRequestBuilderService WithMethodType();  \nIIntegrationApiRequestBuilderService WithBody();  \nIIntegrationApiRequestBuilderService WithTimeoutInSeconds(;  \n  \nTask<ApiRequestResponseModel<T>> ExecuteRequestAsync<T>();  \nTask<ApiRequestResponseModel<T>> ReturnResultAsync<T>();\n```\n","x":-800,"y":-380,"width":660,"height":380}
+		{"id":"d110e1cc9971d9c5","type":"group","x":-3120,"y":-585,"width":2940,"height":1105,"label":"DCP SVC"},
+		{"id":"436935e13ae13f76","type":"group","x":-4120,"y":-585,"width":700,"height":1105,"label":"DCP APP"},
+		{"id":"5665a9323c9c3ecd","type":"group","x":300,"y":-585,"width":300,"height":1105,"label":"External Systems"},
+		{"id":"f16e8ec097169709","type":"text","text":"# Covenant Tracker CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Financial Covenants</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Information Covenants</td>\n</tr>\n</table>","x":-2040,"y":-565,"width":660,"height":225,"color":"6"},
+		{"id":"0b3329f33d0842f3","type":"text","text":"# Customer Service CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get ACBS Loan Exposures Async</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Working Capital Facilities Async</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Criteria Driven Metrics Async</td>\n</tr>\n</table>","x":-2040,"y":-290,"width":660,"height":230,"color":"6"},
+		{"id":"587ce640537bf9af","type":"text","text":"# ES Screening Tool CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Financial Covenants</td>\n<td style=\"text-align: center; font-size: 1.5em;\">Get Information Covenants</td>\n</tr>\n</table>","x":-2040,"y":0,"width":660,"height":220,"color":"6"},
+		{"id":"15b2f7acb2684037","type":"text","text":"# BSNR CDR Integration Service\n\n<table style=\"width: 100%\">\n<tr>\n<td style=\"text-align: center; font-size: 1.5em;\">Cif Exists In BSNR</td>\n</tr>\n</table>","x":-2040,"y":280,"width":660,"height":220,"color":"6"},
+		{"id":"75000272d255e267","type":"text","text":"# BSNR","x":320,"y":260,"width":250,"height":200},
+		{"id":"b43aca4aaf449386","type":"text","text":"# CS","x":320,"y":-30,"width":250,"height":200},
+		{"id":"729f02fa9385e36f","type":"text","text":"# CT","x":320,"y":-520,"width":250,"height":185},
+		{"id":"7d54995498b213c7","type":"text","text":"# ENS","x":320,"y":-260,"width":250,"height":185},
+		{"id":"e5334e039542cc4e","type":"text","text":"# API Request Builder\n\n- Builder Pattern\n\n```csharp\nIIntegrationApiRequestBuilderService WithBaseUrl();  \nIIntegrationApiRequestBuilderService WithAuthorizationHeader();  \nIIntegrationApiRequestBuilderService WithHeaders();  \nIIntegrationApiRequestBuilderService WithQueryParameters();  \nIIntegrationApiRequestBuilderService WithMethodType();  \nIIntegrationApiRequestBuilderService WithBody();  \nIIntegrationApiRequestBuilderService WithTimeoutInSeconds(;  \n  \nTask<ApiRequestResponseModel<T>> ExecuteRequestAsync<T>();  \nTask<ApiRequestResponseModel<T>> ReturnResultAsync<T>();\n```\n","x":-1120,"y":-220,"width":660,"height":380,"color":"5"},
+		{"id":"5fa3427044b3612b","type":"text","text":"# CDR Decision Service\n\n## *QUestions...*","x":-3000,"y":200,"width":660,"height":160,"color":"6"},
+		{"id":"589d65ba3fda0d08","type":"text","text":"# DCP APP Service\n\n- ### EndPoint\n- ### EndPoint","x":-4100,"y":-220,"width":660,"height":160},
+		{"id":"2d546a7794b84ec8","type":"text","text":"# Controller\n\n- ### EndPoint\n- ### EndPoint","x":-3000,"y":-110,"width":660,"height":160}
 	],
 	"edges":[
-		{"id":"fd01ae7e32880cac","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"f16e8ec097169709","toSide":"right"},
-		{"id":"7cebeff75f9b50cf","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"0b3329f33d0842f3","toSide":"right"},
-		{"id":"494ed4a24cb51f81","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"587ce640537bf9af","toSide":"right"}
+		{"id":"fd01ae7e32880cac","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"f16e8ec097169709","toSide":"right","color":"1"},
+		{"id":"7cebeff75f9b50cf","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"0b3329f33d0842f3","toSide":"right","color":"1"},
+		{"id":"494ed4a24cb51f81","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"587ce640537bf9af","toSide":"right","color":"1"},
+		{"id":"b17ca3576d379d2c","fromNode":"e5334e039542cc4e","fromSide":"left","toNode":"15b2f7acb2684037","toSide":"right","color":"1"},
+		{"id":"3b446a03056a10bb","fromNode":"f16e8ec097169709","fromSide":"left","toNode":"5fa3427044b3612b","toSide":"right","color":"1"},
+		{"id":"161547179821b550","fromNode":"0b3329f33d0842f3","fromSide":"left","toNode":"5fa3427044b3612b","toSide":"right","color":"1"},
+		{"id":"373f50ae2ea826b0","fromNode":"587ce640537bf9af","fromSide":"left","toNode":"5fa3427044b3612b","toSide":"right","color":"1"},
+		{"id":"a8751a95928ed594","fromNode":"15b2f7acb2684037","fromSide":"left","toNode":"5fa3427044b3612b","toSide":"right","color":"1"},
+		{"id":"1c097c551846a4d8","fromNode":"2d546a7794b84ec8","fromSide":"bottom","toNode":"5fa3427044b3612b","toSide":"top","color":"4"},
+		{"id":"4e905bc9ea99cacd","fromNode":"589d65ba3fda0d08","fromSide":"top","toNode":"2d546a7794b84ec8","toSide":"top","color":"4"},
+		{"id":"be264f897ad2666f","fromNode":"2d546a7794b84ec8","fromSide":"left","toNode":"589d65ba3fda0d08","toSide":"bottom","color":"1"},
+		{"id":"60be24c1b44f947c","fromNode":"e5334e039542cc4e","fromSide":"top","toNode":"729f02fa9385e36f","toSide":"top","color":"4"},
+		{"id":"17a75e554f2d21e1","fromNode":"e5334e039542cc4e","fromSide":"top","toNode":"7d54995498b213c7","toSide":"top","color":"4"},
+		{"id":"5605ab3a6c8c85e5","fromNode":"e5334e039542cc4e","fromSide":"top","toNode":"b43aca4aaf449386","toSide":"top","color":"4"},
+		{"id":"78a8a181034fca72","fromNode":"e5334e039542cc4e","fromSide":"top","toNode":"75000272d255e267","toSide":"top","color":"4"},
+		{"id":"2653f938f023f12f","fromNode":"729f02fa9385e36f","fromSide":"bottom","toNode":"e5334e039542cc4e","toSide":"bottom","color":"1"},
+		{"id":"e2a0676a677b9b4d","fromNode":"7d54995498b213c7","fromSide":"bottom","toNode":"e5334e039542cc4e","toSide":"bottom","color":"1"},
+		{"id":"3f9cdd25d7b5636e","fromNode":"b43aca4aaf449386","fromSide":"bottom","toNode":"e5334e039542cc4e","toSide":"bottom","color":"1"},
+		{"id":"13be570557ae4077","fromNode":"75000272d255e267","fromSide":"bottom","toNode":"e5334e039542cc4e","toSide":"bottom","color":"1"}
 	]
 }
