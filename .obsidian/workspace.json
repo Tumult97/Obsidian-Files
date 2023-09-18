@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0b49cf76a35cf081",
+        "id": "f0e0c01936898c61",
         "type": "tabs",
         "children": [
           {
-            "id": "9e338382a5667872",
+            "id": "a27e784fd7cb56da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Hackathon/Documentation/Documentation.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4c18aaccefe202ee",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work/Hackathon/Documentation/CDR Architecture.canvas",
-                "viewState": {
-                  "x": -1760,
-                  "y": -32.5,
-                  "zoom": -1.6731896837328915
-                }
               }
             }
           }
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Hackathon/Documentation/Documentation.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Hackathon/Documentation/Documentation.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Hackathon/Documentation/Documentation.md"
+                "file": "Personal/Wedding/Dog Sitters.md"
               }
             }
           }
@@ -170,8 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e338382a5667872",
+  "active": "a27e784fd7cb56da",
   "lastOpenFiles": [
+    "Personal/Wedding/Menu.md",
+    "Personal/Wedding/Dog Sitters.md",
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
     "Work/Hackathon/Documentation/Documentation.md",
     "Work/Hackathon/Expedited credit paper approval.canvas",
@@ -216,7 +203,6 @@
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
     "Pasted Image 20230804125254_568.gif",
-    "Ha.md",
     "Images/Pasted image 20230731120238.png",
     "Images/firefox_FqGaaHNltf.png",
     "Images/firefox_D8L6nATfh0.png",
