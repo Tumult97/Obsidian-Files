@@ -1,6 +1,17 @@
 ```toc
 ```
 
+## Emergency Contacts (In Order of importance)
+
+|Name & Surname|Phone Number|Relation|Comments|
+|---|---|---|---|
+|Tristan van der Merwe|+27 82 363 1667|||
+|Bronwyn O'Connell|+27 71 512 3746|||
+|Dianne Beverley-Poole|+72 82 321 4379|Tristan's Step-Mother|Call these two in case of emergency|
+|Hayley Beverley-Poole|+72 82 853 4277|Tristan's Mother|Call these two in case of emergency|
+|||||
+|||||
+
 ## General/House
 
 1. The house has a back and front entrance(both have alarms on them)
