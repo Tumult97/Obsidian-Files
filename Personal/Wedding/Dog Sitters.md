@@ -2,13 +2,13 @@
 ```
 
 ## Emergency Contacts (In Order of importance)
-
+ 
 |Name & Surname|Phone Number|Relation|Comments|
 |---|---|---|---|
-|Tristan van der Merwe|+27 82 363 1667|||
+|Tristan van der Merwe|+27 82 363 1667||We will try have WhatsApp access|
 |Bronwyn O'Connell|+27 71 512 3746|||
-|Dianne Beverley-Poole|+72 82 321 4379|Tristan's Step-Mother|Call these two in case of emergency|
-|Hayley Beverley-Poole|+72 82 853 4277|Tristan's Mother|Call these two in case of emergency|
+|Dianne Beverley-Poole|+27 82 321 4379|Tristan's Step-Mother|Call these two in case of emergency|
+|Hayley Beverley-Poole|+27 82 853 4277|Tristan's Mother|Call these two in case of emergency|
 |||||
 |||||
 
