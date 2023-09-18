@@ -9,11 +9,14 @@
 4. The Wi-Fi details are as follows
 	- WIFI: B&T Home
 	- Password: Tiberium-97
-	- ![[Pasted image 20230918125020.png]]
+	- Scan the QR Code to connect to the Wi-Fi![[Pasted image 20230918125020.png]]
 5. When leaving please leave the backdoor open and unlocked so that the dogs can go in and out the house.
 6. Please make sure you park in a parking marked with a *V* sign or painted on a wall and please don't park in the drive way
 7. PLEASE NOTE: We do have cameras for security purposes. 
 8. The TV and WIFI are plugged into power outlets that will power when loadshedding is active. 
+9. 
+
+
 ## Feeding
 
 
