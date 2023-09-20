@@ -25,9 +25,9 @@
 ## Special Requests
 
 ### Starters
-
+- One person has the below Restrictions
+- 
 
 ### Mains
-- 3 x Vegetarian
+- 4 x Vegetarian
 - Lactose Intolerant
-- 
