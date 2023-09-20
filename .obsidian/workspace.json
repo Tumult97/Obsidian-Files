@@ -23,14 +23,11 @@
             "id": "aa0a53c334fdde5a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 35.5,
-                  "y": -79,
-                  "zoom": -0.10433665981473578
-                }
+                "file": "Personal/Wedding/Menu.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Personal/Wedding/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Personal/Wedding/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Personal/Wedding/Menu.md"
               }
             }
           },
@@ -181,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa0a53c334fdde5a",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
-    "Personal/Wedding/Dog Sitters.md",
     "Untitled.canvas",
+    "Personal/Wedding/Dog Sitters.md",
     "Images/Pasted image 20230918125020.png",
     "Personal/Wedding/Menu.md",
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
