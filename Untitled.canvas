@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"ce517a49d3636590","type":"text","text":"Add users","x":-760,"y":-260,"width":250,"height":60},
-		{"id":"f1933629aa71c688","type":"text","text":"Add submission Sheet","x":-760,"y":-180,"width":250,"height":60},
-		{"id":"59c5e17cd6989651","type":"text","text":"Apply For Slot","x":-760,"y":-100,"width":250,"height":60},
-		{"id":"74669a4c8eea1a3f","type":"text","text":"Pending SLot","x":-420,"y":-260,"width":250,"height":50},
-		{"id":"557c0e4b7a6d258b","type":"text","text":"Country Risk Approver Support","x":-80,"y":-260,"width":250,"height":54},
-		{"id":"9adc44e0b9164b34","type":"text","text":"Risk and business Sponsor Support","x":260,"y":-260,"width":250,"height":54},
-		{"id":"4a2a3b1fcf53214e","x":581,"y":-263,"width":250,"height":60,"type":"text","text":"Final Approval"},
-		{"id":"dec0c74b73b4ac84","type":"text","text":"Slot Allocated","x":-420,"y":-175,"width":250,"height":50}
+		{"id":"ce517a49d3636590","type":"text","text":"Add users","x":-760,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"f1933629aa71c688","type":"text","text":"Add submission Sheet","x":-760,"y":-180,"width":250,"height":60,"color":"2"},
+		{"id":"59c5e17cd6989651","type":"text","text":"Apply For Slot","x":-760,"y":-100,"width":250,"height":60,"color":"2"},
+		{"id":"74669a4c8eea1a3f","type":"text","text":"Pending SLot","x":-420,"y":-260,"width":250,"height":50,"color":"2"},
+		{"id":"557c0e4b7a6d258b","type":"text","text":"Country Risk Approver Support","x":-80,"y":-260,"width":250,"height":54,"color":"2"},
+		{"id":"9adc44e0b9164b34","type":"text","text":"Risk and business Sponsor Support","x":260,"y":-260,"width":250,"height":54,"color":"2"},
+		{"id":"4a2a3b1fcf53214e","x":581,"y":-263,"width":250,"height":60,"color":"2","type":"text","text":"Final Approval"},
+		{"id":"dec0c74b73b4ac84","type":"text","text":"Slot Allocated","x":-420,"y":-175,"width":250,"height":50,"color":"2"},
+		{"id":"5b6e0fa69b2dbf68","x":-80,"y":20,"width":250,"height":85,"type":"text","text":"Where in here is the new approvals of CVM and CP?"}
 	],
 	"edges":[
 		{"id":"575e62b3d8b806f1","fromNode":"59c5e17cd6989651","fromSide":"right","toNode":"74669a4c8eea1a3f","toSide":"left"},
