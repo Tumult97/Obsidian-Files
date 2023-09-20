@@ -26,8 +26,13 @@
 
 ### Starters
 - One person has the below Restrictions
-- 
-
+	- No onions
+	- No garlic
+	- No Gravy
+	- No Wheat
+	- No Gluten
+	- No Shellfish
+	- No Mushrooms
 ### Mains
 - 4 x Vegetarian
 - Lactose Intolerant
