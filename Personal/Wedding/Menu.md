@@ -28,4 +28,6 @@
 
 
 ### Mains
+- 3 x Vegetarian
+- Lactose Intolerant
 - 
