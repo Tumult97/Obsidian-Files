@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "564c523f65503ee5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,6 +159,16 @@
                 "file": "Personal/Wedding/Dog Sitters.md"
               }
             }
+          },
+          {
+            "id": "0a3d0fa3c86ca4d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -168,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa0a53c334fdde5a",
+  "active": "564c523f65503ee5",
   "lastOpenFiles": [
     "Images/Pasted image 20230918125020.png",
     "Personal/Wedding/Menu.md",
