@@ -72,6 +72,8 @@
 	2. STC
 		1. Normal List of users
 
+> The Strategies will be linked to equity risk
+
 
 ## Basic Layout
 
