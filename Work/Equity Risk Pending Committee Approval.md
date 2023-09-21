@@ -21,6 +21,7 @@
 - Regression testing
 - Committee approval is complicated from memory
 - Will most likely need some boy scouting
+- May need to add custom action button
 
 
 ## Questions
@@ -30,6 +31,7 @@
 - Should we combine them?
 	- Simpler
 	- less duplication of code currently
+- Do we need to add an action? maybe 2
 
 
 ## Technical
