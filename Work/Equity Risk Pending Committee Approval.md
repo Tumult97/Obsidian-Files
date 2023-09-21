@@ -51,3 +51,22 @@
 		- #Single_Paper ` ApprovedPaperStatusUpdateStrategy ` line 317: method => ` GetNewApplicationStatusFromUserApprovals `
 			- Called in ` UpdateStatusAsync `
 - ` GenerateUpdateStatusRequestsForSlotAllocatedPapersPendingLock ` => This also references the status and what does this do?
+
+
+## Tasks
+
+1. Make new Credit Paper Action
+2. Make new strategy for sending for Pending Committee Approval
+	1. Possible 2 (see [[#Questions]])
+		1. ERAC
+		2. STC
+3. Make new action for approving from approval users
+4. Make Strategy for handling approval and eventual status update
+	-  Possible 2 Different strategies (see [[#Questions]])
+	1. ERAC
+		1. Chairperson
+		2. Core Voting Member
+		3. Core Voting Member
+		4. Core Voting Member
+	2. STC
+		1. Normal List
