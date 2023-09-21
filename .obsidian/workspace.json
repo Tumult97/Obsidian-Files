@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e0c01936898c61",
+        "id": "0d8db1145e39d076",
         "type": "tabs",
         "children": [
           {
-            "id": "a27e784fd7cb56da",
+            "id": "7b1bc0da70a8453b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Wedding/Menu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa0a53c334fdde5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Wedding/Menu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
