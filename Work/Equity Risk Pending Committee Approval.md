@@ -44,5 +44,7 @@
 	- Sets target status based on approvals and if its a committee sitting
 	- Method Name: ` GetStatusFromUserApprovals `
 	- Used in:
-		- `  `
+		- #Limit_Switch ` ApproveStatusUpdateStrategy.cs ` line 165 (Side note: Auth header here not used)
+		- #Single_Paper ` ApprovedPaperStatusUpdateStrategy ` line 317: method => ` GetNewApplicationStatusFromUserApprovals `
+			- Called in ` UpdateStatusAsync `
 - ` GenerateUpdateStatusRequestsForSlotAllocatedPapersPendingLock ` => This also references the status and what does this do?
