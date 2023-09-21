@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"35d9940db86de665","x":-540,"y":-640,"width":700,"height":700,"type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"}
+		{"id":"35d9940db86de665","x":-780,"y":-960,"width":700,"height":700,"type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"},
+		{"id":"6de444c1b59f3107","x":326,"y":-960,"width":774,"height":379,"type":"text","text":"# SendForApproval Status Update Strategy\n\n- "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f625aa8d3ab438e5","fromNode":"35d9940db86de665","fromSide":"right","toNode":"6de444c1b59f3107","toSide":"left"}
+	]
 }
