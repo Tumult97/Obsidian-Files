@@ -72,3 +72,7 @@
 	2. STC
 		1. Normal List of users
 
+
+## Basic Layout
+
+![[Equity Risk Committee Approval.canvas]]

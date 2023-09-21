@@ -11,14 +11,11 @@
             "id": "d4efc6e68427911b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Equity Risk Committee Approval.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Work/Equity Risk Pending Committee Approval.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -30,9 +27,9 @@
               "state": {
                 "file": "Equity Risk Committee Approval.canvas",
                 "viewState": {
-                  "x": 4282.5,
-                  "y": -539.5,
-                  "zoom": 0
+                  "x": 1872.5,
+                  "y": -610,
+                  "zoom": -1.8417555752858152
                 }
               }
             }
