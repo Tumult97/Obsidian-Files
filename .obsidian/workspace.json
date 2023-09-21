@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d8db1145e39d076",
+        "id": "d726f5c62cfa59cb",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1bc0da70a8453b",
+            "id": "d4efc6e68427911b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Wedding/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Wedding/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Wedding/Menu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,8 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "d4efc6e68427911b",
   "lastOpenFiles": [
+    "Work/Submission Sheet Refactor.md",
+    "Submission Sheet modal refactor.canvas",
     "Untitled.canvas",
     "Personal/Wedding/Dog Sitters.md",
     "Images/Pasted image 20230918125020.png",
@@ -172,8 +170,6 @@
     "Work/Hackathon/Expedited credit paper approval.canvas",
     "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Documentation",
-    "Work/Submission Sheet Refactor.md",
-    "Submission Sheet modal refactor.canvas",
     "Untitled.md",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
