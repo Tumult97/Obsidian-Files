@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"35d9940db86de665","x":-540,"y":-640,"width":700,"height":400,"type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- "}
+		{"id":"35d9940db86de665","x":-540,"y":-640,"width":700,"height":700,"type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"}
 	],
 	"edges":[]
 }
