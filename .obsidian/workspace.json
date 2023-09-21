@@ -11,8 +11,12 @@
             "id": "d4efc6e68427911b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/Equity Risk Pending Committee Approval.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/Equity Risk Pending Committee Approval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/Equity Risk Pending Committee Approval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/Equity Risk Pending Committee Approval.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   },
   "active": "d4efc6e68427911b",
   "lastOpenFiles": [
+    "Work/Equity Risk Pending Committee Approval.md",
     "Work/Submission Sheet Refactor.md",
     "Submission Sheet modal refactor.canvas",
     "Untitled.canvas",
