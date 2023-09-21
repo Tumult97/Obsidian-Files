@@ -76,3 +76,4 @@
 ## Basic Layout
 
 ![[Equity Risk Committee Approval.canvas]]
+![[Equity Risk Committee Approval.png]]

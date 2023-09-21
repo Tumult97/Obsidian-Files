@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equity Risk Committee Approval.canvas",
+                "file": "Work/Equity Risk Pending Committee Approval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equity Risk Committee Approval.canvas",
+                "file": "Work/Equity Risk Pending Committee Approval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equity Risk Committee Approval.canvas"
+                "file": "Work/Equity Risk Pending Committee Approval.md"
               }
             }
           },
@@ -181,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbd0447f0afef7a5",
+  "active": "d4efc6e68427911b",
   "lastOpenFiles": [
-    "Work/Equity Risk Pending Committee Approval.md",
+    "Images/Equity Risk Committee Approval.png",
     "Equity Risk Committee Approval.canvas",
+    "Work/Equity Risk Pending Committee Approval.md",
     "Images/Untitled (1).png",
     "Work/Submission Sheet Refactor.md",
     "Submission Sheet modal refactor.canvas",
