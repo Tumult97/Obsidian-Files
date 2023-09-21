@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"35d9940db86de665","x":-780,"y":-960,"width":700,"height":700,"type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"},
-		{"id":"6de444c1b59f3107","x":326,"y":-960,"width":774,"height":379,"type":"text","text":"# SendForApproval Status Update Strategy\n\n- "}
+		{"id":"35d9940db86de665","x":-780,"y":-960,"width":700,"height":700,"color":"6","type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"},
+		{"id":"6de444c1b59f3107","x":326,"y":-960,"width":774,"height":200,"color":"5","type":"text","text":"# ERAC SendForApproval Status Update Strategy\n\n- Updates status to pending committee approval"},
+		{"id":"1954dba2f8832d38","type":"text","text":"# STC SendForApproval Status Update Strategy\n\n- Updates status to pending committee approval","x":326,"y":-610,"width":774,"height":200,"color":"5"},
+		{"id":"8e4944258c657378","x":1320,"y":-400,"width":660,"height":280,"color":"6","type":"text","text":"# Pending Committee Approval Status + Approve Button (Possible 2)"}
 	],
 	"edges":[
-		{"id":"f625aa8d3ab438e5","fromNode":"35d9940db86de665","fromSide":"right","toNode":"6de444c1b59f3107","toSide":"left"}
+		{"id":"f625aa8d3ab438e5","fromNode":"35d9940db86de665","fromSide":"right","toNode":"6de444c1b59f3107","toSide":"left","color":"6"},
+		{"id":"1cb619b222bdd1ac","fromNode":"35d9940db86de665","fromSide":"right","toNode":"1954dba2f8832d38","toSide":"left","color":"6"},
+		{"id":"cdb407d34475c74c","fromNode":"6de444c1b59f3107","fromSide":"right","toNode":"8e4944258c657378","toSide":"top","color":"5"},
+		{"id":"5ad1fc799f7a5809","fromNode":"1954dba2f8832d38","fromSide":"right","toNode":"8e4944258c657378","toSide":"top","color":"5"}
 	]
 }
