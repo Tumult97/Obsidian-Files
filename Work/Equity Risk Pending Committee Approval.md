@@ -32,6 +32,8 @@
 	- Simpler
 	- less duplication of code currently
 - Do we need to add an action? maybe 2
+	- One to send for approval 
+	- One for approval from the approval users
 - Can equity risk be part of a bulk sitting?
 	- If yes is this accounted for?
 
