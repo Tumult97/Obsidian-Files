@@ -43,5 +43,6 @@
 - There is some logic in ` ApplicationService.cs ` line 176
 	- Sets target status based on approvals and if its a committee sitting
 	- Method Name: ` GetStatusFromUserApprovals `
-	- 
+	- Used in:
+		- `  `
 - ` GenerateUpdateStatusRequestsForSlotAllocatedPapersPendingLock ` => This also references the status and what does this do?
