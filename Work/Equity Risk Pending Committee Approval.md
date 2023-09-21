@@ -36,4 +36,7 @@
 
 ## Technical
 
-- 
+- Existing Action => ` SendForCommitteeApprovalCreditPaperAction.cs `
+- There is some logic in ` ApplicationService.cs ` line 176
+	- Sets target status based on approvals and if its a committee sitting
+	- Method Name: ` GetStatusFromUserApprovals `
