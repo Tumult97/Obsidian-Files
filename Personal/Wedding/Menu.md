@@ -7,7 +7,7 @@
 ## Mains
 - Traditional Roast Pork with Crackling served with Applesauce
 - Chunky Chicken & Mango Curry Flavored with Caramelized Baby Onions
-- Traditional Roast Potatoes
+- Traditional Roast Potatoes(No onion no garlic)
 - Couscous With Roast Pepper Julienne
 - Carrots with Orange Sauce(No onion no garlic)
 - Sweet Corn Fritters
