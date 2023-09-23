@@ -24,7 +24,7 @@
 
 ## Special Requests
 
-> We will provide little cards for these people to come and collect their food so. We will make the cards descriptive on what meal it is and what restriction it is
+> We will provide little cards for these people to come and collect their food. We will make the cards descriptive on what meal it is and what restriction it is
 
 ## Allergies
 > These are best to be avoided at all costs as we have people that are deathly allergic
@@ -32,6 +32,7 @@
 - No Garlic
 - No Mango
 - No Cabbage
+- No Coriander
 
 ### Starters
 - One person has the below Restrictions
