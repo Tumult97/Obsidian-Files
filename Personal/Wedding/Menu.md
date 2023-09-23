@@ -11,7 +11,7 @@
 - Couscous With Roast Pepper Julienne
 - Carrots with Orange Sauce
 - Sweet Corn Fritters
-- Roasted Seasonal Vegetables in a Herb butter sauce and parmesan shavings
+- Roasted Seasonal Vegetables in a Herb butter sauce and parmesan shavings(No onion no garlic)
 
 ## Salads
 - Green Salad topped with Avocado and Croutons
@@ -23,6 +23,13 @@
 - Marshmallow Tart
 
 ## Special Requests
+
+> We will provide little cards for these people to come and collect their food so. We will make the cards descriptive on what meal it is and what restriction it is
+
+## Allergies
+- No Onion 
+- No Garlic
+- No Mango
 
 ### Starters
 - One person has the below Restrictions
@@ -45,4 +52,4 @@
 		- Cheese
 ### Mains
 - 4 x Vegetarian
-- Lactose Intolerant
+
