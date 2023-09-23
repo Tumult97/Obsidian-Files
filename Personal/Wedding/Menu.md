@@ -44,6 +44,7 @@
 		- No Gluten
 		- No Shellfish
 		- No Mushrooms
+		- No Green Vegetables and fruit
 	- Can have the following:
 		- Rice
 		- Potatoes
