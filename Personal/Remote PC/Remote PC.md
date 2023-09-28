@@ -22,5 +22,16 @@
 > [[Drawing 2023-09-28 09.18.55.excalidraw]]
 > ![[Drawing 2023-09-28 09.18.55.excalidraw.svg]]
 
-1. #Boot For turning pc on using wake on lan works but requires #Network 
-2. 
+
+### Booting
+#Boot For turning pc on using wake on lan works but requires #Network 
+
+
+### Option 1
+*KVM* and *HDMI* extenders
+	1. Not sure if will work in tandem
+	2. Easiest solution
+	3. No DisplayPort option
+	4. Can try look for display port to ethernet instead
+> [[Drawing 2023-09-28 09.49.41.excalidraw]]
+> ![[Drawing 2023-09-28 09.49.41.excalidraw.svg]]

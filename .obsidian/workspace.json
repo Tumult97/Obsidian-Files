@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "760d6cea5c320e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Remote PC/Remote PC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d117843d0e50e7a",
             "type": "leaf",
             "state": {
@@ -30,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "21e75f1768ee2fe8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
+                "file": "Personal/Remote PC/Remote PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
+                "file": "Personal/Remote PC/Remote PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md"
+                "file": "Personal/Remote PC/Remote PC.md"
               }
             }
           },
@@ -188,10 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21e75f1768ee2fe8",
+  "active": "9d117843d0e50e7a",
   "lastOpenFiles": [
+    "Personal/Remote PC/Option 1/Drawing 2023-09-28 09.49.41.excalidraw.md",
+    "Personal/Remote PC/Option 2",
     "Personal/Remote PC/Remote PC.md",
-    "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
+    "Personal/Remote PC/Option 1",
+    "Personal/Remote PC/Option 1/Drawing 2023-09-28 09.49.41.excalidraw.svg",
     "Personal/Remote PC",
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.md",
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.svg",
@@ -230,16 +210,12 @@
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
     "Work/Work files/Templates/Pattern Templates.md",
-    "Work/Hackathon/Check For Quick Approval Candidacy.md",
     "Personal/BG3",
-    "Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted Image 20230804125254_568.gif",
-    "Grade 5 English.docx",
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
-    "Pasted Image 20230804125254_568.gif",
     "Violation Rules Mockup.canvas",
     "Work/Review/Review Action steps.canvas",
     "Work/Review/Be Better Poster.canvas",
