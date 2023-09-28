@@ -23,12 +23,26 @@
             "id": "9d117843d0e50e7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Remote PC/Remote PC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21e75f1768ee2fe8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md"
+              }
             }
           },
           {
@@ -170,9 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d117843d0e50e7a",
+  "active": "21e75f1768ee2fe8",
   "lastOpenFiles": [
     "Personal/Remote PC/Remote PC.md",
+    "Personal/Remote PC/Drawing 2023-09-28 09.49.41.excalidraw.md",
     "Personal/Remote PC",
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.md",
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.svg",
