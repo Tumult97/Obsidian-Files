@@ -13,23 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Remote PC.md",
+                "file": "Personal/Remote PC/Remote PC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0cdcf87a33a4f4cf",
+            "id": "9d117843d0e50e7a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Personal/Drawing 2023-09-28 09.18.55.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Remote PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Remote PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Remote PC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,11 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "760d6cea5c320e7d",
+  "active": "9d117843d0e50e7a",
   "lastOpenFiles": [
-    "Personal/Drawing 2023-09-28 09.18.55.excalidraw.md",
-    "Personal/Drawing 2023-09-28 09.18.55.excalidraw.svg",
-    "Personal/Remote PC.md",
+    "Personal/Remote PC/Remote PC.md",
+    "Personal/Remote PC",
+    "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.md",
+    "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.svg",
     "Equity Risk Committee Approval.canvas",
     "Personal/Wedding/Menu.md",
     "Work/Equity Risk Pending Committee Approval.md",
@@ -222,7 +218,6 @@
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted Image 20230804125254_568.gif",
     "Grade 5 English.docx",
-    "Work/Excalidraw/Drawing 2023-08-04 11.14.24.excalidraw",
     "Pasted Image 20230804130007_821.png",
     "Pasted Image 20230804125914_256.png",
     "Pasted Image 20230804125254_568.gif",
