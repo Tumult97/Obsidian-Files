@@ -1,0 +1,23 @@
+
+## *1. Problem*
+
+- Computer is loud and takes space in office
+- Kicks out heat into room in summer
+
+## *2. Proposal*
+
+- Move Rack into garage with computer
+
+
+## *3. Problems to solve*
+
+1. [ ] #Power Power and backup power to Rack
+2. [ ] #Display Need Display from computer to Monitor in office
+3. [ ] #USB Need to get USB data and control from computer to office
+4. [ ] #Network Need to get network to computer
+5. [x] #Boot Need way to Boot computer ( #Network dependency)
+
+## *4. Proposals for solutions*
+
+1. #Boot For turning pc on using wake on lan works but requires #Network 
+2. 

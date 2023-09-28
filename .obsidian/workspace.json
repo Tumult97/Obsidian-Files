@@ -4,37 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d726f5c62cfa59cb",
+        "id": "d377bc11a0e44647",
         "type": "tabs",
         "children": [
           {
-            "id": "d4efc6e68427911b",
+            "id": "760d6cea5c320e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Wedding/Menu.md",
+                "file": "Personal/Remote PC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbd0447f0afef7a5",
+            "id": "0cdcf87a33a4f4cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Equity Risk Committee Approval.canvas",
-                "viewState": {
-                  "x": 1872.5,
-                  "y": -610,
-                  "zoom": -1.8417555752858152
-                }
+                "file": "Personal/Wedding/Drawing 2023-09-28 09.18.55.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Wedding/Menu.md",
+                "file": "Personal/Wedding/Drawing 2023-09-28 09.18.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Wedding/Menu.md",
+                "file": "Personal/Wedding/Drawing 2023-09-28 09.18.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Wedding/Menu.md"
+                "file": "Personal/Wedding/Drawing 2023-09-28 09.18.55.excalidraw.md"
               }
             }
           },
@@ -180,17 +176,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4efc6e68427911b",
+  "active": "0cdcf87a33a4f4cf",
   "lastOpenFiles": [
-    "Work/Equity Risk Pending Committee Approval.md",
+    "Personal/Remote PC.md",
+    "Personal/Wedding/Drawing 2023-09-28 09.18.55.excalidraw.md",
     "Equity Risk Committee Approval.canvas",
+    "Personal/Wedding/Menu.md",
+    "Work/Equity Risk Pending Committee Approval.md",
     "Images/Equity Risk Committee Approval.png",
     "Images/Untitled (1).png",
     "Work/Submission Sheet Refactor.md",
     "Submission Sheet modal refactor.canvas",
     "Personal/Wedding/Dog Sitters.md",
     "Images/Pasted image 20230918125020.png",
-    "Personal/Wedding/Menu.md",
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
     "Work/Hackathon/Documentation/Documentation.md",
     "Work/Hackathon/Expedited credit paper approval.canvas",
@@ -219,7 +217,6 @@
     "Work/Work files/Templates/Pattern Templates.md",
     "Work/Hackathon/Check For Quick Approval Candidacy.md",
     "Work/Hackathon/Data Questionnaire question Mapping.md",
-    "Work/Hackathon/Ideas.md",
     "Personal/BG3",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
     "Images/Pasted Image 20230804130007_821.png",
