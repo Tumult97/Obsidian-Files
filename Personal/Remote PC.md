@@ -19,6 +19,8 @@
 
 ## *4. Proposals for solutions*
 
+> ![[Drawing 2023-09-28 09.18.55.excalidraw.svg]]
+
 1. #Boot For turning pc on using wake on lan works but requires #Network 
 2. 
 3. 
