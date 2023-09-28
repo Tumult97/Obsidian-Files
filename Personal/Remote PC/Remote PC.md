@@ -31,7 +31,7 @@
 *KVM* and *HDMI* extenders
 	1. Not sure if will work in tandem
 	2. Easiest solution
-	3. No DisplayPort option
+	3. No DisplayPort option (Maybe PC -> DP -> HDMI -> DP -> SCREEN)
 	4. Can try look for display port to ethernet instead
 > [[Drawing 2023-09-28 09.49.41.excalidraw]]
 > ![[Drawing 2023-09-28 09.49.41.excalidraw.svg]]
