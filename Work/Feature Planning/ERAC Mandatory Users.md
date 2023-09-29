@@ -60,5 +60,4 @@ public static List<string> TypesRequiringDecision => new()
 	- Add getters to combine lists where necessary
 
 
-
-![[ERAC Users Canvas.canvas]]
+![[ERAC Users Canvas.png]]
