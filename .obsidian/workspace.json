@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68a86b5e2109d307",
+        "id": "cdea8f554a3b215b",
         "type": "tabs",
         "children": [
           {
-            "id": "6167755bf15aba1f",
+            "id": "76a75f15b1e82df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Projects/Kitchen Redesign.md",
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Projects/Kitchen Redesign.md",
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Projects/Kitchen Redesign.md",
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Projects/Kitchen Redesign.md"
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md"
               }
             }
           },
@@ -165,8 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6167755bf15aba1f",
+  "active": "76a75f15b1e82df7",
   "lastOpenFiles": [
+    "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
+    "Work/Feature Planning/ERAC Mandatory Users.md",
+    "Work/Feature Planning",
+    "Personal/Projects/Kitchen Redesign.md",
     "Personal/Remote PC/Remote PC.md",
     "Personal/Remote PC/Option 2/Drawing 2023-09-28 10.17.39.excalidraw.md",
     "Personal/Remote PC/Option 1/Drawing 2023-09-28 09.49.41.excalidraw.md",
@@ -178,7 +182,6 @@
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.svg",
     "Equity Risk Committee Approval.canvas",
     "Personal/Wedding/Menu.md",
-    "Work/Equity Risk Pending Committee Approval.md",
     "Images/Equity Risk Committee Approval.png",
     "Images/Untitled (1).png",
     "Work/Submission Sheet Refactor.md",
@@ -200,7 +203,6 @@
     "Personal/BG3/Builds/Multiclass/Raging Monk.md",
     "Personal/BG3/Builds/Multiclass/Multiclass.md",
     "Personal/BG3/Builds/Multiclass/Monk-thief Build.md",
-    "Personal/Projects/Kitchen Redesign.md",
     "Personal/Projects",
     "Woek",
     "Personal",
@@ -210,8 +212,6 @@
     "Personal/Projects/Hydroponics Tower.md",
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
-    "Work/Work files/Templates/Pattern Templates.md",
-    "Personal/BG3",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted Image 20230804125254_568.gif",
