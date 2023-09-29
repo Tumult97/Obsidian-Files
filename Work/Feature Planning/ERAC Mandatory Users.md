@@ -53,6 +53,7 @@ public static List<string> TypesRequiringDecision => new()
 - Split into STC and ERAC strategies for committee approval
 	- Need to add Way to check if paper is a committee sitting paper in the is applicable
 	- Possible override to the Inapplicable
+	- Currently the is applicable uses the update status request with no credit paper model Need better way to include
 - Possibly split into 3 lists
 	- Base list
 	- STC approval users
