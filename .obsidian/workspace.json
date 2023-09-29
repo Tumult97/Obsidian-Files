@@ -11,9 +11,21 @@
             "id": "76a75f15b1e82df7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6286e03b9a9cc532",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Work/Feature Planning/Untitled.canvas",
+                "file": "Work/Feature Planning/ERAC Users Canvas.canvas",
                 "viewState": {
                   "x": -54.5,
                   "y": -40,
@@ -22,7 +34,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Feature Planning/Untitled.canvas",
+                "file": "Work/Feature Planning/ERAC Users Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Feature Planning/Untitled.canvas",
+                "file": "Work/Feature Planning/ERAC Users Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Feature Planning/Untitled.canvas"
+                "file": "Work/Feature Planning/ERAC Users Canvas.canvas"
               }
             }
           },
@@ -168,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "6286e03b9a9cc532",
   "lastOpenFiles": [
     "Work/Feature Planning/ERAC Mandatory Users.md",
-    "Work/Feature Planning/Untitled.canvas",
+    "Work/Feature Planning/ERAC Users Canvas.canvas",
     "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
     "Work/Feature Planning",
     "Personal/Projects/Kitchen Redesign.md",

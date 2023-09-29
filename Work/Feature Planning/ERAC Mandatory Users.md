@@ -59,3 +59,6 @@ public static List<string> TypesRequiringDecision => new()
 	- ERAC approval users
 	- Add getters to combine lists where necessary
 
+
+
+![[ERAC Users Canvas.canvas]]
