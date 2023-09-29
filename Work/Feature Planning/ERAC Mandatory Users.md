@@ -4,7 +4,7 @@
 
 ## Ticket
 
-> [\[CRICRT-8775\] DCP: Approval Users for ERAC workflow - Standard Bank JIRA](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8775)
+[\[CRICRT-8775\] DCP: Approval Users for ERAC workflow](https://aws-tools.standardbank.co.za/jira/browse/CRICRT-8775)
 
 
 ## Requirement
