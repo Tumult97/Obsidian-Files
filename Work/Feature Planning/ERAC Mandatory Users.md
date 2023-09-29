@@ -50,4 +50,4 @@ public static List<string> TypesRequiringDecision => new()
 
 ## Proposed solution
 
-- 
+- Split into STC and ERAC strategies for committee approval
