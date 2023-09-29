@@ -16,8 +16,38 @@
     - Core Voting Member 3
     - LE
     - DA
-- if any of these members are the same (eg: DA == LE == Core Voting Member 1), then only one approval is needed for that specific person
+- If any of these members are the same (eg: DA == LE == Core Voting Member 1), then only one approval is needed for that specific person
 
 
 ## Existing Code
 
+- ` ApplicationUserTypeConstants.cs `
+  > Has existing list of approval users
+```c#
+public static List<string> TypesRequiringDecision => new()  
+{  
+    GroupCreditManager,  
+    DelegateAuthority,  
+    LegalEntity,  
+    Da4VotingMember,  
+    GlobalMarketManager,  
+    GlobalHeadOfMarketRisk,  
+    CibHeadOfCountryRisk,  
+    HeadOfCreditInCountry,  
+    RiskChair,  
+    RiskSponsor,  
+    CountryRiskApprover,  
+    ProductLimitSupporter,  
+    BusinessExecutiveVotingMember,  
+    CoreVotingMember,  
+    Chairperson  
+};
+```
+
+
+- This is used to distinguish approval users
+
+
+## Proposed solution
+
+- 
