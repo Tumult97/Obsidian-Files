@@ -11,11 +11,14 @@
             "id": "76a75f15b1e82df7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
-                "mode": "source",
-                "source": false
+                "file": "Work/Feature Planning/Untitled.canvas",
+                "viewState": {
+                  "x": -54.5,
+                  "y": -40,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Work/Feature Planning/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Work/Feature Planning/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md"
+                "file": "Work/Feature Planning/Untitled.canvas"
               }
             }
           },
@@ -165,10 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76a75f15b1e82df7",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
-    "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
     "Work/Feature Planning/ERAC Mandatory Users.md",
+    "Work/Feature Planning/Untitled.canvas",
+    "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
     "Work/Feature Planning",
     "Personal/Projects/Kitchen Redesign.md",
     "Personal/Remote PC/Remote PC.md",
@@ -209,7 +213,6 @@
     "Work/Review/Reviews/Reviews Master.md",
     "Work/DCP dashboard tabs refactor.md",
     "Work/Review/Notes/Outtakes/Outtakes.md",
-    "Personal/Projects/Hydroponics Tower.md",
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
     "Images/Pasted Image 20230804130007_821.png",
@@ -221,7 +224,6 @@
     "Work/Review/Review Action steps.canvas",
     "Work/Review/Be Better Poster.canvas",
     "Be better Poster.canvas",
-    "Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
-    "Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas"
+    "Work/Work files/System docs/DCP/Limit Switch Modal.canvas"
   ]
 }
