@@ -52,7 +52,7 @@ public static List<string> TypesRequiringDecision => new()
 	- Need to add Way to check if paper is a committee sitting paper in the is applicable
 	- Possible override to the Inapplicable
 	- Currently the is applicable uses the update status request with no credit paper model Need better way to include
-- Can just add to basic approval user list and 
+- Can just add to basic approval user list and manage it from strategies
 - Possibly split into 3 lists
 	- Base list
 	- STC approval users
