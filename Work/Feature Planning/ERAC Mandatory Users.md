@@ -62,3 +62,8 @@ public static List<string> TypesRequiringDecision => new()
 [[ERAC Users Canvas.canvas|ERAC Users Canvas]]
 ![[ERAC Users Canvas.png]]
 
+-  new strategies
+	- ERAC Approval
+	- STC Approval
+	- Committee Decline
+	- *Maybe* Different Declines
