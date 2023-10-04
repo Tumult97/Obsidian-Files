@@ -66,4 +66,4 @@ public static List<string> TypesRequiringDecision => new()
 	- ERAC Approval
 	- STC Approval
 	- Committee Decline
-	- *Maybe* Different Declines
+	- *Maybe* Different Decline strategies
