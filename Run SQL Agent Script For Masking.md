@@ -1,4 +1,4 @@
-1. Expand the SQL Server Agent node and right click the Jobs node in SQL Server Agent and select `'New Job'`
+1. Expand the SQL Server Agent node and right click the Jobs node in SQL Server Agent and select `'New Job'`. You can also right click and `'Add'` -> `'Job'`
 
 2. In the `'New Job'` window enter the name of the job and a description on the `'General'` tab.
 
