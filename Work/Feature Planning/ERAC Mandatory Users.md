@@ -67,3 +67,8 @@ public static List<string> TypesRequiringDecision => new()
 	- STC Approval
 	- Committee Decline
 	- *Maybe* Different Decline strategies
+
+- Add stored proc to get relevant committee sitting details
+	- Application Committee Type Code
+	- Is Round robin
+	- Calendar Event type code

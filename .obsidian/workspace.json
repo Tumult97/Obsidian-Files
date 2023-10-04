@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "196132dfc8fc289a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Run SQL Agent Script For Masking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Run SQL Agent Script For Masking.md",
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Run SQL Agent Script For Masking.md",
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Run SQL Agent Script For Masking.md"
+                "file": "Work/Feature Planning/ERAC Mandatory Users.md"
               }
             }
           },
@@ -178,10 +165,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "196132dfc8fc289a",
+  "active": "76a75f15b1e82df7",
   "lastOpenFiles": [
-    "Work/Feature Planning/ERAC Mandatory Users.md",
     "Run SQL Agent Script For Masking.md",
+    "Work/Feature Planning/ERAC Mandatory Users.md",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230702172602.png",
     "Personal/Projects/Kitchen Redesign.md",
