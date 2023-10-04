@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "196132dfc8fc289a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Run SQL Agent Script For Masking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Run SQL Agent Script For Masking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Run SQL Agent Script For Masking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md"
+                "file": "Run SQL Agent Script For Masking.md"
               }
             }
           },
@@ -165,12 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76a75f15b1e82df7",
+  "active": "196132dfc8fc289a",
   "lastOpenFiles": [
+    "Work/Feature Planning/ERAC Mandatory Users.md",
+    "Run SQL Agent Script For Masking.md",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230702172602.png",
     "Personal/Projects/Kitchen Redesign.md",
-    "Work/Feature Planning/ERAC Mandatory Users.md",
     "Work/Feature Planning/ERAC Users Canvas.canvas",
     "Work/Feature Planning/ERAC Users Canvas.png",
     "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
@@ -197,7 +211,6 @@
     "Work/Hackathon/Expedited credit paper approval.canvas",
     "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Documentation",
-    "Untitled.md",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "conflict-files-obsidian-git.md",
@@ -217,7 +230,6 @@
     "Personal/BG3/Builds",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted Image 20230804125914_256.png",
-    "Images/Pasted Image 20230804125254_568.gif",
     "Violation Rules Mockup.canvas",
     "Work/Review/Review Action steps.canvas",
     "Work/Review/Be Better Poster.canvas",
