@@ -9,7 +9,7 @@
 |Bronwyn O'Connell|+27 71 512 3746|||
 |Dianne Beverley-Poole|+27 82 321 4379|Tristan's Step-Mother|Call these two in case of emergency|
 |Hayley Beverley-Poole|+27 82 853 4277|Tristan's Mother|Call these two in case of emergency|
-|||||
+|Chad Gillies|+27 76 860 8864|Friend||
 |||||
 
 ## General/House
@@ -28,19 +28,28 @@
 9. 
 
 
+
+
 ## Feeding
 
 - Both Dogs get chicken and veggies on their pellets
 - Gemma Gets 1-2 Tbls of the Mix and Bailey Gets the rest
-- Put about 
+- Put about 2cm of pellets in Gemma's bowl and just more than cover the bottom of Baileys Bowl with Pellets
 
 
 ## Treats
+- Whenever you at in front of them please give them each 2 small treats.
+- Whenever you leave you give them each a larger treat
+- When you go to bed you give them each a large treat
 
 
 ## Dog Specific
 
-### *Bailey*
+- We try take them for walk semi regularly to keep them healthy and to get their energy down
+- 
 
+### *Bailey*
+- Bailey will take longer to warm up to you if he goes to teh master bedroom and lies down thats his safe space and he will probably relax there. 
 
 ### *Gemma*
+- Gemma is very friendly and will probably be around you when at the house. 
