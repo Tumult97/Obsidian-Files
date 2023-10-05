@@ -35,21 +35,26 @@
 - Both Dogs get chicken and veggies on their pellets
 - Gemma Gets 1-2 Tbls of the Mix and Bailey Gets the rest
 - Put about 2cm of pellets in Gemma's bowl and just more than cover the bottom of Baileys Bowl with Pellets
+- We leave out pellets for them during the day. Usually they have left from from the previous night but if not we top the bowl up a little bit
 
 
 ## Treats
 - Whenever you at in front of them please give them each 2 small treats.
-- Whenever you leave you give them each a larger treat
+- Whenever you leave you give them each a large treat
 - When you go to bed you give them each a large treat
 
 
 ## Dog Specific
 
 - We try take them for walk semi regularly to keep them healthy and to get their energy down
-- 
+- They like to play with their toys underneath the stairs
 
 ### *Bailey*
-- Bailey will take longer to warm up to you if he goes to teh master bedroom and lies down thats his safe space and he will probably relax there. 
+- Bailey will take longer to warm up to you if he goes to the master bedroom and lies down that's his safe space and he will probably relax there. 
+- Bailey also might be upstairs on the best when trying to relax.
+- 
 
 ### *Gemma*
 - Gemma is very friendly and will probably be around you when at the house. 
+- Gemma likes to attack the water if you use the hose
+- Gemma 
