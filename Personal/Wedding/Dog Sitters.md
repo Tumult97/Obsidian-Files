@@ -30,6 +30,10 @@
 
 ## Feeding
 
+- Both Dogs get chicken and veggies on their pellets
+- Gemma Gets 1-2 Tbls of the Mix and Bailey Gets the rest
+- Put about 
+
 
 ## Treats
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cdea8f554a3b215b",
+        "id": "794afa7f2f02dfc2",
         "type": "tabs",
         "children": [
           {
-            "id": "76a75f15b1e82df7",
+            "id": "b87f2562f254651c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md",
+                "file": "Personal/Wedding/Dog Sitters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Feature Planning/ERAC Mandatory Users.md"
+                "file": "Personal/Wedding/Dog Sitters.md"
               }
             }
           },
@@ -165,10 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76a75f15b1e82df7",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
-    "Run SQL Agent Script For Masking.md",
     "Work/Feature Planning/ERAC Mandatory Users.md",
+    "Run SQL Agent Script For Masking.md",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230702172602.png",
     "Personal/Projects/Kitchen Redesign.md",
