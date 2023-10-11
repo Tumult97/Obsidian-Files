@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6530859f85fd49cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERAC MRs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equity Risk Committee Approval Testing.md",
+                "file": "ERAC MRs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equity Risk Committee Approval Testing.md",
+                "file": "ERAC MRs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equity Risk Committee Approval Testing.md"
+                "file": "ERAC MRs.md"
               }
             }
           },
@@ -190,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f26fe1d1ea6c980",
+  "active": "6530859f85fd49cf",
   "lastOpenFiles": [
-    "Work/Run SQL Agent Script For Masking.md",
     "Equity Risk Committee Approval Testing.md",
+    "ERAC MRs.md",
+    "Work/Run SQL Agent Script For Masking.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Work/Equity Risk Committee Approval.canvas",
     "Personal/Wedding/Dog Sitters.md",
@@ -238,7 +251,6 @@
     "Woek",
     "Personal",
     "Work/Review/Reviews/Reviews Master.md",
-    "Work/DCP dashboard tabs refactor.md",
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
     "Images/Pasted Image 20230804130007_821.png",
