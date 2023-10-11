@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERAC MRs.md",
+                "file": "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERAC MRs.md",
+                "file": "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERAC MRs.md"
+                "file": "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md"
               }
             }
           },
@@ -202,12 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6530859f85fd49cf",
+  "active": "95b10be657052fab",
   "lastOpenFiles": [
-    "Equity Risk Committee Approval Testing.md",
-    "ERAC MRs.md",
-    "Work/Run SQL Agent Script For Masking.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
+    "ERAC MRs.md",
+    "Equity Risk Committee Approval Testing.md",
+    "Work/Run SQL Agent Script For Masking.md",
     "Work/Equity Risk Committee Approval.canvas",
     "Personal/Wedding/Dog Sitters.md",
     "Work/Feature Planning/ERAC Mandatory Users.md",
@@ -250,7 +250,6 @@
     "Personal/Projects",
     "Woek",
     "Personal",
-    "Work/Review/Reviews/Reviews Master.md",
     "Personal/BG3/Builds/Multiclass",
     "Personal/BG3/Builds",
     "Images/Pasted Image 20230804130007_821.png",
