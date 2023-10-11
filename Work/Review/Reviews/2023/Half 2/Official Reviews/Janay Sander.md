@@ -70,6 +70,17 @@ When it comes to your interactions with the team you are almost always a ray of 
 
 Nigh on every morning you are trying to bring smiles to the team with many jokes and making the team and the product owners laugh. This is a valuable morale boost for team members and i hope you keep this going even into other teams. 
 
+You do conduct yourself professionally and i cannot fault you on that. That being said on the point i said: No or not sure to i want to help you improve on. 
+
+> *Does this individual respect and acknowledge other people’s perspectives and priorities?*
+
+When it comes to others perspectives i feel you are inconsistent. From my perspective and experience: You have showed on a few occasions a lack of regard to my opinions are suggestions made to you or shows a lack of regard to others time. 
+
+To be more specific: 
+
+1. During an evening when a few of us were working late on limit switches to get some of the work out you were assign to an MR and were actively providing feedback on it and then just left without saying you were clocking off leaving myself waiting on you for 30-40 minutes late at night. This shows a lack of thought on your end to others time especially when they are working outside of work hours. Just let people know that you're clocking off if you know they are working with you. Its goes along way and shows that you respect them and their time. 
+2. 
+  
 
 ## Impact on customer success
 
