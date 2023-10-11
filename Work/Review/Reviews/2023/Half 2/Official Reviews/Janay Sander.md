@@ -1,4 +1,9 @@
 
+## Notes
+
+### Kudos
+- 
+
 ## Competence in Craft
 
 1. Does this individual consistently and accurately estimate the amount of effort needed to complete their own tasks?
@@ -15,4 +20,3 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
-Janay one thing that you always do well is your craft. You are a great developer and 
