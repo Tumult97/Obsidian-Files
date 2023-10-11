@@ -61,3 +61,16 @@
 12. Is this individual aligned with the culture in their team and in the broader Entelect community?
 13. Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?
 14. *Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?*
+
+
+
+## Impact on customer success
+
+1. Does this individual understand their customer's business domain?
+2. Does this individual take ownership of customer complaints and concerns, and avoids passing blame or responsibility onto others?
+3. Does this individual know all their customer stakeholders by name?
+4. Does this individual know how to make their customers look good and succeed?
+5. Is this individual aligned with the customer and what they are trying to achieve?
+6. Does this individual focus on making their customer look great?
+7. Does this individual prioritise work that has high business value over nice-to-haves?
+8. Does this individual view the customer as part of the team?
