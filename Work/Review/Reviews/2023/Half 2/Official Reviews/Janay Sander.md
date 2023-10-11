@@ -43,7 +43,8 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
-
+- Does this individual seek feedback on the work they are completing?
+> The only reason I say here that i am not sure is because i cant remember seeing it. 
 
 ## Responsibility to others
 
