@@ -1,8 +1,31 @@
 
 ## Notes
 
+### Notes
+
+1. Lack of respect to others opinions. 
+2. You also seem very hesitant for change and become defensive and hostile
+
 ### Kudos
+- Queuing refactor change
+- DCP <-> CT service bus communication
 - 
+
+### Occurrences
+
+- ` 2023/06/06 ` 
+  During a large in person meeting to started to work on other stuff and lost context. This showed you didn't respect the team's time and effort during that moment in the meeting and should've left the meeting to do the work.
+
+- ` 2023/06/06 `
+  During the evening where we worked late on the limit switches you were the one assigned to the merge request and were making and resolving comments and at one point you just left with no message stating as such and there after I waiting for you for an hour. You blatantly disregarded myself and didn't value my time then. Please when people are waiting on you let them know if and when you are stepping out for the day so they aren't waiting on you.
+
+- ` Many Occasions `
+  When we ask you to look at Merge requests then you are often hard to follow up and I have to constantly ask you to re look multipole time to try get the Merge requests through. Please try be vigilant when reviewing merge requests to help get them out quickly to not hold up your team mates. We have a merge request channel for this purpose. 
+
+- ` 2023/07/19 `
+  I tried to suggest maybe new more descriptive ways to how you do merge requests you straight up said you will not change ever how you do this process. I was bringing to light a very blunt and non descriptive way you do merge requests. We are supposed to grow and evolve. That's why I was trying to bring this up. I find the way you do comments non informative and very very open. And you automatically assume its just for me that I bring this up. I am trying to do this so anyone you review in the future to have more detail in your intention. You don't specify intention and leave it vague. And not even considering adding more detail goes against growth. You showed no respect for any opinion I had in this conversation and it shows you don't respect my views. I am not sure if it's just me or any one is a lower position than you but it still showed. 
+
+
 
 ## Competence in Craft
 
