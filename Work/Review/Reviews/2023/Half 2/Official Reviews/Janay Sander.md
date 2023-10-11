@@ -79,7 +79,19 @@ When it comes to others perspectives i feel you are inconsistent. From my perspe
 To be more specific: 
 
 1. During an evening when a few of us were working late on limit switches to get some of the work out you were assign to an MR and were actively providing feedback on it and then just left without saying you were clocking off leaving myself waiting on you for 30-40 minutes late at night. This shows a lack of thought on your end to others time especially when they are working outside of work hours. Just let people know that you're clocking off if you know they are working with you. Its goes along way and shows that you respect them and their time. 
-2. 
+2. When we ask you to look at Merge requests then you are often hard to follow up and I have to constantly ask you to re look multiple time to try get the Merge requests through. Please try be vigilant when reviewing merge requests to help get them out quickly to not hold up your team mates. We have a merge request channel for this purpose. 
+3. One day when I tried to suggest maybe new more descriptive ways to how you do merge requests you straight up said you will not change ever how you do this process. 
+   
+   I was bringing to light a very blunt and non descriptive way you do merge requests. We are supposed to grow and evolve. That's why I was trying to bring this up. I find the way you do comments non informative and very very open. I am trying to do this so anyone you review in the future to have more detail in your intention. You don't specify intention and leave it vague. And not even considering adding more detail goes against growth. It took Dane speaking with you to even consider what i had said.
+   
+   You showed no respect for any opinion I had in this conversation and it shows you don't respect my views. I am not sure if it's just how you deal with me or any one is a lower position than you but it still showed. 
+   
+   Please if a team member is maybe suggesting a way todo something then consider it. An outright no shows no compassion or respect especially when its a way to possible help others. 
+   
+
+Another note is thank you for coming forward with issues of my end. You used to not come forward with issues with my behaviour and coming out and talking to me first to allow me to correct my behavior is good. 
+
+These points are from my experience working and interacting with you. You do handle the team well and communicate with them as a whole effectively but there are a few moments when you don't show the same regard that you give others to other members of the team. 
   
 
 ## Impact on customer success
