@@ -43,3 +43,20 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
+
+
+## Responsibility to others
+
+1. Does this individual conduct themselves professionally?
+2. Does this individual conduct themselves professionally in meetings?
+3. Does this individual prepare for meetings?
+4. *Does this individual respect and acknowledge other people’s perspectives and priorities?*
+5. Is this individual proud to make their work visible, accept criticism and take action to remedy it?
+6. Does this individual provide constructive feedback to others that is honest and helps the other party to grow?
+7. Does this individual hold their peers accountable?
+8. Does this individual communicate effectively?
+9. *Is this individual known for being available and reliable?*
+10. Does this individual have the team's (Entelect and Customer) confidence and trust that they can deliver what is required of them?
+11. Is this individual aligned with the culture in their team and in the broader Entelect community?
+12. Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?
+13. *Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?*
