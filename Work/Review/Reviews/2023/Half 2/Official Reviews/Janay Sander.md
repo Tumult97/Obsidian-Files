@@ -53,10 +53,11 @@
 4. *Does this individual respect and acknowledge other people’s perspectives and priorities?*
 5. Is this individual proud to make their work visible, accept criticism and take action to remedy it?
 6. Does this individual provide constructive feedback to others that is honest and helps the other party to grow?
-7. Does this individual hold their peers accountable?
-8. Does this individual communicate effectively?
-9. *Is this individual known for being available and reliable?*
-10. Does this individual have the team's (Entelect and Customer) confidence and trust that they can deliver what is required of them?
-11. Is this individual aligned with the culture in their team and in the broader Entelect community?
-12. Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?
-13. *Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?*
+7. Does this individual have a reputation for a positive attitude?
+8. Does this individual hold their peers accountable?
+9. Does this individual communicate effectively?
+10. *Is this individual known for being available and reliable?*
+11. Does this individual have the team's (Entelect and Customer) confidence and trust that they can deliver what is required of them?
+12. Is this individual aligned with the culture in their team and in the broader Entelect community?
+13. Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?
+14. *Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?*
