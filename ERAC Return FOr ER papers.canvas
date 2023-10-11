@@ -1,8 +1,15 @@
 {
 	"nodes":[
-		{"id":"b55306718ab702ba","x":-700,"y":-460,"width":250,"height":240,"type":"text","text":"# Action Request\nStatus: Returned By Committee to identify"},
-		{"id":"4df0c84e4ff1246b","x":-200,"y":-460,"width":580,"height":400,"type":"text","text":"# Status Update Strategy\n\n- Guard invalid request\n- Undo all approvals\n- Determine New Status\n\t- Use logged in user type\n\t- CVM\n\t- DVM\n\t- DA\n\t- LE\n\t- "},
-		{"id":"ca51d4f5d21e1ed8","x":-700,"y":420,"width":600,"height":220,"type":"text","text":"# Other work\n\n- We already have DA and LE returns\n- Equity risk specific\n- Can use strat to determine status needed\n- If admin then default to ______?"}
+		{"id":"c94da7fdde50ae38","x":-500,"y":-1160,"width":620,"height":660,"type":"group","label":"Status Update STrategy"},
+		{"id":"4df0c84e4ff1246b","type":"text","text":"# New Status Update Strategy\n\n- Guard invalid request\n- Undo all approvals\n\n\n\n\n\n\n\n\n","x":-480,"y":-1140,"width":580,"height":620,"color":"4"},
+		{"id":"ebd544ddd2f78fe7","type":"text","text":"Determine New Status\n\t- Use logged in user type\n\t- CVM\n\t- DVM\n\t- CP\n\t- BEVM","x":-450,"y":-960,"width":520,"height":220,"color":"5"},
+		{"id":"52b8582cdbcfadb9","type":"text","text":"# New Email\n\n- Send new email","x":-450,"y":-720,"width":520,"height":160,"color":"1"},
+		{"id":"db10b26ae5207313","x":300,"y":-1140,"width":340,"height":260,"color":"3","type":"text","text":"# 4 new statuses\n\n1. CVM\n2. DVM\n3. CP\n4. BEVM"},
+		{"id":"696948a648b8433b","type":"text","text":"# New Action\nStatus: Returned By Committee to identify","x":-1080,"y":-950,"width":280,"height":240,"color":"4"},
+		{"id":"ca51d4f5d21e1ed8","type":"text","text":"# Other work\n\n- We already have DA and LE returns\n- Equity risk specific\n- Can use strat to determine status needed\n- For admin we have 2 other eturn buttons no need to chekc admin for this new one","x":-480,"y":-380,"width":600,"height":340,"color":"6"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a9138fabba2c80bd","fromNode":"696948a648b8433b","fromSide":"right","toNode":"4df0c84e4ff1246b","toSide":"left"},
+		{"id":"4b596421b07c3dd6","fromNode":"ebd544ddd2f78fe7","fromSide":"right","toNode":"db10b26ae5207313","toSide":"left"}
+	]
 }
