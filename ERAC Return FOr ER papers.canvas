@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"b55306718ab702ba","x":-700,"y":-460,"width":250,"height":240,"type":"text","text":"# Action Request\nStatus: Returned By Committee to identify"},
+		{"id":"4df0c84e4ff1246b","x":-200,"y":-460,"width":580,"height":400,"type":"text","text":"# Status Update Strategy\n\n- Guard invalid request\n- Undo all approvals\n- Determine New Status\n\t- Use logged in user type\n\t- CVM\n\t- DVM\n\t- DA\n\t- LE\n\t- "},
+		{"id":"ca51d4f5d21e1ed8","x":-700,"y":420,"width":600,"height":220,"type":"text","text":"# Other work\n\n- We already have DA and LE returns\n- Equity risk specific\n- Can use strat to determine status needed\n- If admin then default to ______?"}
+	],
+	"edges":[]
+}
