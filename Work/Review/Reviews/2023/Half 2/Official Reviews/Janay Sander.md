@@ -46,6 +46,8 @@
 - Does this individual seek feedback on the work they are completing?
 > The only reason I say here that i am not sure is because i cant remember seeing it. 
 
+- 
+
 ## Responsibility to others
 
 1. Does this individual conduct themselves professionally?
