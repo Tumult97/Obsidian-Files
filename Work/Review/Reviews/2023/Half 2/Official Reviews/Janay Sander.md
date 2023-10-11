@@ -66,6 +66,10 @@
 14. *Is this individual aligned with the customer's chosen processes, methodologies and delivery approach?*
 
 
+When it comes to your interactions with the team you are almolst always a ray of sunshine but this I feel to be your weakest point. 
+
+Nigh on every morning you are trying to bring smiles to the team with many jokes and making the team and the product owners laugh. This is a valuable morale boost for team members and i hope you keep this going even into other teams. 
+
 
 ## Impact on customer success
 
