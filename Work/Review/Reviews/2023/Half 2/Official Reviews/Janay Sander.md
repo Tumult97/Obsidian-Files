@@ -91,7 +91,7 @@ To be more specific:
 
 Another note is thank you for coming forward with issues of my end. You used to not come forward with issues with my behaviour and coming out and talking to me first to allow me to correct my behavior is good. 
 
-These points are from my experience working and interacting with you. You do handle the team well and communicate with them as a whole effectively but there are a few moments when you don't show the same regard that you give others to other members of the team. 
+These points are from my experience working and interacting with you. You do handle the team well and communicate with them as a whole effectively but there are a few moments when you don't show the same regard that you give others to other members of the team.
   
 
 ## Impact on customer success
