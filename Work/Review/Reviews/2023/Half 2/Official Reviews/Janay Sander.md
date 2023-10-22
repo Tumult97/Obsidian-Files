@@ -43,12 +43,14 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
-Janay, when it comes to your craft you are quite competent as always. You do great work and do well on difficult features like the covenants queue refactor. I have a few comments below as to the reasons why I answered a few of the questions the way I did:
+Janay, when it comes to your craft you are quite competent as always. You do great work and do well on difficult features like the covenants queue refactor. I have a few comments below:
 
 - Does this individual seek feedback on the work they are completing?
 > The only reason I say here that I am not sure is because I cant remember seeing it. 
 
-- 
+- I am happy to see you upskilling outside of work and it show the passion you have for the job that you do. 
+
+- One thing I find very concerning is the very large amount of excess hours you put into work. Doing too many hours outside of work can be unhealthy and it's good to consider having a healthy work/life balance. I understand 
 
 ## Responsibility to others
 
