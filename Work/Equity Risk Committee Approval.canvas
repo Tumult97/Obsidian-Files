@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"42ee88fe3d94bc7c","x":2140,"y":-940,"width":814,"height":590,"type":"group","label":"Approval Strategies"},
+		{"id":"737ae6ccb92addb5","x":140,"y":-880,"width":814,"height":590,"type":"group","label":"Send For Approval Strategies"},
+		{"id":"35d9940db86de665","x":-780,"y":-960,"width":700,"height":700,"color":"6","type":"text","text":"# SendForCommitteeApprovalButton\n\n- Users\n\t- Risk Sponsor\n\t- Business Sponsor\n\t- *Admin*\n\n- States\n\t- Pending Risk And Business Sponsor Support\n\n- Required\n\t- Linked to Committee Sitting\n\t- No False Cashman Answers\n\t- Submission Sheet has been created\n\t- Linked to confirmed sitting\n\t- Not round robin\n\t- Not part of bulk sitting\n\t- Required members supplied\n\t\t- ERAC specific\n\t\t- STC specific"},
+		{"id":"1954dba2f8832d38","type":"text","text":"# STC SendForApproval Status Update Strategy\n\n- Updates status to pending committee approval","x":160,"y":-510,"width":774,"height":200,"color":"5"},
+		{"id":"6de444c1b59f3107","x":160,"y":-860,"width":774,"height":200,"color":"5","type":"text","text":"# ERAC SendForApproval Status Update Strategy\n\n- Updates status to pending committee approval"},
+		{"id":"8e4944258c657378","x":1280,"y":-750,"width":660,"height":280,"color":"6","type":"text","text":"# Pending Committee Approval Status + Approve Button (Possible 2: 1 Per ERAC + STC)\n> Can accomlish with one button"},
+		{"id":"2e92372a099e3320","type":"text","text":"# STC Committee Sitting Approval Strategy\n\n- Updates status to pending committee approval","x":2160,"y":-570,"width":774,"height":200,"color":"5"},
+		{"id":"2f8a154f43841282","type":"text","text":"# ERAC Committee Sitting Approval Strategy\n\n","x":2160,"y":-920,"width":774,"height":200,"color":"5"},
+		{"id":"f26661983124b0ff","x":3400,"y":-570,"width":440,"height":60,"color":"2","type":"text","text":"# Check User Approval"},
+		{"id":"59f41d3d1be6f1eb","x":4040,"y":-570,"width":485,"height":61,"color":"6","type":"text","text":"# Credit Paper Finalised"}
+	],
+	"edges":[
+		{"id":"f625aa8d3ab438e5","fromNode":"35d9940db86de665","fromSide":"right","toNode":"6de444c1b59f3107","toSide":"left","color":"6"},
+		{"id":"1cb619b222bdd1ac","fromNode":"35d9940db86de665","fromSide":"right","toNode":"1954dba2f8832d38","toSide":"left","color":"6"},
+		{"id":"cdb407d34475c74c","fromNode":"6de444c1b59f3107","fromSide":"right","toNode":"8e4944258c657378","toSide":"left","color":"5"},
+		{"id":"5ad1fc799f7a5809","fromNode":"1954dba2f8832d38","fromSide":"right","toNode":"8e4944258c657378","toSide":"left","color":"5"},
+		{"id":"acf27f9a81483d14","fromNode":"8e4944258c657378","fromSide":"right","toNode":"2f8a154f43841282","toSide":"left","color":"6"},
+		{"id":"e4fc8437ed5b1fbd","fromNode":"8e4944258c657378","fromSide":"right","toNode":"2e92372a099e3320","toSide":"left","color":"6"},
+		{"id":"7f0190e83a5f50bb","fromNode":"2f8a154f43841282","fromSide":"right","toNode":"f26661983124b0ff","toSide":"left","color":"5"},
+		{"id":"4ce6567963f4a1a9","fromNode":"2e92372a099e3320","fromSide":"right","toNode":"f26661983124b0ff","toSide":"left","color":"5"},
+		{"id":"3a1cb878d9164594","fromNode":"f26661983124b0ff","fromSide":"bottom","toNode":"42ee88fe3d94bc7c","toSide":"bottom","color":"2","label":"Not All users Approved"},
+		{"id":"a610fc1b1a380e54","fromNode":"f26661983124b0ff","fromSide":"right","toNode":"59f41d3d1be6f1eb","toSide":"left","color":"2"}
+	]
+}
