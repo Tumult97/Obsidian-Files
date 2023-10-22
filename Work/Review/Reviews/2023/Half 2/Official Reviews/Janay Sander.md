@@ -50,7 +50,10 @@ Janay, when it comes to your craft you are quite competent as always. You do gre
 
 - I am happy to see you upskilling outside of work and it show the passion you have for the job that you do. 
 
-- One thing I find very concerning is the very large amount of excess hours you put into work. Doing too many hours outside of work can be unhealthy and it's good to consider having a healthy work/life balance. I understand 
+- One thing I find very concerning is the very large amount of excess hours you put into work. Doing too many hours outside of work can be unhealthy and it's good to consider having a healthy work/life balance. I understand you want to work extra but doing to too much can cause a large strain on mental and physical health. 
+
+This is very short but these are the comment I have on this matter.  You do great work and i dont think anyone in the team can fault you on the work that you do. Keep it up. 
+
 
 ## Responsibility to others
 
