@@ -43,8 +43,10 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
+Janay, when it comes to your craft you are quite competent as always. You do great work and do well on difficult features like the covenants queue refactor. I have a few comments below as to the reasons why I answered a few of the questions the way I did:
+
 - Does this individual seek feedback on the work they are completing?
-> The only reason I say here that i am not sure is because i cant remember seeing it. 
+> The only reason I say here that I am not sure is because I cant remember seeing it. 
 
 - 
 
@@ -84,7 +86,7 @@ To be more specific:
    
    We are supposed to grow and evolve. That's why I was trying to bring this up. I find the way you make comments non-informative and very open. I am trying to do this so anyone you review in the future can have more details about your intention. You don't specify the intention and leave it vague. And not even considering adding more detail goes against growth. It took Dane speaking with you even to consider what I had said.
    
-   You showed no respect for any opinion I had in this conversation, and it shows you don't respect my views. I am not sure if it's just how you deal with me or anyone in a lower position than you, but it still showed.
+   You showed little respect for any opinion I had in this conversation, and it shows you don't respect my views. I am not sure if it's just how you deal with me or anyone in a lower position than you, but it still showed.
    
    Please, if a team member is suggesting a way to do something, then consider it. An outright no shows no compassion or respect, especially when it's a way to possibly help others.
 
