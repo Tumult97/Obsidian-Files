@@ -33,4 +33,4 @@
 - This is a teamwide one: time estimation of tickets, we are getting better but we as a team need improvement
 - There are times when I feel planning can be done more before you start a large feature, maybe just a small logic flow diagram can be done before hand with some feedback from a team amber will go a long way
 - Sometimes in your communication you can seem very harsh and a bit too direct, it can seem that you are annoyed: try soften your message but still keep to the point
-- 
+- I don't see you upskilling very often
