@@ -8,18 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90cc66a03069c4ed",
+            "id": "620fb93c29ab766e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "be7a30e8784b0fdc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef42e9882a61a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Reviews Mind Dump.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Reviews Mind Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+                "file": "Reviews Mind Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Review/Reviews/2023/Half 2/2023 - part 2.md"
+                "file": "Reviews Mind Dump.md"
+              }
+            }
+          },
+          {
+            "id": "d3c64eac7556cb20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90cc66a03069c4ed",
+  "active": "9ef42e9882a61a04",
   "lastOpenFiles": [
+    "Reviews Mind Dump.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "conflict-files-obsidian-git.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
@@ -196,7 +226,6 @@
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
-    "Work/Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
     "Work/Review/Reviews/2023/Half 1/Notes",
