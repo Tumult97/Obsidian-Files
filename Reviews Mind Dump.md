@@ -24,6 +24,8 @@
 + Social Champion: you are striving to keep this team wellness and morale up and the connection between team members strong like with the team buildings and the shirts
 + I always see you asking for feedback on your work to improve yourself and the work that you do. Keep that up and you will grow very fast
 + You showed you are able to handle a large feature by yourself, with the recent example of the Bulk Approval container you have made huge strides
++ Your meeting prep is nigh on perfect 
++ 
 
 
 ## Needs Improvement
