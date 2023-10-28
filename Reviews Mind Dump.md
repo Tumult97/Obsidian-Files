@@ -12,4 +12,18 @@
 ## Needs Improvement
 
 - There are times where I feel you can ask your team for context when planning a feature because there are occasions where features planned needed more context before final planning and sizing
-- 
+- This is a teamwide one: time estimation of tickets, we are getting better but we as a team need improvement
+
+
+
+# Wiehan
+
+## Doing Well
+
++ Social Champion: you are striving to keep this team wellness and morale up and the connection between team members strong like with the team buildings and the shirts
++ Planning
+
+
+## Needs Improvement
+
+- This is a teamwide one: time estimation of tickets, we are getting better but we as a team need improvement
