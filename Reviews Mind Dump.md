@@ -1,7 +1,9 @@
 # Lauren
 
-## Pros
+## Doing well
 
 + 
 
 ## Cons
+
+- 

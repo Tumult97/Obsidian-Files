@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "620fb93c29ab766e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "be7a30e8784b0fdc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9ef42e9882a61a04",
             "type": "leaf",
             "state": {
@@ -37,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +166,8 @@
   },
   "active": "9ef42e9882a61a04",
   "lastOpenFiles": [
-    "ERAC MRs.md",
     "Reviews Mind Dump.md",
+    "ERAC MRs.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "conflict-files-obsidian-git.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
