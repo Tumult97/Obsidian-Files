@@ -2,8 +2,8 @@
 
 ## Doing well
 
-+ 
++ Planning and 
 
-## Cons
+## Needs Improvement
 
 - 
