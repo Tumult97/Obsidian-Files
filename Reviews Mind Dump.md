@@ -13,6 +13,7 @@
 
 - There are times where I feel you can ask your team for context when planning a feature because there are occasions where features planned needed more context before final planning and sizing
 - This is a teamwide one: time estimation of tickets, we are getting better but we as a team need improvement
+- Sometimes your communication can seem vague on teams: maybe just prefix with some context before jumping into your topic that you need discussing
 
 
 
@@ -21,9 +22,13 @@
 ## Doing Well
 
 + Social Champion: you are striving to keep this team wellness and morale up and the connection between team members strong like with the team buildings and the shirts
-+ Planning
++ I always see you asking for feedback on your work to improve yourself and the work that you do. Keep that up and you will grow very fast
++ You showed you are able to handle a large feature by yourself, with the recent example of the Bulk Approval container you have made huge strides
 
 
 ## Needs Improvement
 
 - This is a teamwide one: time estimation of tickets, we are getting better but we as a team need improvement
+- There are times when I feel planning can be done more before you start a large feature, maybe just a small logic flow diagram can be done before hand with some feedback from a team amber will go a long way
+- Sometimes in your communication you can seem very harsh and a bit too direct, it can seem that you are annoyed: try soften your message but still keep to the point
+- 
