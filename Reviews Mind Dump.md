@@ -1,21 +1,3 @@
-# Lauren
-
-## Doing well
-
-+ Planning features with mock-ups and flows
-+ There are too many times to list just a few where you comes to the team and ask for feedback on how you plan out features
-+ There have been many, many times where Bev and Jan have sung your praise
-+ You are always available to have time for us developers when discussing features(Please give me some of those extra magic hours you have)
-+ You are learning these systems we have extremely quickly and we can always count on you knowing the system or learning what you need to, to help us
-+ You always are up to learn and admit what you don't know
-
-## Needs Improvement
-
-
-
-
-
-
 # Wiehan
 
 ## Doing Well
