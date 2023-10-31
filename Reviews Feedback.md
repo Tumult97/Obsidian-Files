@@ -41,4 +41,8 @@
   
 
 - Wiehan
+  > However, you need to focus on execution and precision. During this review period, there were a few instances where you missed certain failures and functionalities. Although this can happen to anyone, I would like to emphasize the importance of following all the processes and steps to avoid such incidents in the future. For instance, there was a case where you missed some steps in the Done process of Bulk Approval Container Limit Switches, which led to the team missing the testing of this feature, resulting in the wrong implementation and rework. We have discussed this matter before, so I would advise you to put more effort into this area.
   > 
+  > Additionally, I want to highlight a few incidents where a production bug was detected, and upon investigation, it was found to be caused by your code. It is understandable that we are a busy development group, but it is crucial to try and recall what we have touched or changed in the code as it can help in the fixing process and understanding the changes made.
+  
+
