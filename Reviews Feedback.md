@@ -33,4 +33,12 @@
 	  
 
 - Lauren
+  > Tristan, I have seen you grow and work on yourself in the short time I have been part of this team. The time which comes to mind is from when you working on an item for the limit switch papers, I think the strategy or logic the buttons had previously used was wrong and you had, had a day of working on it which you needed to relooks at; you had found this while checking your progress on the work and chatted to JP. You were upset and defensive that you had 'lost' a day of work, but looking at the way you have tackled ERAC is a big change to that. 
+  > 
+  > You have gone through the code/logic thoroughly and asked the questions before jumping straight into coding the solution (thinking of the committee sitting strategy), where you have tried to understand all the logic of the code and requirements instead of trying to 'just get the work done' quickly. When items need to be reworked, from MR comments etc., you don't get defensive, you hear the others out much more calmly and reapproach the work after having a discussion with them. I see the growth and the effort you are putting in to yourself and your coding, and that is great to see. 
+  > 
+  > *One of the areas I think you can look to grow in, is that of work quality and accepting when something you have worked on isn't working as it should, examples such as the 'ready for bulk approval' logic or the E&S attestation comment being removed for Limit Switch papers. I do see you working on those areas by slowing down your Prod Readiness ticket testing presenting, and discussing with others (like having local testing sessions - such as JP and Janay on the ERAC committee sitting items), it's just the area I do see room for growth.*
+  
+
+- Wiehan
   > 
