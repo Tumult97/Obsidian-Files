@@ -24,7 +24,7 @@
 	The same happened during a recent ERAC workflow MR. 95% of the feedback was code styling preference. However, due to the volume of it, you became despondent  
 	This makes it difficult for the team to critique/advise you due to fear of you getting into a mood  
 	By separating emotion from your code, we can avoid this and have the happy-go-lucky, confident Tristan getting shit done 
-	 
+>	
 >	You are working on this by planning out solutions. However, you need to tweak it to deliver smaller chunks of good quality to ultimately complete the task  
 	- Smaller, more manageable chunks should alleviate big rework and/or a lot of feedback  
 	- Redirect your passion from the code to experimenting, learning, and growing  
