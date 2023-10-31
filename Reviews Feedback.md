@@ -18,3 +18,19 @@
   >  
   >  I would still suggest going to the team for assistance, even for non-bug related topics. One example was the feature toggle implementation for ERAC. Having feature toggles is great, but when implemented incorrectly, they can cause a lot of headache later. JP and I are currently working on the submission sheet components. Your feature toggle made it very difficult to determine which of 6 different components would be rendered on the front-end, where ERAC should only have been used on one component. We are refactoring it now, so don't worry about going back to it. For complex pieces of work, I would suggest taking the problem, as well as your suggested solution for the problem, to the new ADT team. The seniors in our team have a lot more experience than us. Something that sounds like a good idea to us, might have hidden flaws that they can uncover upfront, saving us a lot of time in future.
 
+- JP
+  > - Separating Emotion  
+	At SB offices when finding an issue with BAC & LS workflow and advising on changes needed to rectify them, you got visibly upset due to all the work you put in that needed to be updated  
+	The same happened during a recent ERAC workflow MR. 95% of the feedback was code styling preference. However, due to the volume of it, you became despondent  
+	This makes it difficult for the team to critique/advise you due to fear of you getting into a mood  
+	By separating emotion from your code, we can avoid this and have the happy-go-lucky, confident Tristan getting shit done 
+	 
+>	You are working on this by planning out solutions. However, you need to tweak it to deliver smaller chunks of good quality to ultimately complete the task  
+	- Smaller, more manageable chunks should alleviate big rework and/or a lot of feedback  
+	- Redirect your passion from the code to experimenting, learning, and growing  
+	- This way regardless of where in the journey of your career, you can always win  
+	- If shit breaks, you learn & experiment on how to solve it. If shit works, you grow knowledge and experience
+	  
+
+- Lauren
+  > 
