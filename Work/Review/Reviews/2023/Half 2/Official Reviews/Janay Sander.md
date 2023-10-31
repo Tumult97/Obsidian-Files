@@ -43,10 +43,17 @@
 12. Is this individual self-managed and independent when completing their tasks?
 13. Is this individual able to conceptualise, architect or design artefacts of basic ringfenced components, on their own?
 
-- Does this individual seek feedback on the work they are completing?
-> The only reason I say here that i am not sure is because i cant remember seeing it. 
+Janay, when it comes to your craft you are quite competent as always. You do great work and do well on difficult features like the covenants queue refactor. I have a few comments below:
 
-- 
+- Does this individual seek feedback on the work they are completing?
+> The only reason I say here that I am not sure is because I cant remember seeing it. 
+
+- I am happy to see you upskilling outside of work and it show the passion you have for the job that you do. 
+
+- One thing I find very concerning is the very large amount of excess hours you put into work. Doing too many hours outside of work can be unhealthy and it's good to consider having a healthy work/life balance. I understand you want to work extra but doing to too much can cause a large strain on mental and physical health. 
+
+This is very short but these are the comment I have on this matter.  You do great work and i dont think anyone in the team can fault you on the work that you do. Keep it up. 
+
 
 ## Responsibility to others
 
@@ -70,7 +77,7 @@ When it comes to your interactions with the team you are almost always a ray of 
 
 Nigh on every morning you are trying to bring smiles to the team with many jokes and making the team and the product owners laugh. This is a valuable morale boost for team members and i hope you keep this going even into other teams. 
 
-You do conduct yourself professionally and i cannot fault you on that. That being said on the point i said: No or not sure to i want to help you improve on. 
+You do conduct yourself professionally and I cannot fault you on that. That being said on the point i said: No or not sure to i want to help you improve on. 
 
 > *Does this individual respect and acknowledge other people’s perspectives and priorities?*
 
@@ -79,16 +86,18 @@ When it comes to others' perspectives, I feel you are inconsistent. From my pers
 To be more specific:
 
 1. During an evening when a few of us were working late on limit switches to get some work out the door, you were assigned to an MR and were actively providing feedback on it, and then just left without saying you were clocking off, leaving me waiting for you for 30-40 minutes late at night. This shows a lack of thought on your end for others' time, especially when they are working outside of work hours. Just let people know you're clocking off if they are working with you. It goes a long way and shows that you respect them and their time. 
+   
 2. When we ask you to look at Merge Requests, you are often hard to follow up with, and I have to constantly ask you to re-look multiple times to try to get the Merge requests through. Please try to be vigilant when reviewing merge requests to help get them out quickly and not hold up your teammates. We have a merge request channel for this purpose.
-3. One day when I tried to suggest maybe new, more descriptive ways to how you do merge requests, you straight up said you will not change ever how you do this process. I was bringing to light a very blunt and non-descriptive way you do merge requests. 
+   
+3. One day when I tried to suggest maybe new, more descriptive ways to how you do merge requests, you didn't consider even trying this in your processes.  I was bringing to light a very blunt and non-descriptive way you do merge requests. 
    
    We are supposed to grow and evolve. That's why I was trying to bring this up. I find the way you make comments non-informative and very open. I am trying to do this so anyone you review in the future can have more details about your intention. You don't specify the intention and leave it vague. And not even considering adding more detail goes against growth. It took Dane speaking with you even to consider what I had said.
    
-   You showed no respect for any opinion I had in this conversation, and it shows you don't respect my views. I am not sure if it's just how you deal with me or anyone in a lower position than you, but it still showed.
+   You showed little respect for any opinion given in this conversation, and it gives the  impression that you don't respect my views. I am not sure if it's just how you deal with me or anyone in a lower position than you, but it still showed.
    
    Please, if a team member is suggesting a way to do something, then consider it. An outright no shows no compassion or respect, especially when it's a way to possibly help others.
 
-Another note is, thank you for coming forward with issues on my end. You used to not come forward with issues regarding my behavior, and coming out and talking to me first to allow me to correct my behavior is good.
+Another note is, thank you for coming forward with issues on my end. You used to not come forward with issues regarding my behaviour, and coming out and talking to me first to allow me to correct my behaviour is good.
 
 These points are from my experience working and interacting with you. You do handle the team well and communicate with them as a whole effectively, but there are a few moments when you don't show the same regard that you give others to other team members.
   
