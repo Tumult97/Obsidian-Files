@@ -1,3 +1,4 @@
 - Changing slot allocated status
 - need feature toggle
 - cancel round robin at any stage
+- add test for all equity risk buttons
