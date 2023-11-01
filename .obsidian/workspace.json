@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "5cebe8b2867a9802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9305808455769dd8",
             "type": "leaf",
             "state": {
@@ -26,19 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e61f56269b0a8c63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviews Feedback.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reviews Feedback.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviews Feedback.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -184,8 +186,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e61f56269b0a8c63",
+  "active": "5cebe8b2867a9802",
   "lastOpenFiles": [
+    "Untitled.md",
     "Reviews Feedback.md",
     "conflict-files-obsidian-git.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
@@ -230,7 +233,6 @@
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "Personal/Learning/Markdown/Lists.md",
     "Personal/BG3/Template.md",
-    "Personal/BG3/Builds.md",
     "Personal/Projects",
     "Woek",
     "Personal",
