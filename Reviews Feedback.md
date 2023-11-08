@@ -105,4 +105,7 @@
 #### Feedback
 
 - Dane
+  > I re-call how you said this is all unnatural for you, but you making it look second-nature. It is my expectation that you will apply yourself to ensuring you have a healthy relationship with Janay. We had many discussions here. You don't have to be BFF's, but you do have to hold one another accountable when code is not right, or processes need to be improved. Remember you are a professional, part of high-performing team and an Entelectual (relationships set us apart). In our next 1:1 I would like to hear how you have taken steps towards a healthier working relationship with Janay.
+  
+- Janay
   > 
