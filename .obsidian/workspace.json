@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9d93f2c09262b9",
+        "id": "74aabe019960b032",
         "type": "tabs",
         "children": [
           {
-            "id": "5886481d669edd82",
+            "id": "d45ab05fc270bd4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Projects/Lancer/Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Projects/Lancer/Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Projects/Lancer/Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Projects/Lancer/Mechanics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5886481d669edd82",
+  "active": "d45ab05fc270bd4d",
   "lastOpenFiles": [
-    "Breakdown Points.md",
     "Personal/Projects/Lancer/Mechanics.md",
+    "Breakdown Points.md",
     "Personal/Projects/Lancer",
     "Lancer",
     "Reviews Feedback.md",
