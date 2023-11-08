@@ -6,4 +6,4 @@
 5. Ask for help and opinions more frequently
 6. Break features into smaller pieces(Could help break out emotion)
 7. Redirect your passion from the code to experimenting, learning, and growing
-8. 
+8. SHhw that i am listening
