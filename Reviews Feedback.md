@@ -110,4 +110,14 @@
 - Janay
   > Perhaps check in on the documentation for these flows on a regular basis, so that you are aware of any changes suggested by business or if you can add any design decisions you have made during your work (In the form of Architecture Design Records - speak to Dane if you are unsure how to document them). You have less domain knowledge in terms of the other parts of our system, but I don't blame you, our systems are super complex and way too big for one team to handle. Once you start getting involved in bug-fixes, you will get to know more of the system. Perhaps look for some opportunities where you can start jumping into the less-critical bugs. It will assist you domain knowledge greatly.
   
-- 
+
+
+
+
+## Additonal
+
+- JP
+  > I want you to focus on breaking up your tasks a little bit more so that they're more manageable.  
+	This way I think you are able to solicit feedback for these small chunks which should provide less volume of implementation details to rework. The due diligence required and potentially speeds up the delivery of your tasks.
+> 
+> 
