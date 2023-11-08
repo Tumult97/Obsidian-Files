@@ -100,8 +100,6 @@
 
 ## Impact on customer success
 
-
-
 #### Feedback
 
 - Dane
