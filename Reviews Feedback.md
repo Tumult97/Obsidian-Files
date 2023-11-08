@@ -86,4 +86,23 @@
 - Wiehan
   > Firstly, strive to be consistently prepared and proactive in your work. Anticipate potential challenges or roadblocks and take preemptive measures to address them. Being proactive demonstrates initiative and a commitment to delivering high-quality work efficiently.
   > 
+  > Secondly, ensure that you actively pay attention, engage, and maintain a presence during meetings or team discussions. Avoid multitasking or getting distracted by mobile devices, as it can hinder effective communication and collaboration. Give your full attention to the conversation and actively participate by listening and contributing when appropriate.
+  > 
+  > Thirdly, focus on listening to understand rather than listening to respond. Actively listen to your team members' perspectives and ideas, valuing their contributions. This approach fosters better collaboration, empathy, and mutual respect within the team.
+  > 
+  > Fourthly, be mindful of your language and attitude, striving to maintain a positive outlook even in challenging times. By promoting positivity, you contribute to a healthier and more productive team environment. During difficult times, maintain a positive outlook and inspire optimism within the team. Encourage and support your colleagues, fostering a sense of resilience and determination. Your positive attitude can help create a more motivated and cohesive team.
+  > 
+  > I would like to bring your attention to two cases where you could have done better. Firstly, there was an issue with the Business sponsor, and I believe you made a change that caused it to break again. Although JP picked up the issue in production, you could have supported him by discussing it and offering assistance. As team members, we need to support each other, and every line of code we write is our signature, so we need to be proud of it and own up to it.
+  > 
+  > Secondly, you could improve your attendance at team culture events. I understand that you are busy planning your wedding, but these events are essential for team culture. Please assist us in booking a date and time that works for you so that you can attend and spend time fully with the team.
+  
+
+
+## Impact on customer success
+
+
+
+#### Feedback
+
+- Dane
   > 
