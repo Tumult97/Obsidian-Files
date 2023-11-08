@@ -114,10 +114,8 @@
 
 
 
-## Additonal
+## Additional
 
 - JP
   > I want you to focus on breaking up your tasks a little bit more so that they're more manageable.  
 	This way I think you are able to solicit feedback for these small chunks which should provide less volume of implementation details to rework. The due diligence required and potentially speeds up the delivery of your tasks.
-> 
-> 
