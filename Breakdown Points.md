@@ -9,4 +9,4 @@
 8. Show that i am listening
 9. Be more accountable for problems
 10. Due Diligence
-11. 
+11. Check documentation every now and again
