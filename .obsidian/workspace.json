@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakdown Points.md",
+                "file": "Reviews Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Breakdown Points.md",
+                "file": "Reviews Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Breakdown Points.md"
+                "file": "Reviews Feedback.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5886481d669edd82",
+  "active": "9305808455769dd8",
   "lastOpenFiles": [
-    "Reviews Feedback.md",
     "Breakdown Points.md",
+    "Reviews Feedback.md",
     "Reviews Mind Dump.md",
     "conflict-files-obsidian-git.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",

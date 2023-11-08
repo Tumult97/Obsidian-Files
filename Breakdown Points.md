@@ -7,4 +7,6 @@
 6. Break features into smaller pieces(Could help break out emotion)
 7. Redirect your passion from the code to experimenting, learning, and growing
 8. Show that i am listening
-9. 
+9. Be more accountable for problems
+10. Due Diligance
+11. 
