@@ -46,3 +46,9 @@
   > Additionally, I want to highlight a few incidents where a production bug was detected, and upon investigation, it was found to be caused by your code. It is understandable that we are a busy development group, but it is crucial to try and recall what we have touched or changed in the code as it can help in the fixing process and understanding the changes made.
   
 
+
+
+## Responsibility to others
+
+#### Questions
+
