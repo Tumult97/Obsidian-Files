@@ -64,4 +64,26 @@
 	We've covered a lot of ground here in the past - from you typing in meetings while Neil is speaking to having your camera off in crucial team chats. So I would like to re-iterate again that how people perceive your listening is important, not the fact that you are listening alone. I expect you to keep your camera on and when customers are speaking, particularly key individuals and creating the right perception in body language through eye contact and active listening. If you are facing challenges given ADHD or other, try find strategies that work for you, a slinky, a toy, whatever. I know you have adopted some already as I can see the attentiveness in stand-ups, backlog grooming and collab days.
 
 - Janay
+  > However, there are times when we need to put in some extra time to get important items over the line. For example, one afternoon a bug was picked up, due to a code change that you made. You decided to log off at exactly 15:00, knowing there was an issue, and JP was forced to stay late and fix it for you. We need to be held accountable for the work we do, and sometimes that means putting in some extra time where things are critical in the team and get stuff over the line. It's part of the core principles of 'Responsibility to others'. I'm not saying that you need to stay until 6 every night. Please don't. Keep to your schedule, but be flexible in times of crisis to help your team.
+  > 
+  > Your sessions come across as unprepared and we catch a number of small issues that you could have picked up through normal testing on your local environment. Perhaps get some tips from JP or Liam on how they determine the different test cases they set up. Make a list of items you want to test, and ensure that you have tested them yourself before the session. We need to be considerate of everyone's time and this will speed up the testing sessions, allowing more time for development.
+  > 
+  > Another point related to the above, is the due diligence we each need to do when making updates to open MRs. You are prone to merge MRs with linting or failed unit test issues. I think it could be due to your lack of testing after making updates to the MR, while resolving comments. When we point this out, please stop blaming the IDE or linter for missing these things. These are human errors. Take responsibility for them and work on correcting the behaviour in future. Once again, honesty is the best policy.
+  
+- JP
+  > -Clock Watcher  
+	-Nothing wrong with having a work-life balance. However, when the Equity Risk workflow broke and I showed you the refactor you made contributed to the issue, I expect you to stay, support and contribute to a resolution  
+	-This would've shown you care for the team and willingness to the project to get shit sorted  
+	I think this also contributes to you rushing in changes to meet deadlines and relinquishing due diligence responsibilities  
+	i.e., Breaking Jenkins builds due to broken tests, compilation errors or linting issues  
+	Being more pragmatic and/or adding more effort to get things working the 1st time can alleviate this  
+	Measure twice, cut once, kind of mentality  
+	i.e., Preemptively providing context to reviewers on your MR. Providing extra proof of due diligence tasks, after MR feedback updates
+
+- Lauren
+  >  I have noticed is you are working on another screen/other work while some meetings are going on. I know sometimes we have to, and we all do it from time-to-time, but this is something you can look at trying to minimize, as it is easy to miss something in a meeting if you are working on something else at the same time.
+
+- Wiehan
+  > Firstly, strive to be consistently prepared and proactive in your work. Anticipate potential challenges or roadblocks and take preemptive measures to address them. Being proactive demonstrates initiative and a commitment to delivering high-quality work efficiently.
+  > 
   > 
