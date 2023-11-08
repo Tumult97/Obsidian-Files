@@ -52,3 +52,16 @@
 
 #### Questions
 
+- Does this individual conduct themselves professionally in meetings?
+- Does this individual prepare for meetings?
+- Does this individual have a reputation for a positive attitude?
+- Is this individual aligned with the culture in their team and in the broader Entelect community?
+
+#### Feedback
+
+- Dane
+  > SUMMARY: ACTIVE LISTENING WITH YOUR WHOLE BODY.  
+	We've covered a lot of ground here in the past - from you typing in meetings while Neil is speaking to having your camera off in crucial team chats. So I would like to re-iterate again that how people perceive your listening is important, not the fact that you are listening alone. I expect you to keep your camera on and when customers are speaking, particularly key individuals and creating the right perception in body language through eye contact and active listening. If you are facing challenges given ADHD or other, try find strategies that work for you, a slinky, a toy, whatever. I know you have adopted some already as I can see the attentiveness in stand-ups, backlog grooming and collab days.
+
+- Janay
+  > 
