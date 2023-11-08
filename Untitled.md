@@ -1,4 +1,0 @@
-- Changing slot allocated status
-- need feature toggle(*Keep*)
-- cancel round robin at any stage(*When in PFA no cancel*)
-- add tests for all equity risk buttons
