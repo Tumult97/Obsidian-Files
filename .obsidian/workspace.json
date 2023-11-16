@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5949a6c88fd06613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -153,12 +170,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d45ab05fc270bd4d",
+  "active": "5949a6c88fd06613",
   "lastOpenFiles": [
+    "test.md",
     "Personal/Projects/Lancer/Mechanics.md",
     "Breakdown Points.md",
     "Personal/Projects/Lancer",
@@ -205,7 +222,6 @@
     "Work/Hackathon/Documentation",
     "Work/CIB Risk CMT Release.md",
     "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
-    "Personal/Learning/Markdown/Lists.md",
     "Personal/Projects",
     "Woek",
     "Personal",
