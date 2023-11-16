@@ -3,6 +3,7 @@
 - Is there another paper (other than SAS) open for this CIF?
     - If yes
         - And this paper state = "In Progress" OR "Pending Initial Approval", then LS paper can be created
+          
         - And this paper state != "In Progress" OR "Pending Initial Approval", then LS paper cannot be created
             - See 'Notes' for lock image details
     - If no - does not affect LS paper creation
