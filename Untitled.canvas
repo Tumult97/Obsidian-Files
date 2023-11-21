@@ -14,7 +14,8 @@
 		{"id":"ec54a9fb23df2f2a","type":"text","text":"Continue","x":820,"y":-370,"width":250,"height":60,"color":"4"},
 		{"id":"3b7d1c0c5d17845b","type":"text","text":"Is other Paper SAS","x":420,"y":-200,"width":250,"height":60,"color":"5"},
 		{"id":"faf3f49b0adc6927","type":"text","text":"Continue","x":820,"y":-200,"width":250,"height":60,"color":"4"},
-		{"id":"6e98d1f97811147e","x":420,"y":-40,"width":250,"height":60,"type":"text","text":"Is Other Paper LS"}
+		{"id":"6e98d1f97811147e","x":420,"y":-40,"width":250,"height":60,"color":"5","type":"text","text":"Is Other Paper LS"},
+		{"id":"6ffe29b3d2a07715","type":"text","text":"LOCKED","x":420,"y":140,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"da205e886acc0a96","fromNode":"949441bb62f8906c","fromSide":"bottom","toNode":"5d4d9b732b849716","toSide":"top"},
@@ -30,6 +31,7 @@
 		{"id":"6dd45fa886a59f32","fromNode":"b830cc8b29f6020d","fromSide":"bottom","toNode":"25abc0d1e6132a31","toSide":"top"},
 		{"id":"7b04bfa1a017d66a","fromNode":"3b7d1c0c5d17845b","fromSide":"right","toNode":"faf3f49b0adc6927","toSide":"left","label":"YES"},
 		{"id":"dc029946e9b1475e","fromNode":"25abc0d1e6132a31","fromSide":"bottom","toNode":"3b7d1c0c5d17845b","toSide":"top","label":"YES"},
-		{"id":"638dbd1f3c39e501","fromNode":"3b7d1c0c5d17845b","fromSide":"bottom","toNode":"6e98d1f97811147e","toSide":"top","label":"LS"}
+		{"id":"638dbd1f3c39e501","fromNode":"3b7d1c0c5d17845b","fromSide":"bottom","toNode":"6e98d1f97811147e","toSide":"top","label":"LS"},
+		{"id":"19afe345b92e41eb","fromNode":"6e98d1f97811147e","fromSide":"bottom","toNode":"6ffe29b3d2a07715","toSide":"top","label":"NO"}
 	]
 }
