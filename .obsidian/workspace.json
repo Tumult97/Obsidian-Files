@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Customer Lock.canvas",
                 "viewState": {
-                  "x": 439.78106259988425,
-                  "y": -196.4499373500975,
-                  "zoom": -1
+                  "x": 525,
+                  "y": -320,
+                  "zoom": -0.840395183821612
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Customer Lock.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Customer Lock.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Customer Lock.canvas"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "72489f4d2ba20796",
   "lastOpenFiles": [
+    "Customer Lock.png",
     "Personal/MHW SnS Builds.md",
-    "Untitled.canvas",
+    "Customer Lock.canvas",
     "Work/Reviews Feedback.md",
     "Work/Breakdown Points.md",
     "Personal/Projects/Lancer/Mechanics.md",
