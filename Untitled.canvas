@@ -1,22 +1,24 @@
 {
 	"nodes":[
-		{"id":"0a34d21f51b21c63","x":820,"y":-40,"width":250,"height":60,"type":"text","text":""},
-		{"id":"5d4d9b732b849716","x":-640,"y":-560,"width":250,"height":60,"type":"text","text":"Limit Switch"},
-		{"id":"b830cc8b29f6020d","x":420,"y":-560,"width":250,"height":60,"type":"text","text":"Normal Paper"},
-		{"id":"949441bb62f8906c","x":-120,"y":-760,"width":250,"height":60,"type":"text","text":"GetCustomers"},
-		{"id":"35e5f09795883e76","x":-640,"y":-200,"width":250,"height":60,"color":"5","type":"text","text":"Is other Paper SAS"},
-		{"id":"8356281ffbb0aedd","x":-240,"y":-200,"width":250,"height":60,"color":"4","type":"text","text":"Continue"},
-		{"id":"20eb844efcd2cc8e","x":-640,"y":-40,"width":250,"height":80,"color":"5","type":"text","text":"Is paper in INP/PIA State"},
+		{"id":"5d4d9b732b849716","type":"text","text":"Limit Switch","x":-640,"y":-560,"width":250,"height":60},
+		{"id":"b830cc8b29f6020d","type":"text","text":"Normal Paper","x":420,"y":-560,"width":250,"height":60},
+		{"id":"949441bb62f8906c","type":"text","text":"GetCustomers","x":-120,"y":-760,"width":250,"height":60},
+		{"id":"35e5f09795883e76","type":"text","text":"Is other Paper SAS","x":-640,"y":-200,"width":250,"height":60,"color":"5"},
+		{"id":"8356281ffbb0aedd","type":"text","text":"Continue","x":-240,"y":-200,"width":250,"height":60,"color":"4"},
+		{"id":"20eb844efcd2cc8e","type":"text","text":"Is paper in INP/PIA State","x":-640,"y":-40,"width":250,"height":80,"color":"5"},
 		{"id":"58d45fc2bac59e26","type":"text","text":"Continue","x":-240,"y":-30,"width":250,"height":60,"color":"4"},
-		{"id":"7433f84e7cd9fdce","x":-640,"y":140,"width":250,"height":60,"color":"1","type":"text","text":"LOCKED"},
-		{"id":"4901b6eaa327a411","x":-640,"y":-380,"width":250,"height":80,"color":"5","type":"text","text":"Is There other Paper"},
+		{"id":"7433f84e7cd9fdce","type":"text","text":"LOCKED","x":-640,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"4901b6eaa327a411","type":"text","text":"Is There other Paper","x":-640,"y":-380,"width":250,"height":80,"color":"5"},
 		{"id":"da3a4bec27d017b0","type":"text","text":"Continue","x":-240,"y":-370,"width":250,"height":60,"color":"4"},
 		{"id":"25abc0d1e6132a31","type":"text","text":"Is There other Paper","x":420,"y":-380,"width":250,"height":80,"color":"5"},
 		{"id":"ec54a9fb23df2f2a","type":"text","text":"Continue","x":820,"y":-370,"width":250,"height":60,"color":"4"},
 		{"id":"3b7d1c0c5d17845b","type":"text","text":"Is other Paper SAS","x":420,"y":-200,"width":250,"height":60,"color":"5"},
 		{"id":"faf3f49b0adc6927","type":"text","text":"Continue","x":820,"y":-200,"width":250,"height":60,"color":"4"},
-		{"id":"6e98d1f97811147e","x":420,"y":-40,"width":250,"height":60,"color":"5","type":"text","text":"Is Other Paper LS"},
-		{"id":"6ffe29b3d2a07715","type":"text","text":"LOCKED","x":420,"y":140,"width":250,"height":60,"color":"1"}
+		{"id":"6e98d1f97811147e","type":"text","text":"Is Other Paper LS","x":420,"y":-40,"width":250,"height":60,"color":"5"},
+		{"id":"6ffe29b3d2a07715","type":"text","text":"LOCKED","x":420,"y":140,"width":250,"height":60,"color":"1"},
+		{"id":"602420d5879434b1","type":"text","text":"Is paper in INP/PIA State","x":820,"y":-50,"width":250,"height":80,"color":"5"},
+		{"id":"cfc95f7e39aba62f","type":"text","text":"Continue","x":1200,"y":-40,"width":250,"height":60,"color":"4"},
+		{"id":"dd1d6adc010f3fdb","type":"text","text":"LOCKED","x":820,"y":140,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"da205e886acc0a96","fromNode":"949441bb62f8906c","fromSide":"bottom","toNode":"5d4d9b732b849716","toSide":"top"},
@@ -33,6 +35,9 @@
 		{"id":"7b04bfa1a017d66a","fromNode":"3b7d1c0c5d17845b","fromSide":"right","toNode":"faf3f49b0adc6927","toSide":"left","label":"YES"},
 		{"id":"dc029946e9b1475e","fromNode":"25abc0d1e6132a31","fromSide":"bottom","toNode":"3b7d1c0c5d17845b","toSide":"top","label":"YES"},
 		{"id":"638dbd1f3c39e501","fromNode":"3b7d1c0c5d17845b","fromSide":"bottom","toNode":"6e98d1f97811147e","toSide":"top","label":"LS"},
-		{"id":"19afe345b92e41eb","fromNode":"6e98d1f97811147e","fromSide":"bottom","toNode":"6ffe29b3d2a07715","toSide":"top","label":"NO"}
+		{"id":"19afe345b92e41eb","fromNode":"6e98d1f97811147e","fromSide":"bottom","toNode":"6ffe29b3d2a07715","toSide":"top","label":"NO"},
+		{"id":"6efbc1c80bea1abd","fromNode":"6e98d1f97811147e","fromSide":"right","toNode":"602420d5879434b1","toSide":"left","label":"YES"},
+		{"id":"3a3e55efd42b86e2","fromNode":"602420d5879434b1","fromSide":"right","toNode":"cfc95f7e39aba62f","toSide":"left","label":"YES"},
+		{"id":"dc330038e2cfaeb1","fromNode":"602420d5879434b1","fromSide":"bottom","toNode":"dd1d6adc010f3fdb","toSide":"top","label":"NO"}
 	]
 }
