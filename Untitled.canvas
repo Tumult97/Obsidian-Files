@@ -1,11 +1,20 @@
 {
 	"nodes":[
+		{"id":"7433f84e7cd9fdce","x":-440,"y":-100,"width":250,"height":60,"type":"text","text":""},
 		{"id":"5d4d9b732b849716","x":-640,"y":-560,"width":250,"height":60,"type":"text","text":"Limit Switch"},
 		{"id":"b830cc8b29f6020d","x":420,"y":-560,"width":250,"height":60,"type":"text","text":"Normal Paper"},
-		{"id":"949441bb62f8906c","x":-120,"y":-760,"width":250,"height":60,"type":"text","text":"GetCustomers"}
+		{"id":"949441bb62f8906c","x":-120,"y":-760,"width":250,"height":60,"type":"text","text":"GetCustomers"},
+		{"id":"35e5f09795883e76","x":-440,"y":-400,"width":250,"height":60,"type":"text","text":"Is other Paper SAS"},
+		{"id":"8356281ffbb0aedd","x":-40,"y":-400,"width":250,"height":60,"type":"text","text":"Continue"},
+		{"id":"20eb844efcd2cc8e","x":-440,"y":-260,"width":250,"height":80,"type":"text","text":"Is paper in INP/PIA State"},
+		{"id":"58d45fc2bac59e26","type":"text","text":"Continue","x":-40,"y":-250,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"da205e886acc0a96","fromNode":"949441bb62f8906c","fromSide":"bottom","toNode":"5d4d9b732b849716","toSide":"top"},
-		{"id":"7a74c005ec13c351","fromNode":"949441bb62f8906c","fromSide":"bottom","toNode":"b830cc8b29f6020d","toSide":"top"}
+		{"id":"7a74c005ec13c351","fromNode":"949441bb62f8906c","fromSide":"bottom","toNode":"b830cc8b29f6020d","toSide":"top"},
+		{"id":"7b04b5896da768a7","fromNode":"5d4d9b732b849716","fromSide":"bottom","toNode":"35e5f09795883e76","toSide":"left"},
+		{"id":"b0830624d49767b8","fromNode":"35e5f09795883e76","fromSide":"right","toNode":"8356281ffbb0aedd","toSide":"left","label":"YES"},
+		{"id":"83f1df9f5d483848","fromNode":"35e5f09795883e76","fromSide":"bottom","toNode":"20eb844efcd2cc8e","toSide":"top","label":"NO"},
+		{"id":"ed0a8ee252b1e174","fromNode":"20eb844efcd2cc8e","fromSide":"right","toNode":"58d45fc2bac59e26","toSide":"left","label":"YES"}
 	]
 }
