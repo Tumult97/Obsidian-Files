@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"0a34d21f51b21c63","x":820,"y":-40,"width":250,"height":60,"type":"text","text":""},
 		{"id":"5d4d9b732b849716","x":-640,"y":-560,"width":250,"height":60,"type":"text","text":"Limit Switch"},
 		{"id":"b830cc8b29f6020d","x":420,"y":-560,"width":250,"height":60,"type":"text","text":"Normal Paper"},
 		{"id":"949441bb62f8906c","x":-120,"y":-760,"width":250,"height":60,"type":"text","text":"GetCustomers"},
