@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "74aabe019960b032",
+        "id": "47a917a32d01bac1",
         "type": "tabs",
         "children": [
           {
-            "id": "d45ab05fc270bd4d",
+            "id": "72489f4d2ba20796",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5949a6c88fd06613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MHW SnS Builds.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MHW SnS Builds.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MHW SnS Builds.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MHW SnS Builds.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -173,14 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5949a6c88fd06613",
+  "active": "72489f4d2ba20796",
   "lastOpenFiles": [
-    "MHW SnS Builds.md",
+    "Personal/MHW SnS Builds.md",
+    "Untitled.canvas",
+    "Work/Reviews Feedback.md",
+    "Work/Breakdown Points.md",
     "Personal/Projects/Lancer/Mechanics.md",
-    "Breakdown Points.md",
     "Personal/Projects/Lancer",
     "Lancer",
-    "Reviews Feedback.md",
     "Reviews Mind Dump.md",
     "conflict-files-obsidian-git.md",
     "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
@@ -221,7 +216,6 @@
     "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Documentation",
     "Work/CIB Risk CMT Release.md",
-    "Personal/BG3/Builds/Multiclass/Burst Breaker Paladin.md",
     "Personal/Projects",
     "Woek",
     "Personal",
@@ -229,7 +223,6 @@
     "Images/Pasted Image 20230804125914_256.png",
     "Violation Rules Mockup.canvas",
     "Work/Review/Review Action steps.canvas",
-    "Work/Review/Be Better Poster.canvas",
-    "Be better Poster.canvas"
+    "Work/Review/Be Better Poster.canvas"
   ]
 }
