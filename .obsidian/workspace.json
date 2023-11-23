@@ -11,14 +11,11 @@
             "id": "72489f4d2ba20796",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Customer Lock.canvas",
-                "viewState": {
-                  "x": 467.23686989910175,
-                  "y": -204.82769466944427,
-                  "zoom": 0.15960481617838795
-                }
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customer Lock.canvas",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Customer Lock.canvas",
+                "file": "Work/Work files/Scripts/SQL Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Customer Lock.canvas"
+                "file": "Work/Work files/Scripts/SQL Snippets.md"
               }
             }
           },
@@ -167,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93ac44af0f6d3461",
+  "active": "72489f4d2ba20796",
   "lastOpenFiles": [
+    "Customer Lock.canvas",
     "Customer Lock.png",
     "Personal/MHW SnS Builds.md",
-    "Customer Lock.canvas",
     "Work/Reviews Feedback.md",
     "Work/Breakdown Points.md",
     "Personal/Projects/Lancer/Mechanics.md",
@@ -221,7 +218,6 @@
     "Woek",
     "Personal",
     "Images/Pasted Image 20230804130007_821.png",
-    "Images/Pasted Image 20230804125914_256.png",
     "Violation Rules Mockup.canvas",
     "Work/Review/Review Action steps.canvas",
     "Work/Review/Be Better Poster.canvas"
