@@ -14,4 +14,5 @@
 
 # Keep in mind from Merge Requests
 
+- More descriptive variable names
 - 
