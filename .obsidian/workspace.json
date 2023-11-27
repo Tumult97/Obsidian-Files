@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47a917a32d01bac1",
+        "id": "7c837224955f7aea",
         "type": "tabs",
         "children": [
           {
-            "id": "72489f4d2ba20796",
+            "id": "c387e32a29aa79bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Breakdown Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Breakdown Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md",
+                "file": "Work/Breakdown Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work files/Scripts/SQL Snippets.md"
+                "file": "Work/Breakdown Points.md"
               }
             }
           },
@@ -164,13 +164,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72489f4d2ba20796",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Work/Work files/Work Files.md",
+    "Work/Run SQL Agent Script For Masking.md",
+    "Work/CIB Risk CMT Release.md",
+    "Work/Equity Risk Committee Approval.canvas",
+    "Work/Ticket Template.md",
+    "Work/Master.md",
+    "Work/Reviews Feedback.md",
+    "Work/DCP dashboard tabs refactor.md",
+    "Work/Access Tokens.md",
+    "Work/Breakdown Points.md",
+    "Work/Work files/Scripts/SQL Snippets.md",
     "Customer Lock.canvas",
     "Customer Lock.png",
     "Personal/MHW SnS Builds.md",
-    "Work/Reviews Feedback.md",
-    "Work/Breakdown Points.md",
     "Personal/Projects/Lancer/Mechanics.md",
     "Personal/Projects/Lancer",
     "Lancer",
@@ -182,8 +191,6 @@
     "Work/Feature Planning/ERAC Return FOr ER papers.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Equity Risk Committee Approval Testing.md",
-    "Work/Run SQL Agent Script For Masking.md",
-    "Work/Equity Risk Committee Approval.canvas",
     "Personal/Wedding/Dog Sitters.md",
     "Work/Feature Planning/ERAC Mandatory Users.md",
     "Images/Pasted image 20230709163650.png",
@@ -200,20 +207,14 @@
     "Personal/Remote PC/Option 1",
     "Personal/Remote PC/Option 1/Drawing 2023-09-28 09.49.41.excalidraw.svg",
     "Personal/Remote PC",
-    "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.md",
     "Personal/Remote PC/Drawing 2023-09-28 09.18.55.excalidraw.svg",
-    "Personal/Wedding/Menu.md",
     "Images/Equity Risk Committee Approval.png",
     "Images/Untitled (1).png",
-    "Work/Submission Sheet Refactor.md",
     "Submission Sheet modal refactor.canvas",
     "Images/Pasted image 20230918125020.png",
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
-    "Work/Hackathon/Documentation/Documentation.md",
     "Work/Hackathon/Expedited credit paper approval.canvas",
-    "Work/Hackathon/Drawing 2023-05-28 09.47.12.excalidraw.md",
     "Work/Hackathon/Documentation",
-    "Work/CIB Risk CMT Release.md",
     "Personal/Projects",
     "Woek",
     "Personal",

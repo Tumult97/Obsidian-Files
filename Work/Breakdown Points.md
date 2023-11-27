@@ -10,3 +10,8 @@
 9. Be more accountable for problems
 10. Due Diligence
 11. Check documentation every now and again
+
+
+# Keep in mind from Merge Requests
+
+- 
