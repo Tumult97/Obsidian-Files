@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"7cf50080bbc1213a","x":360,"y":-640,"width":320,"height":240,"type":"group","label":"Calls"},
+		{"id":"01938485ca078b1b","x":-1100,"y":-820,"width":280,"height":260,"type":"text","text":"# SQL\n\n- Business Logic\n- 2 or more papers existing\n- Valid states"},
+		{"id":"72024c5536e3d1e4","x":-660,"y":-725,"width":250,"height":70,"type":"text","text":"# Repo"},
+		{"id":"5b70d811e6a3f93e","x":-280,"y":-720,"width":250,"height":60,"type":"text","text":"# Service"},
+		{"id":"b50470f58d034846","x":-1100,"y":-460,"width":280,"height":80,"type":"text","text":"# SQL"},
+		{"id":"b604aba6c0aca636","x":-660,"y":-450,"width":250,"height":60,"type":"text","text":"# Repo"},
+		{"id":"76dc9e17e2e9cb08","x":-280,"y":-565,"width":250,"height":290,"type":"text","text":"# Service\n- Business Logic\n- 2 or more papers\n- valid states"},
+		{"id":"8abda9c228ccd334","x":380,"y":-620,"width":280,"height":60,"type":"text","text":"Credit Paper Creation"},
+		{"id":"b64beedb834afc99","x":380,"y":-495,"width":280,"height":75,"type":"text","text":"Credit Paper Load and Reload"}
+	],
+	"edges":[
+		{"id":"3245b811f35abdb6","fromNode":"01938485ca078b1b","fromSide":"right","toNode":"72024c5536e3d1e4","toSide":"left","label":"Bool"},
+		{"id":"7b7f0e636e08d717","fromNode":"72024c5536e3d1e4","fromSide":"right","toNode":"5b70d811e6a3f93e","toSide":"left","label":"Bool"},
+		{"id":"f926bf99f8527027","fromNode":"b50470f58d034846","fromSide":"right","toNode":"b604aba6c0aca636","toSide":"left","label":"App List"},
+		{"id":"440ef0a1fc6c79b3","fromNode":"b604aba6c0aca636","fromSide":"right","toNode":"76dc9e17e2e9cb08","toSide":"left","label":"App List"},
+		{"id":"6b0155001de4ec07","fromNode":"7cf50080bbc1213a","fromSide":"top","toNode":"5b70d811e6a3f93e","toSide":"top","color":"4"},
+		{"id":"381057fb6f9d5885","fromNode":"7cf50080bbc1213a","fromSide":"top","toNode":"76dc9e17e2e9cb08","toSide":"top","color":"4"},
+		{"id":"e1aca4e8608652bb","fromNode":"5b70d811e6a3f93e","fromSide":"right","toNode":"7cf50080bbc1213a","toSide":"left","color":"1"},
+		{"id":"a5a363c1f9d9c6e8","fromNode":"76dc9e17e2e9cb08","fromSide":"right","toNode":"7cf50080bbc1213a","toSide":"left","color":"1"}
+	]
+}
