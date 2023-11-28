@@ -28,7 +28,7 @@
                 "file": "Meeting Prep.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 413,
                   "zoom": 0
                 }
               }
@@ -182,9 +182,9 @@
   },
   "active": "c8ce72d1bf3c8711",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Meeting Prep.canvas",
     "Work/Breakdown Points.md",
+    "Meeting Prep.canvas",
+    "Untitled.md",
     "Work/Work files/Work Files.md",
     "Work/Run SQL Agent Script For Masking.md",
     "Work/CIB Risk CMT Release.md",
