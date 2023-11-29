@@ -8,5 +8,6 @@
 
 - Create Normal Paper
 	- LS Paper Wrong State - 100069775
-	- NBFI Paper - 
+	- NBFI Paper - 100073687
+	- LS Paper Valid State - 
 
