@@ -7,5 +7,6 @@
 	- Equity Risk Valid State - 507341700
 
 - Create Normal Paper
-	- LS Paper Wrong State - 
+	- LS Paper Wrong State - 100069775
+	- NBFI Paper - 
 
