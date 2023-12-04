@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Breakdown Points.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c8ce72d1bf3c8711",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Meeting Prep.canvas",
-                "viewState": {
-                  "x": 200.06866651958217,
-                  "y": 476.13963593830624,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "029e5e5464331d8e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -323,
-                  "y": 124,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -195,13 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029e5e5464331d8e",
+  "active": "c387e32a29aa79bb",
   "lastOpenFiles": [
-    "Work/Run SQL Agent Script For Masking.md",
-    "Untitled.canvas",
-    "Prod Readiness Testing.md",
-    "Meeting Prep.canvas",
+    "Customer Lock.canvas",
+    "Customer Lock.png",
     "Work/Breakdown Points.md",
+    "Meeting Prep.canvas",
+    "Untitled.canvas",
+    "Work/Run SQL Agent Script For Masking.md",
+    "Prod Readiness Testing.md",
     "Untitled.md",
     "Work/Work files/Work Files.md",
     "Work/CIB Risk CMT Release.md",
@@ -212,8 +183,6 @@
     "Work/DCP dashboard tabs refactor.md",
     "Work/Access Tokens.md",
     "Work/Work files/Scripts/SQL Snippets.md",
-    "Customer Lock.canvas",
-    "Customer Lock.png",
     "Personal/MHW SnS Builds.md",
     "Personal/Projects/Lancer/Mechanics.md",
     "Personal/Projects/Lancer",
