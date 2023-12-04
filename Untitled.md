@@ -1,12 +1,13 @@
 # Single papers
 - [ ] Corporate - 100085924
-- [ ] Country risk
-- [ ] Equity Risk
-- [ ] FBI
-- [ ] Limit Switch
-- [ ] NBFI
+- [ ] Country risk - 100086457
+- [ ] Equity Risk - 100095214
+- [ ] FBI - 100084639
+- [ ] NBFI - 
 - [ ] Real Estate Corporate
 - [ ] Real Estate Invest
+
+- [ ] Limit Switch - 
 - [ ] Short Authority Sought
 
 # Existing Papers
