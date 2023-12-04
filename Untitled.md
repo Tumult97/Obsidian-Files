@@ -8,7 +8,8 @@
 - [ ] Real Estate Invest - 530435762
 
 - [ ] Limit Switch - 100062366
-- [ ] Short Authority Sought - 
+- [ ] Short Authority Sought - 536098230
 
 # Existing Papers
-- [ ] 
+- [ ] Make Limit Switch Papers for all normal papers 
+- [ ] Make SAS paper - 
