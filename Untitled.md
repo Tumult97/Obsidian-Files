@@ -12,4 +12,10 @@
 
 # Existing Papers
 - [ ] Make Limit Switch Papers for all normal papers 
-- [ ] Make SAS paper - 
+- [ ] Make SAS paper - 100070335
+- [ ] Make Normal Paper - 100062366
+- [ ] Make Another for Surety - 506082299
+- [ ] Make SAS papers for al in step 1
+
+# Negative testing
+- See if blocking works for all in step 1
