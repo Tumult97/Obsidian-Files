@@ -16,7 +16,7 @@
 
 - [x] Limit Switch - 100062366
 	- [ ] Normal paper - 100062366
-- [x] Short Authority Sought - 100068027
+- [ ] Short Authority Sought - 100068027
 
 # Existing Papers
 - [ ] Make Limit Switch Papers for all normal papers 
