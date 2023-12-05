@@ -1,22 +1,22 @@
 # Single papers
-- [ ] Corporate - 100085924
+- [x] Corporate - 100085924
 	- [ ] LS Paper
-- [ ] Country risk - 100086457
+- [x] Country risk - 100086457
 	- [ ] LS Paper
-- [ ] Equity Risk - 100095214
+- [x] Equity Risk - 100095214
 	- [ ] LS Paper
 - [ ] FBI - 100084639
 	- [ ] LS Paper
 - [ ] NBFI - 100067724
 	- [ ] LS Paper
-- [ ] Real Estate Corporate - 535604684
+- [x] Real Estate Corporate - 535604684
 	- [ ] LS Paper
-- [ ] Real Estate Invest - 530435762
+- [x] Real Estate Invest - 530435762
 	- [ ] LS Paper
 
-- [ ] Limit Switch - 100062366
+- [x] Limit Switch - 100062366
 	- [ ] Normal paper - 100062366
-- [ ] Short Authority Sought - 536098230
+- [ ] Short Authority Sought - 100068027
 
 # Existing Papers
 - [ ] Make Limit Switch Papers for all normal papers 
