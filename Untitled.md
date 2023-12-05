@@ -10,9 +10,9 @@
 - [ ] NBFI - 100067724
 	- [ ] LS Paper
 - [x] Real Estate Corporate - 535604684
-	- [ ] LS Paper
+	- [x] LS Paper
 - [x] Real Estate Invest - 530435762
-	- [ ] LS Paper
+	- [x] LS Paper
 
 - [x] Limit Switch - 100062366
 	- [ ] Normal paper - 100062366
