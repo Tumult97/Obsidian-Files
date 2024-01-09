@@ -37,6 +37,7 @@ Another note is that some of these tabs seem redundant as they have overlapping 
 ![[Pasted image 20240109124244.png]]
 
 See Above for changes:
+___
 <p style="color: red">
 > 11 Tab have been condensed to 5
 </p>
@@ -48,5 +49,8 @@ See Above for changes:
 </p>
 
 <p style="color: blue">
-> These section now houses a set of pre defined filter chips that will be used 
+> These section now houses a set of pre defined filter chips that will be used <br/>
+> These cover the tab that were removed that housed data like location and status
 </p>
+
+___
