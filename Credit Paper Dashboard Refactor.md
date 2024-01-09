@@ -34,3 +34,19 @@ Another note is that some of these tabs seem redundant as they have overlapping 
 > Time: High
 > Impact: High
 
+![[Pasted image 20240109124244.png]]
+
+See Above for changes:
+<p style="color: red">
+> 11 Tab have been condensed to 5
+</p>
+
+<p style="color: green">
+> Due to the removal of tab new ways of filtering need to be added <br/>
+> The collapsible section houses 3 filtered than can be used in various different ways to filter data<br/>
+> These can be preset and certain one can be hidden and removed for different entitlements
+</p>
+
+<p style="color: blue">
+> These section now houses a set of pre defined filter chips that will be used 
+</p>

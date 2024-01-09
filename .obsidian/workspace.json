@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e45668589058078",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230731120238.png"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -61,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firefox_SdUKQihji2",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,20 +187,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cb72a42cd32667c",
+  "active": "acbb2f39042627ae",
   "lastOpenFiles": [
+    "Images/Pasted image 20240109124244.png",
+    "Images/Pasted image 20230731120238.png",
+    "Images/Pasted image 20230918125020.png",
+    "Credit Paper Dashboard Refactor.md",
     "Images/Pasted Image 20230804125254_568.gif",
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted image 20230702172602.png",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230709164216.png",
-    "Images/Pasted image 20230918125020.png",
-    "Images/Pasted image 20230731120238.png",
     "Images/Untitled (1).png",
     "Images/firefox_D8L6nATfh0.png",
-    "Images/firefox_FqGaaHNltf.png",
-    "Credit Paper Dashboard Refactor.md",
     "Team Social Handover.md",
     "Work/Breakdown Points.md",
     "Untitled.md",
