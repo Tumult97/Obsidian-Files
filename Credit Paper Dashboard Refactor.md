@@ -10,4 +10,27 @@ The current Credit paper Dashboard is built using an Angular Material TabGroup. 
 
 See above. at first glance one cant easily find the newer tabs as they are off screen. SO the user has to find the tab and scroll around. 
 
-Another note is that 
+Another note is that some of these tabs seem redundant as they have overlapping data that is loaded for each tab. 
+
+## Proposal 1 - Vertical Tabs
+
+> Difficulty: Medium
+> Time: Medium
+> Impact: Low
+
+
+
+## Proposal 2 - Stacked tabs
+
+> Difficulty: Low
+> Time: Low
+> Impact: Medium
+
+
+
+## Proposal 3 - Refactor and Coalesce
+
+> Difficulty: High
+> Time: High
+> Impact: High
+

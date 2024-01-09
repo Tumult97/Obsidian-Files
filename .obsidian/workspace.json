@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refact",
+                "query": "firefox_SdUKQihji2",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acbb2f39042627ae",
+  "active": "9cb72a42cd32667c",
   "lastOpenFiles": [
     "Images/Pasted Image 20230804125254_568.gif",
     "Images/Pasted Image 20230804125914_256.png",
