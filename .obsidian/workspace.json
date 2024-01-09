@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c387e32a29aa79bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Breakdown Points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b70d867a1cee859e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Team Social Handover.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acbb2f39042627ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credit Paper Dashboard Refactor.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refact",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team Social Handover.md",
+                "file": "Credit Paper Dashboard Refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team Social Handover.md",
+                "file": "Credit Paper Dashboard Refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team Social Handover.md"
+                "file": "Credit Paper Dashboard Refactor.md"
               }
             }
           },
@@ -177,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70d867a1cee859e",
+  "active": "acbb2f39042627ae",
   "lastOpenFiles": [
-    "Work/Breakdown Points.md",
+    "Images/Pasted image 20240109123413.png",
     "Team Social Handover.md",
+    "Credit Paper Dashboard Refactor.md",
+    "Work/Breakdown Points.md",
     "Untitled.md",
     "Customer Lock.canvas",
     "Customer Lock.png",
@@ -213,10 +215,8 @@
     "Work/Feature Planning/ERAC Mandatory Users.md",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230702172602.png",
-    "Personal/Projects/Kitchen Redesign.md",
     "Work/Feature Planning/ERAC Users Canvas.canvas",
     "Work/Feature Planning/ERAC Users Canvas.png",
-    "Work/Feature Planning/Equity Risk Pending Committee Approval.md",
     "Work/Feature Planning",
     "Personal/Remote PC/Option 2",
     "Personal/Remote PC/Option 1",
