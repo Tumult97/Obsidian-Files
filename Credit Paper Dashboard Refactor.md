@@ -39,7 +39,7 @@ Another note is that some of these tabs seem redundant as they have overlapping 
 See Above for changes:
 ___
 <p style="color: red">
-> 11 Tab have been condensed to 5
+> 11 Tabs have been condensed to 5
 </p>
 
 <p style="color: green">
