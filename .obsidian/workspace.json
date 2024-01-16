@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "5389c0b55e111cfc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "1e45668589058078",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -187,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acbb2f39042627ae",
+  "active": "5389c0b55e111cfc",
   "lastOpenFiles": [
     "Images/Pasted image 20240109124244.png",
     "Images/Pasted image 20230731120238.png",
