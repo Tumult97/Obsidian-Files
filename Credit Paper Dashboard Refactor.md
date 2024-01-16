@@ -18,17 +18,11 @@ Another note is that some of these tabs seem redundant as they have overlapping 
 > Time: Medium
 > Impact: Low
 
+![[Pasted image 20240116100101.png]]
 
+The proposal here is to move the tabs to a vertical nature with a collapsing div for users so that they can get more real estate when needed. This allows for all current tabs to be seen but if we don't have them collapse it creates less space. 
 
-## Proposal 2 - Stacked tabs
-
-> Difficulty: Low
-> Time: Low
-> Impact: Medium
-
-
-
-## Proposal 3 - Refactor and Coalesce
+## Proposal 2 - Refactor and Coalesce
 
 > Difficulty: High
 > Time: High

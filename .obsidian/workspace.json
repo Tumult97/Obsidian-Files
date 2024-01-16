@@ -30,29 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5389c0b55e111cfc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "1e45668589058078",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230731120238.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,20 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5389c0b55e111cfc",
+  "active": "acbb2f39042627ae",
   "lastOpenFiles": [
-    "Images/Pasted image 20240109124244.png",
-    "Images/Pasted image 20230731120238.png",
-    "Images/Pasted image 20230918125020.png",
+    "Images/Pasted image 20240109123454.png",
     "Credit Paper Dashboard Refactor.md",
+    "Images/Pasted image 20230731120238.png",
+    "Images/Pasted image 20240116100101.png",
+    "Images/Pasted image 20240109124244.png",
+    "Images/Pasted image 20230918125020.png",
     "Images/Pasted Image 20230804125254_568.gif",
     "Images/Pasted Image 20230804125914_256.png",
     "Images/Pasted image 20230702172602.png",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted image 20230709163650.png",
     "Images/Pasted image 20230709164216.png",
-    "Images/Untitled (1).png",
-    "Images/firefox_D8L6nATfh0.png",
     "Team Social Handover.md",
     "Work/Breakdown Points.md",
     "Untitled.md",
