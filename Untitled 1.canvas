@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9367ac19a6a29391","x":320,"y":-100,"width":250,"height":60,"type":"text","text":"Questions"},
+		{"id":"2d5c1f7c660bb9bf","x":-40,"y":-100,"width":250,"height":60,"type":"text","text":"CDR type questions"},
+		{"id":"e56d0ef47e6a87f3","x":320,"y":80,"width":250,"height":50,"type":"text","text":"Sections"},
+		{"id":"0c63726ec7e54d5c","x":-40,"y":75,"width":250,"height":60,"type":"text","text":"CDR type sections"},
+		{"id":"91c8b868eb64fa48","x":-740,"y":-40,"width":250,"height":60,"type":"text","text":"Base Type"},
+		{"id":"c1752397cf06619b","x":-740,"y":-480,"width":250,"height":60,"type":"text","text":"CDR Paper Type"}
+	],
+	"edges":[
+		{"id":"031aa1977f284358","fromNode":"9367ac19a6a29391","fromSide":"left","toNode":"2d5c1f7c660bb9bf","toSide":"right"},
+		{"id":"c02a76d9fc63f443","fromNode":"e56d0ef47e6a87f3","fromSide":"left","toNode":"0c63726ec7e54d5c","toSide":"right"},
+		{"id":"2401bbd67fa58e06","fromNode":"2d5c1f7c660bb9bf","fromSide":"left","toNode":"91c8b868eb64fa48","toSide":"right"},
+		{"id":"88c4a84831a83e61","fromNode":"0c63726ec7e54d5c","fromSide":"left","toNode":"91c8b868eb64fa48","toSide":"right"},
+		{"id":"d5fa07fb110b3dfc","fromNode":"91c8b868eb64fa48","fromSide":"top","toNode":"c1752397cf06619b","toSide":"bottom"}
+	]
+}

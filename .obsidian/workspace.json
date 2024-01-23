@@ -23,11 +23,14 @@
             "id": "acbb2f39042627ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Credit Paper Dashboard Refactor.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 23.25,
+                  "y": -93,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit Paper Dashboard Refactor.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit Paper Dashboard Refactor.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit Paper Dashboard Refactor.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -181,8 +184,9 @@
   },
   "active": "acbb2f39042627ae",
   "lastOpenFiles": [
-    "Images/Pasted image 20240109123454.png",
     "Credit Paper Dashboard Refactor.md",
+    "Untitled 1.canvas",
+    "Images/Pasted image 20240109123454.png",
     "Images/Pasted image 20230731120238.png",
     "Images/Pasted image 20240116100101.png",
     "Images/Pasted image 20240109124244.png",
@@ -192,7 +196,6 @@
     "Images/Pasted image 20230702172602.png",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted image 20230709163650.png",
-    "Images/Pasted image 20230709164216.png",
     "Team Social Handover.md",
     "Work/Breakdown Points.md",
     "Untitled.md",
@@ -235,7 +238,6 @@
     "Work/Hackathon/Documentation",
     "Personal/Projects",
     "Woek",
-    "Personal",
-    "Violation Rules Mockup.canvas"
+    "Personal"
   ]
 }
