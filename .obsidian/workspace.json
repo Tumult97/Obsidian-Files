@@ -21,8 +21,12 @@
             "id": "4c29fafbcfa2a725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -172,6 +180,7 @@
   },
   "active": "4c29fafbcfa2a725",
   "lastOpenFiles": [
+    "Untitled.md",
     "tldraw/Tldraw 2024-01-29 8.34AM.md",
     "tldraw/Tldraw 2024-01-29 9.03AM.md",
     "CDR Paper Workflow Testing.md",
@@ -217,7 +226,6 @@
     "ERAC Return FOr ER papers.canvas",
     "Work/Feature Planning/ERAC Return FOr ER papers.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Equity Risk Committee Approval Testing.md",
     "Work/Feature Planning/ERAC Users Canvas.canvas",
     "Work/Feature Planning",
     "Personal/Remote PC/Option 2",
