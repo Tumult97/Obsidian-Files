@@ -16,8 +16,17 @@
                 "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
               }
             }
+          },
+          {
+            "id": "4c29fafbcfa2a725",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,15 +170,16 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f644f76154fb914e",
+  "active": "4c29fafbcfa2a725",
   "lastOpenFiles": [
-    "CDR Paper Workflow Testing.md",
     "tldraw/Tldraw 2024-01-29 8.34AM.md",
+    "tldraw/Tldraw 2024-01-29 9.03AM.md",
+    "CDR Paper Workflow Testing.md",
+    "Credit Paper Dashboard Refactor.md",
     "tldraw",
     "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "Credit Paper Dashboard Refactor.md",
     "Meeting Prep.canvas",
     "Team Social Handover.md",
     "Untitled 1.canvas",
@@ -212,7 +218,6 @@
     "Work/Feature Planning/ERAC Return FOr ER papers.md",
     "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
     "Equity Risk Committee Approval Testing.md",
-    "Personal/Wedding/Dog Sitters.md",
     "Work/Feature Planning/ERAC Users Canvas.canvas",
     "Work/Feature Planning",
     "Personal/Remote PC/Option 2",
