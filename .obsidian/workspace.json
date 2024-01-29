@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c837224955f7aea",
+        "id": "70940a5c6b2a042c",
         "type": "tabs",
         "children": [
           {
-            "id": "b70d867a1cee859e",
+            "id": "f644f76154fb914e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team Social Handover.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acbb2f39042627ae",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -592.7973048653737,
-                  "y": -153.1381781178482,
-                  "zoom": 0.6666666666666667
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -182,10 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acbb2f39042627ae",
+  "active": "93ac44af0f6d3461",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "CDR Paper Workflow Testing.md",
     "Credit Paper Dashboard Refactor.md",
+    "Meeting Prep.canvas",
+    "Team Social Handover.md",
     "Untitled 1.canvas",
+    "Prod Readiness Testing.md",
     "Images/Pasted image 20240109123454.png",
     "Images/Pasted image 20230731120238.png",
     "Images/Pasted image 20240116100101.png",
@@ -196,14 +179,9 @@
     "Images/Pasted image 20230702172602.png",
     "Images/Pasted Image 20230804130007_821.png",
     "Images/Pasted image 20230709163650.png",
-    "Team Social Handover.md",
     "Work/Breakdown Points.md",
-    "Untitled.md",
     "Customer Lock.canvas",
-    "Meeting Prep.canvas",
-    "Untitled.canvas",
     "Work/Run SQL Agent Script For Masking.md",
-    "Prod Readiness Testing.md",
     "Work/Work files/Work Files.md",
     "Work/CIB Risk CMT Release.md",
     "Work/Equity Risk Committee Approval.canvas",
