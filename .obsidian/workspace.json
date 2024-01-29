@@ -11,9 +11,9 @@
             "id": "f644f76154fb914e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "tldraw-view",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md"
+                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
+                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
+                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md"
+                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
               }
             }
           },
@@ -162,15 +162,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "tldraw:Create new tldrawing": false
     }
   },
   "active": "f644f76154fb914e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
-    "Excalidraw",
     "CDR Paper Workflow Testing.md",
+    "tldraw/Tldraw 2024-01-29 8.34AM.md",
+    "tldraw",
+    "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
     "Credit Paper Dashboard Refactor.md",
     "Meeting Prep.canvas",
     "Team Social Handover.md",
@@ -220,7 +222,6 @@
     "Work/Hackathon/Documentation/CDR Architecture.canvas",
     "Work/Hackathon/Expedited credit paper approval.canvas",
     "Work/Hackathon/Documentation",
-    "Personal/Projects",
-    "Woek"
+    "Personal/Projects"
   ]
 }
