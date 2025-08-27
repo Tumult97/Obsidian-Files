@@ -8,3 +8,7 @@ The schema generation is done on a [[Application Type]] and [[Aggregator Model T
 # The process
 
 The schema generation is called from an [[Experience Controller]]. 
+
+This then makes a call to the database and gets the template for the [[Application]] which includes the [[Application Inputs]].
+
+It then loops through all the inputs and calls the relevant [[Application in]]
