@@ -11,14 +11,10 @@
             "id": "57650a4fd673caa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Validators.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Validators"
+              "title": "New tab"
             }
           },
           {
@@ -27,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Craft City Validator.md",
+                "file": "Validators Needed/Craft City Validator.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +31,7 @@
               "title": "Craft City Validator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86633a022bda0ee9",
+  "active": "57650a4fd673caa9",
   "lastOpenFiles": [
-    "Validators.md",
-    "Craft City Validator.md",
+    "Validators Needed/Craft City Validator.md",
+    "Validators Needed/Validators.md",
     "Obsidian-Files/Grade 5 English.docx",
     "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
     "Obsidian-Files/tldraw",
