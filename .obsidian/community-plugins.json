@@ -1,16 +1,7 @@
 [
-  "obsidian-dynamic-toc",
-  "obsidian-languagetool-plugin",
-  "obsidian-mind-map",
-  "obsidian-enhancing-export",
-  "table-extended",
-  "obsidian-plugin-toc",
-  "obsidian-excel-to-markdown-table",
-  "markdown-table-editor",
-  "obsidian-dirtreeist",
-  "copy-document-as-html",
-  "obsidian-html-entity",
-  "obsidian-pandoc",
-  "obsidian-html-tags-autocomplete",
-  "tldraw"
+  "obsidian-dice-roller",
+  "better-word-count",
+  "obsidian-hover-editor",
+  "obsidian-icon-folder",
+  "obsidian-git"
 ]

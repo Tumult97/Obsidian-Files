@@ -1,8 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
-  "baseFontSize": 18,
-  "interfaceFontFamily": "",
-  "textFontFamily": "Victor Mono,FiraCode Nerd Font",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono,Victor Mono"
+  "accentColor": "#5cf5c7",
+  "cssTheme": "Fancy-a-Story",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

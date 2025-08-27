@@ -1,97 +1,115 @@
 {
   "main": {
-    "id": "62bee546a2c3f732",
+    "id": "39c1fa1e7448b428",
     "type": "split",
     "children": [
       {
-        "id": "eef3708c4354b7a6",
+        "id": "e21d3627478fafaa",
         "type": "tabs",
         "children": [
           {
-            "id": "96f052a1c7845a44",
+            "id": "57650a4fd673caa9",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
-              }
+                "file": "Validators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Validators"
+            }
+          },
+          {
+            "id": "86633a022bda0ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Craft City Validator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Craft City Validator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "43858edc9ba0461a",
+    "id": "9cbafe2009d784e1",
     "type": "split",
     "children": [
       {
-        "id": "f924c168c647e9f7",
+        "id": "e995d0312ad33351",
         "type": "tabs",
         "children": [
           {
-            "id": "93ac44af0f6d3461",
+            "id": "8132f9227ba6ac9d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "9cb72a42cd32667c",
+            "id": "8a534c75d20cd185",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "2dd150b9615812cc",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "fbbc5f351bb8c757",
+            "id": "72cf7bb0975b0c46",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300
   },
   "right": {
-    "id": "02089bfaa9693914",
+    "id": "9cb9a8efae5c8101",
     "type": "split",
     "children": [
       {
-        "id": "030d58242e1273cb",
+        "id": "2b7e5de7275d3fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d7a7fd712a42cb",
+            "id": "7abaf2d7e890d56d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,55 +117,64 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
-            "id": "3e1399596df35bd6",
+            "id": "08b9e845197509e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
-            "id": "91c1f37fc148a65a",
+            "id": "46366a2940472f5a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "681f22fb4c8f44c4",
+            "id": "31debeec3e673f92",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tldraw/Tldraw 2024-01-29 8.34AM.md"
-              }
+                "file": "Reviews.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reviews"
             }
           },
           {
-            "id": "0a3d0fa3c86ca4d5",
+            "id": "813fd3ac5ea4a0ce",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,72 +183,72 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "tldraw:Create new tldrawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "96f052a1c7845a44",
+  "active": "86633a022bda0ee9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "tldraw/Tldraw 2024-01-29 8.34AM.md",
-    "tldraw/Tldraw 2024-01-29 9.03AM.md",
-    "CDR Paper Workflow Testing.md",
-    "Credit Paper Dashboard Refactor.md",
-    "tldraw",
-    "Excalidraw/Drawing 2024-01-29 08.31.57.excalidraw.md",
-    "Untitled.canvas",
-    "Excalidraw",
-    "Meeting Prep.canvas",
-    "Team Social Handover.md",
-    "Untitled 1.canvas",
-    "Prod Readiness Testing.md",
-    "Images/Pasted image 20240109123454.png",
-    "Images/Pasted image 20230731120238.png",
-    "Images/Pasted image 20240116100101.png",
-    "Images/Pasted image 20240109124244.png",
-    "Images/Pasted image 20230918125020.png",
-    "Images/Pasted Image 20230804125254_568.gif",
-    "Images/Pasted Image 20230804125914_256.png",
-    "Images/Pasted image 20230702172602.png",
-    "Images/Pasted Image 20230804130007_821.png",
-    "Images/Pasted image 20230709163650.png",
-    "Work/Breakdown Points.md",
-    "Customer Lock.canvas",
-    "Work/Run SQL Agent Script For Masking.md",
-    "Work/Work files/Work Files.md",
-    "Work/CIB Risk CMT Release.md",
-    "Work/Equity Risk Committee Approval.canvas",
-    "Work/Ticket Template.md",
-    "Work/Master.md",
-    "Work/Reviews Feedback.md",
-    "Work/DCP dashboard tabs refactor.md",
-    "Work/Access Tokens.md",
-    "Work/Work files/Scripts/SQL Snippets.md",
-    "Personal/MHW SnS Builds.md",
-    "Personal/Projects/Lancer/Mechanics.md",
-    "Personal/Projects/Lancer",
-    "Lancer",
-    "Reviews Mind Dump.md",
-    "conflict-files-obsidian-git.md",
-    "Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
-    "ERAC MRs.md",
-    "ERAC Return FOr ER papers.canvas",
-    "Work/Feature Planning/ERAC Return FOr ER papers.md",
-    "Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Work/Feature Planning/ERAC Users Canvas.canvas",
-    "Work/Feature Planning",
-    "Personal/Remote PC/Option 2",
-    "Personal/Remote PC/Option 1",
-    "Personal/Remote PC",
-    "Submission Sheet modal refactor.canvas",
-    "Work/Hackathon/Documentation/CDR Architecture.canvas",
-    "Work/Hackathon/Expedited credit paper approval.canvas",
-    "Work/Hackathon/Documentation",
-    "Personal/Projects"
+    "Validators.md",
+    "Craft City Validator.md",
+    "Obsidian-Files/Grade 5 English.docx",
+    "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
+    "Obsidian-Files/tldraw",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Tristan Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Tim Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/JP Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Josh Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Janay Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Global Notes Across Team.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Gideon Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Dane Notes.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/2023  - Part 1.md",
+    "Obsidian-Files/Work/Work files/System docs/TM/Team management Roles.md",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100115.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523095632.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523095502.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523095105.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523094948.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523094536.png",
+    "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523093956.png",
+    "Obsidian-Files/Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
+    "Obsidian-Files/Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
+    "Obsidian-Files/Work/Work files/System docs/DCP/Bulk Approval Limit Switches.md",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 2",
+    "Obsidian-Files/Work/Review/Reviews/2023/Half 1",
+    "Obsidian-Files/Work/Review/Reviews/2022/2022 - Half 2.md",
+    "Obsidian-Files/Work/Review/Notes/Outtakes/Outtakes.md",
+    "Obsidian-Files/Work/Work files/System docs/TM",
+    "Obsidian-Files/Work/Work files/System docs/Images",
+    "Obsidian-Files/Work/Work files/System docs/DCP",
+    "Obsidian-Files/Work/Hackathon/Documentation/CDR Architecture.canvas",
+    "Obsidian-Files/Work/Review/Review Action steps.canvas",
+    "Obsidian-Files/Work/Review/Be Better Poster.canvas",
+    "Obsidian-Files/Work/Hackathon/Expedited credit paper approval.canvas",
+    "Obsidian-Files/Work/Feature Planning/ERAC Users Canvas.canvas",
+    "Obsidian-Files/Personal/Learning/Project Ideas/Reimbursment_App/Canvases/Idea.canvas",
+    "Obsidian-Files/Customer Lock.canvas",
+    "Untitled 1.canvas"
   ]
 }

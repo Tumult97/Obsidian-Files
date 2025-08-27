@@ -1,4 +1,0 @@
-- Not many seem keen on ritual activities
-- No Fines or fine sessions
-- Team building session son fridays become more lax i feel as if they help destress from a tough week for the team
-- 
