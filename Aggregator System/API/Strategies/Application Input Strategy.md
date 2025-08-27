@@ -27,3 +27,6 @@ This gets the value from the database
 ## PersistAsync
 
 This saves the value to the database by either creating or updating the value. 
+
+## PurgeAsync
+This deleted and clears the value.
