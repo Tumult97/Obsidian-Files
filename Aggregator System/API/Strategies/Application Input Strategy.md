@@ -18,4 +18,4 @@ The implementation has a set structure that the interfaces define. As well if lo
 
 ## IsApplicable
 
-This method is what defines and gets called when we need to get the relevent [[]]
+This method is what defines and gets called when we need to get the relevant strategy for the specific [[Application Input Type]]. 
