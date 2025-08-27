@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "75d21990d9aa32be",
+        "id": "b38f44a713fddacb",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0289e5da38a958",
+            "id": "a30d3f528f038b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/Strategies/Application Input Strategy.md",
+                "file": "Aggregator System/API/Strategies/Application Input Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Application Input Strategy"
             }
-          },
-          {
-            "id": "bb32e4e4671f22dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Validators Needed/Validators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Validators"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validators Needed/Validators.md",
+                "file": "Aggregator System/API/Strategies/Application Input Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Validators"
+              "title": "Backlinks for Application Input Strategy"
             }
           },
           {
@@ -192,34 +177,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8132f9227ba6ac9d",
+  "active": "a30d3f528f038b33",
   "lastOpenFiles": [
+    "Aggregator System/Experience API/Schema Generation.md",
+    "Aggregator System/API/Applications/Application Types/Ultimate Creditor Onboarding.md",
+    "Aggregator System/API/Applications/Application Inputs/Application Inputs.md",
+    "Aggregator System/API/Controllers/Experience Controller.md",
+    "Aggregator System/Definitions/Application Type.md",
+    "Aggregator System/API/Strategies/Application Input Strategy.md",
+    "Aggregator System/API/Applications/Application Types",
+    "Validators Needed/Validators.md",
+    "Aggregator System",
     "Validators Needed.zip",
     "Validators Needed/Craft/Craft Province Validator.md",
     "Validators Needed/Craft/Craft Industry Validator.md",
     "Validators Needed/Craft/Craft Country Validator.md",
     "Validators Needed/Craft/Craft Company Type.md",
     "Validators Needed/Craft/Craft City Validator.md",
-    "Definitions/Application Input Type.md",
-    "API/Strategies/Application Input Strategy.md",
-    "API/Strategies/Strategies.md",
-    "API/Applications/Application Inputs/Application Inputs.md",
-    "Experience API/Schema Generation.md",
-    "Definitions/Application Type.md",
-    "Definitions",
-    "API/Controllers",
-    "API/Applications",
-    "API/Applications/Application Inputs",
-    "API/Validation",
+    "Aggregator System/Definitions/Application Input Type.md",
+    "Aggregator System/API/Strategies/Strategies.md",
+    "Aggregator System/Definitions",
+    "Aggregator System/API/Controllers",
+    "Aggregator System/API/Applications",
+    "Aggregator System/API/Applications/Application Inputs",
+    "Aggregator System/API/Validation",
     "API/Untitled.md",
-    "API/Strategies",
-    "API",
-    "Experience API/Experience API.md",
-    "Experience API",
-    "Validators Needed/Validators.md",
+    "Aggregator System/API/Strategies",
+    "Aggregator System/API",
+    "Aggregator System/Experience API/Experience API.md",
     "Validators Needed/Others/Profile Access Path.md",
-    "Validators Needed/Others",
-    "Validators Needed/Craft",
     "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
@@ -229,7 +215,6 @@
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
