@@ -6,5 +6,5 @@
 ## Craft Data
 
 1. [[Craft City Validator]]
-2. [[^]]
+2. [[Craft Province Validator]]
 3. 
