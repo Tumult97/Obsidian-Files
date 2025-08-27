@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "86633a022bda0ee9",
+            "id": "060abcdca9bb3bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Validators Needed/Craft City Validator.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.12"
               },
-              "icon": "lucide-file",
-              "title": "Craft City Validator"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
@@ -93,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9cb9a8efae5c8101",
@@ -110,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,16 +170,15 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -193,11 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86633a022bda0ee9",
+  "active": "060abcdca9bb3bd1",
   "lastOpenFiles": [
+    "Validators Needed/Craft City Validator.md",
     "Validators Needed/Craft Province Validator.md",
     "Validators Needed/Validators.md",
-    "Validators Needed/Craft City Validator.md",
     "Obsidian-Files/Grade 5 English.docx",
     "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
     "Obsidian-Files/tldraw",
