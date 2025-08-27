@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Validators Needed/Validators.md",
+                "file": "Experience API/Schema Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validators"
-            }
-          },
-          {
-            "id": "defaed1470be9c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profile Access Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Profile Access Path"
+              "title": "Schema Generation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profile Access Path.md",
+                "file": "Experience API/Schema Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Profile Access Path"
+              "title": "Backlinks for Schema Generation"
             }
           },
           {
@@ -192,10 +177,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "defaed1470be9c00",
+  "active": "8132f9227ba6ac9d",
   "lastOpenFiles": [
-    "Profile Access Path.md",
+    "API/Controllers",
+    "API/Strategies/Strategies.md",
+    "API/Applications",
+    "API/Applications/Application Inputs",
+    "API/Validation",
+    "API/Untitled.md",
+    "API/Strategies",
+    "Experience API/Schema Generation.md",
+    "API",
+    "Experience API/Experience API.md",
+    "Experience API",
     "Validators Needed/Validators.md",
+    "Validators Needed/Others/Profile Access Path.md",
     "Validators Needed/Craft/Craft Province Validator.md",
     "Validators Needed/Others",
     "Validators Needed/Craft/Craft Company Type.md",
@@ -219,14 +215,6 @@
     "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Tim Notes.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/JP Notes.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Josh Notes.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Janay Notes.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Global Notes Across Team.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Gideon Notes.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Dane Notes.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/2023 - part 2.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/2023 - part 2.docx",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
@@ -239,9 +227,6 @@
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523093956.png",
     "Obsidian-Files/Work/Work files/System docs/DCP/Steps Data to Request Mapping.canvas",
     "Obsidian-Files/Work/Work files/System docs/DCP/Limit Switch Modal.canvas",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1",
-    "Obsidian-Files/Work/Work files/System docs/TM",
     "Obsidian-Files/Work/Hackathon/Documentation/CDR Architecture.canvas",
     "Obsidian-Files/Work/Review/Review Action steps.canvas",
     "Obsidian-Files/Work/Review/Be Better Poster.canvas",
