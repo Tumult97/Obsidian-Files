@@ -19,3 +19,11 @@ The implementation has a set structure that the interfaces define. As well if lo
 ## IsApplicable
 
 This method is what defines and gets called when we need to get the relevant strategy for the specific [[Application Input Type]]. 
+
+## FetchValueAsync
+
+This gets the value from the database
+
+## PersistAsync
+
+This saves the value to the database by either creating or updating the value. 
