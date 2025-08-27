@@ -13,4 +13,4 @@ This then makes a call to the database and gets the template for the [[Applicati
 
 It then loops through all the inputs and calls the relevant [[Application Input Strategy]] and calls the `GetJsonSchema` to build the relevant schema.
 
-The list of schemas are then returned to the 
+The list of schemas are then returned and are put into the schema for the full request and then returned to the [[Experience Controller]].
