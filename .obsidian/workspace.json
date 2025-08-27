@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Validators Needed/Craft/Craft Province Validator.md",
+                "file": "Validators Needed/Validators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Craft Province Validator"
+              "title": "Validators"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validators Needed/Craft/Craft Province Validator.md",
+                "file": "Validators Needed/Validators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Craft Province Validator"
+              "title": "Backlinks for Validators"
             }
           },
           {
@@ -192,8 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb32e4e4671f22dc",
+  "active": "8132f9227ba6ac9d",
   "lastOpenFiles": [
+    "Validators Needed.zip",
+    "Validators Needed/Craft/Craft Province Validator.md",
+    "Validators Needed/Craft/Craft Industry Validator.md",
+    "Validators Needed/Craft/Craft Country Validator.md",
+    "Validators Needed/Craft/Craft Company Type.md",
+    "Validators Needed/Craft/Craft City Validator.md",
     "Definitions/Application Input Type.md",
     "API/Strategies/Application Input Strategy.md",
     "API/Strategies/Strategies.md",
@@ -212,13 +218,8 @@
     "Experience API",
     "Validators Needed/Validators.md",
     "Validators Needed/Others/Profile Access Path.md",
-    "Validators Needed/Craft/Craft Province Validator.md",
     "Validators Needed/Others",
-    "Validators Needed/Craft/Craft Company Type.md",
     "Validators Needed/Craft",
-    "Validators Needed/Craft/Craft Industry Validator.md",
-    "Validators Needed/Craft/Craft Country Validator.md",
-    "Validators Needed/Craft/Craft City Validator.md",
     "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Wiehan van Niekerk.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Nicholas McMichael.md",
@@ -229,7 +230,6 @@
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Dane Balia.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Wiehan Notes.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 1/Notes/Tristan Notes.md",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
