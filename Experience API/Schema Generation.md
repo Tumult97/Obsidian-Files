@@ -11,4 +11,6 @@ The schema generation is called from an [[Experience Controller]].
 
 This then makes a call to the database and gets the template for the [[Application]] which includes the [[Application Inputs]].
 
-It then loops through all the inputs and calls the relevant [[Application Input Strategy]] and calls the `GetJsonSchema` to build the relevent schema 
+It then loops through all the inputs and calls the relevant [[Application Input Strategy]] and calls the `GetJsonSchema` to build the relevant schema.
+
+The list of schemas are then returned to the 
