@@ -1,1 +1,36 @@
-1. 
+
+| ID  | Name                                     |
+|-----|------------------------------------------|
+| 1   | EmailAndContactNumber                    |
+| 2   | TradingNameCompanyTypeAndIndustry        |
+| 3   | PhysicalAddress                          |
+| 4   | DomicileAddress                          |
+| 5   | Agreement                                |
+| 6   | Profile                                  |
+| 7   | UnpaidAndDisputesForCollection           |
+| 8   | Director                                 |
+| 9   | Declarations                             |
+| 10  | ProductOfferingCollections               |
+| 11  | OrganisationalStructure                  |
+| 12  | CollectionsEftMandate                    |
+| 13  | AdditionalDocuments                      |
+| 14  | PaymentVolumeAndLimit                    |
+| 15  | CreditLimitChange                        |
+| 16  | AdditionalProfileGeneralDetails          |
+| 17  | ProfileReportingPayments                 |
+| 18  | ProfileReportingCollections              |
+| 19  | ProfileReportingInterAccount             |
+| 20  | SoModelCollectionsEftMandate             |
+| 21  | ProfileAccountSelection                  |
+| 22  | AdditionalProfileUsers                   |
+| 23  | ProfileProductConfigurationsCollections  |
+| 24  | ProfileProductConfigurationsPayments     |
+| 25  | ProfileProductConfigurationsInterAccount |
+| 26  | ProfileSsvsProcessingOptions             |
+| 27  | ProfileAccessPath                        |
+| 28  | ProfileUcConsent                         |
+| 29  | ProfileBillingConfiguration              |
+| 30  | CustomerDetails                          |
+| 31  | HostSystemUserDetails                    |
+| 32  | AccountGroup                             |
+| 33  | ProfileAccountSelectionBolAr             |
