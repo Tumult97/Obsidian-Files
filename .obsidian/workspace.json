@@ -11,10 +11,14 @@
             "id": "57650a4fd673caa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Validators Needed/Validators.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Validators"
             }
           },
           {

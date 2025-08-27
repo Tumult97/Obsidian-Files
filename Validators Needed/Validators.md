@@ -5,6 +5,6 @@
 
 ## Craft Data
 
-1. Craft City 
+1. 
 2. Craft Company Type
 3. 
