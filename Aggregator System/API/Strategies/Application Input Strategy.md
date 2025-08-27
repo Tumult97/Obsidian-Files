@@ -16,3 +16,6 @@ The implementation has a set structure that the interfaces define. As well if lo
 
 # Methods
 
+## IsApplicable
+
+This method is what defines and gets called when we need to get the relevent [[]]
