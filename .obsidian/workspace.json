@@ -35,7 +35,8 @@
               "title": "Craft City Validator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57650a4fd673caa9",
+  "active": "86633a022bda0ee9",
   "lastOpenFiles": [
-    "Validators Needed/Craft City Validator.md",
     "Validators Needed/Validators.md",
+    "Validators Needed/Craft City Validator.md",
     "Obsidian-Files/Grade 5 English.docx",
     "Obsidian-Files/tldraw/Tldraw 2024-01-29 8.34AM.md",
     "Obsidian-Files/tldraw",
