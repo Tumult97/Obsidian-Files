@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ca99d4764ec951",
+        "id": "6db0bd78b56356fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c39aec7aa9e1395d",
+            "id": "9f0f18b14baf8dd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work Retros/ExperienceApiValidation/RetroDump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RetroDump"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c39aec7aa9e1395d",
+  "active": "9f0f18b14baf8dd7",
   "lastOpenFiles": [
-    "Work Retros/Untitled.md",
+    "Application.md",
     "Work Retros/ExperienceApiValidation/RetroDump.md",
+    "Work Retros/Untitled.md",
     "Work Retros/ExperienceApiValidation",
     "Work Retros",
     "Work Planning",
@@ -214,7 +211,6 @@
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Liam Carver.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",

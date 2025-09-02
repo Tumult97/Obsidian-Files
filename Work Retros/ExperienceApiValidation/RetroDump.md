@@ -8,6 +8,7 @@
 - Do plans earlier
 - Tracked validators: didn't know how they worked or the reason for them
 - Left testing code in without removing
+- Left unwanted project file changes and didnt check what caused them
 
 # Lessons
 - Learned about Moq `.As()` it helped with the strategy casting definitions
@@ -16,3 +17,4 @@ strategyMock.As<IApplicationInputStrategy>().Setup(x => ...
 strategyMock.As<IExperienceApplicationInputStrategy>().Setup(x => ...
 ```
 
+- 
