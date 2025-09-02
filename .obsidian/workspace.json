@@ -11,10 +11,14 @@
             "id": "c39aec7aa9e1395d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work Retros/ExperienceApiValidation/RetroDump.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RetroDump"
             }
           }
         ]
@@ -173,8 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8132f9227ba6ac9d",
+  "active": "c39aec7aa9e1395d",
   "lastOpenFiles": [
+    "Work Retros/Untitled.md",
+    "Work Retros/ExperienceApiValidation/RetroDump.md",
+    "Work Retros/ExperienceApiValidation",
     "Work Retros",
     "Work Planning",
     "System",
@@ -198,8 +205,6 @@
     "System/Aggregator System/Definitions",
     "System/Aggregator System/API/Controllers",
     "System/Aggregator System/API/Applications",
-    "System/Aggregator System/API/Applications/Application Inputs",
-    "System/Aggregator System/API/Validation",
     "API/Untitled.md",
     "System/Aggregator System/Experience API/Experience API.md",
     "System/Validators Needed/Others/Profile Access Path.md",
@@ -210,7 +215,6 @@
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Lauren Christopher.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/JP Rousell.md",
     "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Janay Sander.md",
-    "Obsidian-Files/Work/Review/Reviews/2023/Half 2/Official Reviews/Joel Kapuku.md",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
