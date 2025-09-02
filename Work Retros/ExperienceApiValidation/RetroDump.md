@@ -6,6 +6,7 @@
 
 # Do Better
 - Do plans earlier
-- Tracked validators: didnt know how they worked or t
+- Tracked validators: didnt know how they worked or the reason for them
+- 
 
 # Lessons
