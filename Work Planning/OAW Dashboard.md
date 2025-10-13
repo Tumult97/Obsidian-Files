@@ -18,6 +18,7 @@
 - Add debounce on search filed to prevent too many request being made on key press
 - clear filter needs to clear the top filter selection. 
 - of top filter is changed then reset pagination to prevent confusion
+- [[Filter request cancellation]]
 
 ## Needs doing(Not obvious)
 - need due date and all relevant data for task display
