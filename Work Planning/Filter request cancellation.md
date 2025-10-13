@@ -22,3 +22,5 @@ public async Task<IActionResult> GetData(CancellationToken cancellationToken)
     }
 }
 ```
+
+possibly return Http 499(client cancelled request)
