@@ -26,14 +26,21 @@
 
 ## Questions
 - Does the left state depend on the top filter?
+	- NO
+- What are the squares
+	- Ignore them and remove them
+
+## Components Needed
+1. ![[Pasted image 20251013123255.png]] LIST ITEM
+2. ![[Pasted image 20251013123316.png]] Paginator
+3. ![[Pasted image 20251014064243.png]]
+   status chip 
 
 ## Tasks
 
 1. Create View and routing
 2. Add endpoints to fetch data
 3. Generate components
-	1. ![[Pasted image 20251013123255.png]] LIST ITEM
-	2. ![[Pasted image 20251013123316.png]] Paginator
 4. Create central form to handle state
 5. controllers
 6. service
