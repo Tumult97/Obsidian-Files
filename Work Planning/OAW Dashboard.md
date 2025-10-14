@@ -34,7 +34,8 @@
 1. ![[Pasted image 20251013123255.png]] LIST ITEM
 2. ![[Pasted image 20251013123316.png]] Paginator
 3. ![[Pasted image 20251014064243.png]]
-   status chip 
+   status chip - Generic and common
+   leading and training 
 
 ## Tasks
 
