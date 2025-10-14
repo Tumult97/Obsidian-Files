@@ -22,7 +22,8 @@
 
 ## Needs doing(Not obvious)
 - need due date and all relevant data for task display
-
+- need application type
+- Need application specific data(names, uc, step name)
 
 ## Questions
 - Does the left state depend on the top filter?
@@ -46,4 +47,14 @@
 5. controllers
 6. service
 7. load
- 
+
+## Icons Needed
+- Clear filter
+- Chat bubble
+- Node link
+- right chevron arrow
+- left chevron arrow
+- check circle
+- overdue circle arrow
+- warning triangle
+- calendar with clock due
