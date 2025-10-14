@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggregator System/Experience API/Schema Generation.md",
+                "file": "Work Planning/OAW Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schema Generation"
+              "title": "Backlinks for OAW Dashboard"
             }
           },
           {
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3286fb3f7a4eed91",
+  "active": "7abaf2d7e890d56d",
   "lastOpenFiles": [
+    "Work Planning/OAW Dashboard.md",
+    "Images/Pasted image 20251014064243.png",
+    "Images/Pasted image 20251013122106.png",
     "Work Planning/Filter request cancellation.md",
     "Work Planning/Filters.md",
-    "Images/Pasted image 20251014064243.png",
-    "Work Planning/OAW Dashboard.md",
     "Images",
-    "Images/Pasted image 20251013122106.png",
     "Images/Pasted image 20251013123316.png",
     "Images/Pasted image 20251013123255.png",
     "Application.md",
