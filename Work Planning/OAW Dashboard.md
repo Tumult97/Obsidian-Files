@@ -35,5 +35,7 @@
 	1. ![[Pasted image 20251013123255.png]] LIST ITEM
 	2. ![[Pasted image 20251013123316.png]] Paginator
 4. Create central form to handle state
-5. 
+5. controllers
+6. service
+7. load
  
