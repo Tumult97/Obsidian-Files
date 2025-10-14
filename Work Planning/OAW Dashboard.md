@@ -1,4 +1,3 @@
-
 ![[Pasted image 20251013122106.png]]
 
 ## Task View (Left Panel)
