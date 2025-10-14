@@ -13,46 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Planning/OAW Dashboard.md",
+                "file": "Work Planning/Filter request cancellation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAW Dashboard"
+              "title": "Filter request cancellation"
             }
           }
         ]
-      },
-      {
-        "id": "7e229574a876dd94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd60494ea9aef5a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20251013122106.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251013122106"
-            }
-          },
-          {
-            "id": "0225810c6e324675",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20251014064243.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251014064243"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Planning/OAW Dashboard.md",
+                "file": "Work Planning/Filter request cancellation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OAW Dashboard"
+              "title": "Backlinks for Filter request cancellation"
             }
           },
           {
@@ -144,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Work Planning/Filter request cancellation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Filter request cancellation"
             }
           },
           {
@@ -173,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviews.md"
+                "file": "Work Planning/Filter request cancellation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reviews"
+              "title": "Outline of Filter request cancellation"
             }
           },
           {
@@ -193,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 694.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,12 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7abaf2d7e890d56d",
+  "active": "3286fb3f7a4eed91",
   "lastOpenFiles": [
     "Work Planning/OAW Dashboard.md",
+    "Work Planning/Filter request cancellation.md",
     "Images/Pasted image 20251014064243.png",
     "Images/Pasted image 20251013122106.png",
-    "Work Planning/Filter request cancellation.md",
     "Work Planning/Filters.md",
     "Images",
     "Images/Pasted image 20251013123316.png",
