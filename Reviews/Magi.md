@@ -13,5 +13,7 @@ Which brings me to your attention to detail. Not just in your coding but also in
 
 One last thing i can add is a problem i fully understand and how its hard to overcome. Sometimes i feel like your mind is running so fast around that you find is difficult to articulate the point you are trying to make. I think you know this as well. You do try catch yourself and try a different approach of explaining. You could try a fidget toy while trying to explain things. I find it helps. its adds a little more processing in your brain and forces your to slow down a little.
 
-Any item above that i said 'not sure to is because either I didn't see the contrary first (like dealing with the customer) or something where i know you do it but i think you are slowly improving. I know you upskill especially while doing tickets like with ELSA.
+Any item above that i said 'not sure' to is because either I didn't see the contrary first (like dealing with the customer) or something where i know you do it but i think you are slowly improving. I know you upskill especially while doing tickets like with ELSA.
+
+We have many more months with BAW and i cannot wait 
 
