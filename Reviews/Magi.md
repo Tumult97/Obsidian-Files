@@ -15,5 +15,5 @@ One last thing i can add is a problem i fully understand and how its hard to ove
 
 Any item above that i said 'not sure' to is because either I didn't see the contrary first (like dealing with the customer) or something where i know you do it but i think you are slowly improving. I know you upskill especially while doing tickets like with ELSA.
 
-We have many more months with BAW and I expect you to pester me, make lots of work for me and have many big discussions on my work and PRs coming through. Its a lekker difficult project and i think its going to do wonders for you 
+We have many more months with BAW and I expect you to pester me, make lots of work for me and have many big discussions on my work and PRs coming through. Its a lekker difficult project and i think its going to do wonders for you  learning how to mentor. 
 
