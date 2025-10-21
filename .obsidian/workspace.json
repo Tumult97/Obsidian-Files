@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "8cf90d4078c0d4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviews/Magi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magi"
-            }
-          },
-          {
             "id": "e858b0103196689d",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +223,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cf90d4078c0d4da",
+  "active": "015b1e02b3cd6819",
   "lastOpenFiles": [
-    "Application.md",
     "Reviews/Magi.md",
+    "Application.md",
     "Reviews/Jason.md",
     "Reviews/Pfunzo.md",
     "Reviews",
