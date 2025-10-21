@@ -10,3 +10,5 @@ Many times you are more than happy to walk me through a problem even without a s
 The only think I would possibly say is that I know in this project we have a lot of freedom and such to do out work but I feel that sometimes you can get lost in how to do something either objectively or subjectively correct and can introduce a little creep in the implementation. But when I brought up that we cant spend too much time you did agree. Just something to keep in mind. But still don't be afraid to pester me in PRs and make me do a lot of work. Its one of your best qualities. 
 
 Which brings me to your attention to detail. Not just in your coding but also in your testing and your way of mentoring and I'm sure dealing with others. I'm not too used to it yet but you have a way of seeing things in great details that I am envious of. I know it takes me a bit of chatting to see the whole picture that yo are trying to say but still. I feel like some of it is rubbing off on me and I hope you can guide me to do great things. 
+
+Any item above that i said not sure to is because either i didnt see the contrat first hand
