@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,14 +223,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "015b1e02b3cd6819",
+  "active": "e858b0103196689d",
   "lastOpenFiles": [
+    "Reviews/Kerneels.md",
     "Reviews/Magi.md",
     "Application.md",
     "Reviews/Jason.md",
     "Reviews/Pfunzo.md",
     "Reviews",
-    "Reviews/Kerneels.md",
     "Reviews/John.md",
     "Work Planning/Filter request cancellation.md",
     "Work Planning/OAW Dashboard.md",
