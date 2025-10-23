@@ -49,8 +49,7 @@
               "title": "Kerneels"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "015b1e02b3cd6819",
+  "active": "13eb2b7a1d942e6b",
   "lastOpenFiles": [
+    "Reviews/Kerneels.md",
     "Reviews/Magi.md",
     "Reviews/Pfunzo.md",
-    "Reviews/Kerneels.md",
     "Application.md",
     "Reviews/Jason.md",
     "Reviews",
