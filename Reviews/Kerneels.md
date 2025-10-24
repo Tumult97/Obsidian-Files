@@ -6,4 +6,7 @@ Over the past months you have made huge leaps in mentorship. I've noticed you do
 
 As well you have been able to both balance your work and your admin being a project lead very well. Despite being in constant meeting you still manage to be a leader to our team. Where you find the time I would love to know. 
 
+Sometimes i think you struggle to find a balance between mentoring the way that works for you and the way that works for the person you are mentoring. This will come in strength with more time and practice. keep that up. 
+
+Going forward i want to see you grow more in your leadership. Honing your own style. 
 
