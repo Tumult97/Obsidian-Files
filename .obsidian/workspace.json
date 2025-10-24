@@ -35,7 +35,8 @@
               "title": "Kerneels"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dc93396ae416b96",
+  "active": "015b1e02b3cd6819",
   "lastOpenFiles": [
+    "Reviews/John.md",
     "Reviews/Jason.md",
     "Reviews/Kerneels.md",
     "Reviews/Magi.md",
     "Reviews/Pfunzo.md",
     "Application.md",
     "Reviews",
-    "Reviews/John.md",
     "Work Planning/Filter request cancellation.md",
     "Work Planning/OAW Dashboard.md",
     "Images/Pasted image 20251014064243.png",
