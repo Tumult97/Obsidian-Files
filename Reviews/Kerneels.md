@@ -8,7 +8,7 @@ As well you have been able to both balance your work and your admin being a proj
 
 Sometimes I think you struggle to find a balance between mentoring the way that works for you and the way that works for the person you are mentoring. This will come in strength with more time and practice. keep that up.
 
+Another area that you are getting better with is managing the work you take on. You have started more and more taking on a reasonable amount of work and i didn't notice a single time during the past few months where you had work that stagnated and sat on your board for a while. well done. That management will help you time manage and eventually lead to a good work balance. 
 
-
-Going forward i want to see you grow more in your leadership. Honing your own style. Keep it up my man, you have bright things ahead. 
+Going forward i want to see you grow more in your leadership. Honing your own style. Keep it up my man, you have bright things ahead. The next words i think that should be on your radar for growth is probably balance and consistancy. Keep this path you are on consistant and balnce your self and us as a team. Well done on the progress man. You are doing very well. 
 
