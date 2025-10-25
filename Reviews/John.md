@@ -1,3 +1,5 @@
 You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and dam for the team. You do well to translate what the client wants and needs in the system into well defined tasks that us a developers use to build the product. Keep up that professionalism and charisma. 
 
-On upskilling im not too sure what extra you do to try upskill and better yourself. I know you hone your craft everyday but its always a good idea t keep up with modern techniques and skills. Even researching and reading up on new stuff could help. Even learning new tech thats coming now for us devs can give you a perspective on what we do and how we could implement new featurs coming out. 
+On upskilling im not too sure what extra you do to try upskill and better yourself. I know you hone your craft everyday but its always a good idea t keep up with modern techniques and skills. Even researching and reading up on new stuff could help. Even learning new tech thats coming now for us devs can give you a perspective on what we do and how we could implement new features coming out.
+
+I would like to see you ask for feedback on your tickets a little more xplicitly. 
