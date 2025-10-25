@@ -1,1 +1,1 @@
-You are still the face of the team. from what i hear you are the charismatic, professional 
+You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and 
