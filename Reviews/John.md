@@ -1,1 +1,1 @@
-You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and 
+You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and dam for the team. You do well to translate what the client want
