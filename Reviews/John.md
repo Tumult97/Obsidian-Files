@@ -1,1 +1,3 @@
-You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and dam for the team. You do well to translate what the client wants and needs in the system into well defined tasks that us a developers use to build the product. 
+You are still the face of the team. From what I hear you are the charismatic, professional and well formed face, wall and dam for the team. You do well to translate what the client wants and needs in the system into well defined tasks that us a developers use to build the product. Keep up that professionalism and charisma. 
+
+On upskilling im not too sure what extra you do to try upskill and better yourself. I know you 
