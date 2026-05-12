@@ -11,14 +11,17 @@
             "id": "3dc93396ae416b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "Craft Mock/Craft Mock Canvas.canvas",
+                "viewState": {
+                  "x": -980,
+                  "y": -920,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-layout-dashboard",
+              "title": "Craft Mock Canvas"
             }
           }
         ]
@@ -182,6 +185,10 @@
   },
   "active": "3dc93396ae416b96",
   "lastOpenFiles": [
+    "Craft Mock/Craft Mock.md",
+    "Untitled.md",
+    "Craft Mock",
+    "Craft Mock/Craft Mock Canvas.canvas",
     "test.md",
     "Reviews/John.md",
     "Reviews/Summary.md",
@@ -218,10 +225,6 @@
     "Validators Needed.zip",
     "System/Validators Needed/Craft/Craft Province Validator.md",
     "System/Validators Needed/Craft/Craft Industry Validator.md",
-    "System/Validators Needed/Craft/Craft Country Validator.md",
-    "System/Validators Needed/Craft/Craft Company Type.md",
-    "System/Validators Needed/Craft/Craft City Validator.md",
-    "System/Aggregator System/Definitions",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523133942.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523113222.png",
     "Obsidian-Files/Work/Work files/System docs/Images/Pasted image 20230523100938.png",
@@ -236,7 +239,6 @@
     "Obsidian-Files/Work/Hackathon/Expedited credit paper approval.canvas",
     "Obsidian-Files/Work/Feature Planning/ERAC Users Canvas.canvas",
     "Obsidian-Files/Personal/Learning/Project Ideas/Reimbursment_App/Canvases/Idea.canvas",
-    "Obsidian-Files/Customer Lock.canvas",
-    "Untitled 1.canvas"
+    "Obsidian-Files/Customer Lock.canvas"
   ]
 }

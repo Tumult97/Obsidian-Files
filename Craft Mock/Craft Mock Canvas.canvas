@@ -1,0 +1,153 @@
+{
+	"nodes":[
+		{"id":"b98a11c0de28ff8e","type":"group","x":-1480,"y":-800,"width":1000,"height":380,"label":"Database"},
+		{"id":"61f786a8146f79ff","type":"group","x":-1000,"y":-1420,"width":520,"height":480,"label":"System Core Parts"},
+		{"id":"1105e2b6f6aac058","type":"group","x":-960,"y":-720,"width":440,"height":260,"color":"3","label":"Participant Data"},
+		{"id":"e451db600a0472e6","type":"group","x":-1440,"y":-720,"width":440,"height":240,"color":"1","label":"Assessment Data"},
+		{
+			"id":"b61c8d33fceacf1e",
+			"type":"text",
+			"text":"## Assessment\n- Keep track of status\n- Keep track of sponsorship status",
+			"styleAttributes":{},
+			"x":-1420,
+			"y":-700,
+			"width":400,
+			"height":120
+		},
+		{
+			"id":"088b0ba1b421cd20",
+			"type":"text",
+			"text":"## Participant",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-700,
+			"width":400,
+			"height":60
+		},
+		{
+			"id":"2f79e781fbabd7b5",
+			"type":"text",
+			"text":"## Address",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-620,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"6cc3a9a978dda0c6",
+			"type":"text",
+			"text":"## Company",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"52b9eb6aed2295f0",
+			"type":"text",
+			"text":"# People",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-620,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"27ab4433e2399482",
+			"type":"text",
+			"text":"## Bank",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-540,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"ae47c7a688797c87",
+			"type":"text",
+			"text":"## Services",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":-560,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"3f6e6231204668d4",
+			"type":"text",
+			"text":"## Controller to Update status \n- to test different statuses\n- Can test many options in quick succession",
+			"styleAttributes":{},
+			"x":-980,
+			"y":-1300,
+			"width":240,
+			"height":220
+		},
+		{
+			"id":"e365f9699ab07620",
+			"type":"text",
+			"text":"## Background service to update assessment ",
+			"styleAttributes":{},
+			"x":-980,
+			"y":-1400,
+			"width":480,
+			"height":80
+		},
+		{
+			"id":"0db234508a90a76d",
+			"type":"text",
+			"text":"# Customizable Installer\n- Installer with environment variable to customize behavior\n- Needs to override refit client\n- Can use refit client as interface for service",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-1300,
+			"width":220,
+			"height":340
+		},
+		{
+			"id":"b34e7a717177931f",
+			"type":"text",
+			"text":"Needs to be a drop in replacement",
+			"styleAttributes":{},
+			"x":-980,
+			"y":-1060,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"4b9cdc72130defe0",
+			"type":"text",
+			"text":"## ABSN",
+			"styleAttributes":{},
+			"x":-1420,
+			"y":-560,
+			"width":180,
+			"height":60
+		},
+		{"id":"7084e22000d391aa","type":"file","file":"Craft Mock/Craft Mock.md","x":-1480,"y":-1400,"width":380,"height":400}
+	],
+	"edges":[
+		{
+			"id":"da8a254a14cbadd2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"61f786a8146f79ff",
+			"fromSide":"bottom",
+			"toNode":"b98a11c0de28ff8e",
+			"toSide":"top"
+		},
+		{
+			"id":"6d98ec8792c7b180",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7084e22000d391aa",
+			"fromSide":"right",
+			"toNode":"61f786a8146f79ff",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
