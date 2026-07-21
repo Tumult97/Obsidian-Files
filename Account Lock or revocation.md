@@ -38,8 +38,10 @@ We need to make a remedy incident to reinstate your ad account. That is the root
 
 If your remedy request is not moving then try escalate it to teh best of your ability to get it moving
 
-# 3. Office 365 license
+## 3. Office 365 license
 
 You may need to then contact helpdesk or create a remedy incident to re-enable and assign a office 365 license back to your account to access stuff like teams. 
 
-# 4. 
+## 4. Atlassian Toolset
+
+You may need to then contact helpdesk or create a remedy incident to re-enable and assign the atlassian toolset back to your account to access stuff liek JIRA and confluen
