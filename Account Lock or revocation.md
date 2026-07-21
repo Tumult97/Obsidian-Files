@@ -44,4 +44,8 @@ You may need to then contact helpdesk or create a remedy incident to re-enable a
 
 ## 4. Atlassian Toolset
 
-You may need to then contact helpdesk or create a remedy incident to re-enable and assign the atlassian toolset back to your account to access stuff liek JIRA and confluen
+You may need to then contact helpdesk or create a remedy incident to re-enable and assign the atlassian toolset back to your account to access stuff like JIRA and confluence. 
+
+## 5. Devops
+
+You may need to then contact helpdesk or create a remedy incident to re-enable and assign the devops permission to access stu
