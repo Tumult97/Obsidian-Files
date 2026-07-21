@@ -34,6 +34,10 @@ We need to make a remedy incident to reinstate your ad account. That is the root
 | Incident Type   | User Service Request                                |
 | Reported Source | Not too sure if it Matters can just put Phone       |
 
-# 2. Esccalate if needed
+# 2. Escalate if needed
 
-If your remedy request is not moving then try escalate it to teh best of your ability to get it movi
+If your remedy request is not moving then try escalate it to teh best of your ability to get it moving
+
+# 3. Office 365 license
+
+You may need to then contact helpdesk or create a remedy incident to re-enable and 
