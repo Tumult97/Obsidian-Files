@@ -36,4 +36,4 @@ We need to make a remedy incident to reinstate your ad account. That is the root
 
 # 2. Esccalate if needed
 
-If your remedy request 
+If your remedy request is not moving then try escalate it to teh best of your ability to get it movi
