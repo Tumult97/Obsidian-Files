@@ -16,4 +16,21 @@ Contacting help desk can help but they will follow a very similar path to what w
 
 ## 1. Create a remedy request re-enable your Microsoft active directory account(Your SBG account you use to login)
 
-We need to make a remedy incident to reinstate your ad account. That is the root cause of the issue here. 
+We need to make a remedy incident to reinstate your ad account. That is the root cause of the issue here. The details are as follows:
+
+| Field           | Value                                               |
+| :-------------- | :-------------------------------------------------- |
+| Company         | Standard Bank of South Africa (Pty) Limited         |
+| Customer        | (Person affected)                                   |
+| Contact         | Whoever can be contacted or is helping              |
+| Notes           | (YOUR_EMAIL) is disabled                            |
+| Template        | Enterprise Password Vault (EPV)- Unable to access   |
+| Summary         | Location & Department - Accounts - Unable to access |
+| Service         | Security Services South Africa                      |
+| CI              | MyAccess - Sailpoint                                |
+| Impact          | 4-Minor/Localized                                   |
+| Urgency         | 4-Low                                               |
+| Priority        | Low                                                 |
+| Incident Type   | User Service Request                                |
+| Reported Source | Not too sure if it Matters can just put Phone       |
+
