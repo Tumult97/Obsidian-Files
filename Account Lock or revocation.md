@@ -34,3 +34,6 @@ We need to make a remedy incident to reinstate your ad account. That is the root
 | Incident Type   | User Service Request                                |
 | Reported Source | Not too sure if it Matters can just put Phone       |
 
+# 2. Esccalate if needed
+
+If your remedy request 
